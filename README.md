@@ -8,5 +8,7 @@
   
   This is a half-finished source code.
 
-## MADE BY THIRTEENICE2973(HOBOXZ)
-## MAKE 2973 GREAT AGAIN!!! Wuu~Hoo!
+## WDNMD! MADE BY THIRTEENICE2973(HOBOXZ)
+## MAKE 2973 GREAT AGAIN!!! 
+
+##文案！！！
