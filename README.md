@@ -1,4 +1,4 @@
-# [[TEMPORARY] The Three-Musketeers E-sports Team Official Website 2.0728.1 (28th July 2022) Made by HoBoxz](https://hoboxz.github.io/Three-Musketeers/index.html)
+# [[TEMPORARY] The Three-Musketeers E-sports Team Official Website 2.0728.1 (28th July 2022)](https://hoboxz.github.io/Three-Musketeers/index.html)
 ![image](img/blog/inner_b1.jpg)
 ## Technical Support：ThirteenIce2973(HoBoxz) 
 ## Copywriter: Tian Liao
