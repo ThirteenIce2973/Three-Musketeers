@@ -1,6 +1,6 @@
 # [[ OFFICIAL ] The Three-Musketeers E-sports Team Website 2.0808.1 (8th Aug 2022) Made by HoBoxz](https://tm-esteam.cnfreenet.com)
 ![image](img/blog/inner_b1.jpg)
-# QQ Group: 972475708
+# Our QQ Group: 972475708
 # E-mail: tm-esteam@outlook.com
 
 ## Technical Support：ThirteenIce2973 (HoBoxz) 
@@ -8,7 +8,7 @@
 ## Images Courtesy: Ming Yu
 ## Suggested for Us: LASK
 
-  ★[This Website was proposed, built, and supported by team member THIRTEENICE2973 (HOBOXZ) on 14 July, 2022. The latter has original manuscripts written by TIAN LIAO and F1XER.]
+  ★ [This Website was proposed, built, and supported by team member THIRTEENICE2973 (HOBOXZ) on 14 July, 2022. The latter has original manuscripts written by TIAN LIAO and F1XER.]
 
   Abbreviation:「PROJECT 0714」
 
