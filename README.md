@@ -8,7 +8,9 @@
 ## Images Courtesy: Ming Yu
 ## Suggested for Us: LASK
 
-  This website was created on 14 July 2022 UTC+8 and is maintained by ThirteenIce2973(HoBoxz).
+  ★[This Website was proposed, built, and supported by team member THIRTEENICE2973 (HOBOXZ) on 14 July, 2022. The latter has original manuscripts written by TIAN LIAO and F1XER.]
+
+  Abbreviation:「PROJECT 0714」
 
   Here is the source code of this Website.
 
