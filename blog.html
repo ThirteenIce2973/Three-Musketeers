@@ -82,8 +82,8 @@
          <!-- offcanvas-area -->
                 <div class="offcanvas-menu">
                 <span class="menu-close"><i class="fas fa-times"></i></span>
-              <form role="search" method="get" id="searchform"   class="searchform" action="https://www.bing.com/search?q=">
-                                <input type="text" name="s" id="search" value="" placeholder="Search"  />
+              <form role="search" method="get" id="searchform"   class="searchform" action="https://www.bing.com/search">
+                                <input type="text" name="s" id="search-input" name="q" value="" placeholder="Search"  />
                                 <button><i class="fa fa-search"></i></button>
                             </form>
 
@@ -247,10 +247,10 @@
                            <aside class="sidebar-widget">
                               <section id="search-3" class="widget widget_search">
                                  <h2 class="widget-title">在BING上搜索</h2>
-                                 <form role="search" method="get" class="search-form" action="https://www.bing.com/search?q=">
+                                 <form role="search" method="get" class="search-form" action="https://www.bing.com/search">
                                     <label>
                                     <span class="screen-reader-text">Search for:</span>
-                                    <input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+                                    <input type="search" id="search-input" name="q" class="search-field" placeholder="Search &hellip;" value="" />
                                     </label>
                                     <input type="submit" class="search-submit" value="搜索" />
                                  </form>
@@ -317,42 +317,125 @@
             <!-- inner-blog-end -->         
         </main>
         <!-- main-area-end -->
-       <!-- Footer-->
-        <footer class="border-top">
-            <div class="container px-4 px-lg-5">
-                <div class="row gx-4 gx-lg-5 justify-content-center">
-                    <div class="col-md-10 col-lg-8 col-xl-7">
-                        <ul class="list-inline text-center">
-                            <li class="list-inline-item">
-                                <a href="https://s.team/chat/mMqvzrrv">
-                                    <img src="img/Steam.png" alt="img" title="Steam">
-									
-                                    </span>
-                                </a>
-                            </li>
-                            <li class="list-inline-item">
-                                <a href="https://jq.qq.com/?_wv=1027&k=FEgmVLi3">
-                                    <img src="img/QQ.png" alt="img" title="QQ">
-                                    </span>
-                                </a>
-                            </li>
-                            <li class="list-inline-item">
-                                <a href="https://www.kookapp.cn/app/invite/0kHaQ5">
-                                   <img src="img/kook.png" alt="img" title="KOOK">
-                                    </span>
-                                </a>
-                            </li>
-                        </ul>
-						<div class="small text-center text-muted fst-italic">本站由队员 ThirteenIce2973(HoBoxz) 实际建设并维护</div>
-						<div class="small text-center text-muted fst-italic">VERSION: 2.0808.1</div>
-						<div class="small text-center text-muted fst-italic">©  Three-Musketeers  2021-2022</div>
-                    </div>
-                </div>
-            </div>
-        </footer>
+      <!-- footer -->
+      <footer class="footer-bg footer-p" style="background: #1e191f;">
+        <div class="footer-top pt-70">
+           <div class="container">
+               <div class="row justify-content-between">
+                   
+                     <div class="col-xl-4 col-lg-4 col-sm-6">
+                       <div class="footer-widget mb-30">
+                           <div class="f-widget-title mb-20">
+                              <img src="img/logo/f-logo.png" style="margin: 10px 15px ;" alt="img">
+                           </div>
+                           <div class="footer-link">
+                            <h5>「一支高级的游戏战队」</h5>
+                           </div>
+                           <div class="f-contact mt-20">
+                               <ul>
+                                   <li>
+                                    <p></p>
+                                    <div style="text-indent:1em;">
+                                    </div>
+                                 <h6>联络我们：</h6>
+                               </li>
+                               <li>
+                                   
+                                   <div style="line-height: 10px"><p>QQ Group: &nbsp972475708 </p></div>
+                                   <div style="line-height: 10px"><p>E-mail: &nbsptm-esteam@outlook.com </p></div>
+                               </li>
+                           </ul>
+                               
+                               </div>
+                          
+                       </div>
+                   </div>
+                   <div class="col-xl-2 col-lg-2 col-sm-6">
+                       <div class="footer-widget mb-30">
+                           <div class="f-widget-title">
+                               <h2>本站链接</h2>
+                           </div>
+                           <div class="footer-link">
+                               <ul>   
+                                                                  
+                                   <li><a href="index.html"> 团队主页 </a></li>
+                                   <li><a href="about.html"> 关于我们 </a></li>
+                                   <li><a href="team.html"> 成员名册 </a></li>
+                                   <li><a href="blog.html"> 团队博客</a></li>
+                                   
+                               </ul>
+                           </div>
+                       </div>
+                   </div>
+                   <body>
+                   <div class="col-xl-3 col-lg-3 col-sm-6">
+                        <div class="footer-widget mb-30">
+                            <div class="f-widget-title">
+                                <h2>友情链接</h2>
+                            </div>
+                            <ul class="list-inline text-left">
+                                <li class="list-inline-item">
+                                    <div class="footer-link">
+                                        <ul>   
+                                       <li><img src="img/Steam.png" alt="img" title="Steam"><a href="https://s.team/chat/mMqvzrrv" class=" tag-link-29 tag-link-position-7" style="font-size: 16.4pt;">&nbsp&nbsp&nbsp&nbspSTEAM</a></li>
+                                        </ul>
+                                    </div>
+                                        </span>
+                                    </a>
+                                </li>
+                                <p></p>
+                                <li class="list-inline-item">
+                                    <div class="footer-link">
+                                        <ul>      
+                                       <li><img src="img/QQ.png" alt="img" title="Tencent QQ"><a href="https://jq.qq.com/?_wv=1027&k=FEgmVLi3" class="tag-link-29 tag-link-position-7" style="font-size: 16.4pt;" aria-label="web design (2 items)">&nbsp&nbsp&nbsp&nbspTencent QQ</a></li>
+                                        </ul>
+                                    </div>
+                                    
+                                        </span>
+                                    </a>
+                                </li>
+                                <p></p>
+                                <li class="list-inline-item">
+                                    <div class="footer-link">
+                                        <ul> 
+                                       <li><img src="img/kook.png" alt="img" title="KOOK"><a href="https://www.kookapp.cn/app/invite/0kHaQ5" class=" tag-link-29 tag-link-position-7" style="font-size: 16.4pt;" aria-label="web design (2 items)">&nbsp&nbsp&nbsp&nbspKOOK</a></li>
+                                        </ul>
+                                    </div>
+                                        </span>
+                                    </a>
+                                </li>
+                            </ul>
+                          
+                        </div>
+                    </body>
+                       <div class="footer-widget mb-30">
+                            <div>                                
+                                
+                            </div>
+                          
+                        </div>
+                    </div>  
+                    <div class="col-xl-2 col-lg-2 col-sm-6">
+                        <div class="footer-widget mb-30">
+                            <div class="f-widget-title">
+                                <h2>特别鸣谢</h2>
+                            </div>
+                              <div>  
+                                    <p>文案策划: Tian Liao</p>
+                                    <p>文案撰写: F1XER</p>
+                                    <p>图片提供: Ming Yu</p>
+                                    <p>建议提出:LASK</p>
+                            </div>
+                        </div>
+                    </div>  
+               </div>
+               <div style="color:orange; text-align:center; line-height: 10px"><p>本站由队员 &nbspThirteenIce2973&nbsp(HoBoxz) &nbsp实际搭建并维护</p></div> 
+               <div style="color:orange; text-align:center; line-height: 10px"><p>© Three-Musketeers  &nbsp&nbsp2021-2022</p></div>      
+           </div>
+   </footer>
+   <!-- footer-end -->
 
-
-		<!-- JS here -->
+<!-- JS here -->
         <script src="js/vendor/modernizr-3.5.0.min.js"></script>
         <script src="js/vendor/jquery-3.6.0.min.js"></script>
         <script src="js/popper.min.js"></script>
@@ -364,7 +447,7 @@
         <script src="js/js_isotope.pkgd.min.js"></script>
         <script src="js/imagesloaded.min.js"></script>
         <script src="js/parallax.min.js"></script>
-         <script src="js/jquery.waypoints.min.js"></script>
+        <script src="js/jquery.waypoints.min.js"></script>
         <script src="js/jquery.counterup.min.js"></script>
         <script src="js/jquery.scrollUp.min.js"></script>
         <script src="js/jquery.meanmenu.min.js"></script>
@@ -372,5 +455,6 @@
         <script src="js/jquery.magnific-popup.min.js"></script>
         <script src="js/element-in-view.js"></script>
         <script src="js/main.js"></script>
+        
     </body>
 </html>
