@@ -5186,8 +5186,8 @@ text-shadow: 5px 5px 1px rgba(0,0,0,.1);
 margin-bottom: 150px;
 }
 .error-body a {
-    margin-top: 30px;
-    margin-bottom: 100px;
+    margin-top: 10px;
+    margin-bottom: 36px;
     background: #ffc010;
     border-radius: 10px;
 }
