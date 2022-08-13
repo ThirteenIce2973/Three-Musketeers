@@ -1,5 +1,5 @@
 # [[ OFFICIAL ] The Three-Musketeers E-sports Team Website 2.0812.1 (12th Aug 2022) Technical Support by HoBoxz](https://tm-esteam.cnfreenet.com)
-![image](img/blog/inner_b1.jpg)
+![image](img/blog/inner_b1.webp)
 # Our QQ Group: 972475708
 # E-mail: tm-esteam@outlook.com
 
