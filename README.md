@@ -5,7 +5,7 @@
 
 ## Technical Support：ThirteenIce2973 (HoBoxz) 
 ## Copywriter: Tian Liao / F1XER
-## Images Courtesy: Ming Yu
+## Images Courtesy: EH. Ming Yu
 ## Suggested for Us: LASK
 
   ★ [This Website was proposed, built, and supported by team member THIRTEENICE2973 (HOBOXZ) on 14 July, 2022. The latter has original manuscripts written by TIAN LIAO and F1XER.]
