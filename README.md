@@ -2,7 +2,7 @@
 ![image](img/blog/inner_b1.webp)
 # Our QQ Group: 972475708
 # E-mail: 3425884993@qq.com (Tian Liao) 
-#         2713281947@qq.com (HoBoxz)
+# &nbsp;&nbsp;&nbsp;2713281947@qq.com (HoBoxz)
 
 ## Technical Support：ThirteenIce2973 (HoBoxz) 
 ## Copywriter: Tian Liao / F1XER
