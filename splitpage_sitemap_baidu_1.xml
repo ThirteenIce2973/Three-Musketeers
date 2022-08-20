@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:mobile="http://www.baidu.com/schemas/sitemap-mobile/1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  <!-- Created By http://www.zhetao.com/sitemapcreator, URLs: 12 Page: 1 Generated at: 2022-08-20 22:48:49 -->
+
+  <url>
+    <loc>https://tm-esteam.cnfreenet.com/</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://tm-esteam.cnfreenet.com/index.html</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://tm-esteam.cnfreenet.com/about.html</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://tm-esteam.cnfreenet.com/team.html</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://tm-esteam.cnfreenet.com/blog.html</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://tm-esteam.cnfreenet.com/blog-update.html</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://tm-esteam.cnfreenet.com/blog-.html</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://tm-esteam.cnfreenet.com/cdn-cgi/l/email-protection</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://tm-esteam.cnfreenet.com/1.0/index.html</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://tm-esteam.cnfreenet.com/1.0/post.html</loc>
+    <priority>0.89</priority>
+  </url>
+
+  <url>
+    <loc>https://tm-esteam.cnfreenet.com/1.0/about.html</loc>
+    <priority>0.82</priority>
+  </url>
+
+  <url>
+    <loc>https://tm-esteam.cnfreenet.com/1.0/contact.html</loc>
+    <priority>0.81</priority>
+  </url>
+
+</urlset>
