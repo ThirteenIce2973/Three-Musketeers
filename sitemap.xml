@@ -1,45 +1,67 @@
-<?xml version="1.0" encoding="utf-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-  <!-- Created By http://www.zhetao.com/sitemapcreator,  URLs: 8 Generated at: 2023-01-01 03:19:34 -->
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
-  <url>
-    <loc>https://tmes.eu.org/</loc>
-    <priority>1.00</priority>
-  </url>
 
-  <url>
-    <loc>https://tmes.eu.org/index.html</loc>
-    <priority>1.00</priority>
-  </url>
+<url>
+  <loc>https://tmes.eu.org/</loc>
+  <lastmod>2023-01-20T06:05:13+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://tmes.eu.org/about</loc>
+  <lastmod>2023-01-20T06:05:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tmes.eu.org/team</loc>
+  <lastmod>2023-01-20T06:05:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tmes.eu.org/blog</loc>
+  <lastmod>2023-01-20T06:05:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tmes.eu.org/blog-updates</loc>
+  <lastmod>2023-01-20T06:05:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tmes.eu.org/blog-buildingmaster-season1</loc>
+  <lastmod>2023-01-20T06:05:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tmes.eu.org/blog-</loc>
+  <lastmod>2023-01-20T06:05:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tmes.eu.org/1.0/</loc>
+  <lastmod>2023-01-20T06:05:13+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tmes.eu.org/1.0/about</loc>
+  <lastmod>2023-01-20T06:05:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://tmes.eu.org/1.0/post</loc>
+  <lastmod>2023-01-20T06:05:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://tmes.eu.org/1.0/contact</loc>
+  <lastmod>2023-01-20T06:05:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
 
-  <url>
-    <loc>https://tmes.eu.org/about.html</loc>
-    <priority>1.00</priority>
-  </url>
-
-  <url>
-    <loc>https://tmes.eu.org/team.html</loc>
-    <priority>1.00</priority>
-  </url>
-
-  <url>
-    <loc>https://tmes.eu.org/blog.html</loc>
-    <priority>1.00</priority>
-  </url>
-
-  <url>
-    <loc>https://tmes.eu.org/blog-update.html</loc>
-    <priority>1.00</priority>
-  </url>
-
-  <url>
-    <loc>https://tmes.eu.org/blog-.html</loc>
-    <priority>1.00</priority>
-  </url>
-
-  <url>
-    <loc>https://tmes.eu.org/cdn-cgi/l/email-protection</loc>
-    <priority>1.00</priority>
-  </url>
 
 </urlset>
