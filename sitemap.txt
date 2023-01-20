@@ -3,7 +3,8 @@ https://tmes.eu.org/index
 https://tmes.eu.org/about
 https://tmes.eu.org/team
 https://tmes.eu.org/blog
-https://tmes.eu.org/blog-update
+https://tmes.eu.org/blog-updates
+https://tmes.eu.org/blog-buildingmaster-season1
 https://tmes.eu.org/1.0/index
 https://tmes.eu.org/1.0/about
 https://tmes.eu.org/1.0/post
