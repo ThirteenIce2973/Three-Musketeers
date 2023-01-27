@@ -3,4 +3,5 @@ https://tmes.eu.org/about
 https://tmes.eu.org/team
 https://tmes.eu.org/blog
 https://tmes.eu.org/blog/Updates
-https://tmes.eu.org/blog/BuildingMaster-Season1
+https://tmes.eu.org/blog/BuildingMaster-Season1-Opening
+https://tmes.eu.org/blog/BuildingMaster-Season1-Closing
