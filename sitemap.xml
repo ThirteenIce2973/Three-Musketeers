@@ -33,7 +33,12 @@
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://tmes.eu.org/blog/BuildingMaster-Season1</loc>
+  <loc>https://tmes.eu.org/blog/BuildingMaster-Season1-Opening</loc>
+  <lastmod>2023-01-22T06:45:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tmes.eu.org/blog/BuildingMaster-Season1-Closing</loc>
   <lastmod>2023-01-22T06:45:56+00:00</lastmod>
   <priority>0.80</priority>
 </url>
