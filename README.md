@@ -2,7 +2,7 @@
 #### Firmly believe in ideals and beliefs, cherish mountains and seas, work together for the future!   
 #### This is TM-ESTEAM, an advanced game team composed of Lao Qi gaming talking group chat game lovers. Welcome to our official websiteヽ(￣▽￣)ﾉ !
 ### Here is the source code address of this site. #Source Code
-> 简中用户请看库内的 "Readme_CN.md"，谢谢 | For Chinese users, please see "Readme_CN. md" in the library. Thank you<br><br>
+> 简中用户请看库内的 "Readme_CN.md"，谢谢  |  For Chinese users, please see "Readme_CN. md" in the repository. Thank you<br><br>
 [![Index](img/blog/inner_b1.webp "Index")](https://tmes.eu.org/)
 
 
