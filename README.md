@@ -1,6 +1,6 @@
-# [Three Musketeers - 官方网站 ](https://tmes.eu.org/)
-## &nbsp;&nbsp;坚信理想信念，心怀山海，一齐向未来！ 这里是TM-ESTEAM，由老棋交流联机群的游戏爱好者组成的一支高级的游戏团队。欢迎来到我们的官方网站ヽ(￣▽￣)ﾉ ！
-## 这里是本站的源码地址。#Source Code
-[![主页](img/blog/inner_b1.webp "主页")](https://tmes.eu.org/)
+# [Three Musketeers - Website ](https://tmes.eu.org/)
+## &nbsp;&nbsp;Firmly believe in ideals and beliefs, cherish mountains and seas, work together for the future! This is TM-ESTEAM, an advanced game team composed of Lao Qi gaming talking group chat game lovers. Welcome to our official website!ヽ(￣▽￣)ﾉ ！
+## Here is the source code address of this site. #Source Code
+[![Index](img/blog/inner_b1.webp "Index")](https://tmes.eu.org/)
 
 
