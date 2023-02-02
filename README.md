@@ -1,5 +1,5 @@
 # [ Three Musketeers - Official Website ](https://tmes.eu.org/)
-> English | [中文](README_CN.md)
+> <font color=Pink> English | [中文](README_CN.md) </font>
 #### Firmly believe in ideals and beliefs, cherish mountains and seas, work together for the future!   
 #### This is TMES TEAM, an advanced game team composed of Lao Qi gaming talking group chat game lovers. Welcome to our official websiteヽ(￣▽￣)ﾉ !
 #### Here is the source code address of this site.   #Source Code
