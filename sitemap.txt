@@ -2,6 +2,6 @@ https://tmes.eu.org/
 https://tmes.eu.org/about
 https://tmes.eu.org/team
 https://tmes.eu.org/blog
-https://tmes.eu.org/blog/Updates
-https://tmes.eu.org/blog/BuildingMaster-Season1-Opening
-https://tmes.eu.org/blog/BuildingMaster-Season1-Closing
+https://tmes.eu.org/blog/20220714
+https://tmes.eu.org/blog/20230120
+https://tmes.eu.org/blog/20230204
