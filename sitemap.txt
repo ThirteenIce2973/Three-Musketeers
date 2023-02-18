@@ -1,17 +1,22 @@
 CAPITAL:
-https://tmes.eu.org/
+https://tmes.eu.org
 https://tmes.eu.org/about
 https://tmes.eu.org/team
 https://tmes.eu.org/blog
+
+BLOG:
 https://tmes.eu.org/blog/20220714
 https://tmes.eu.org/blog/20230120
 https://tmes.eu.org/blog/20230204
+
+EASTER EGG:
+https://tmes.eu.org/C++
+
+SITEMAP:
+https://tmes.eu.org/sitemap
 
 LEGACY:
 https://tmes.eu.org/1.0/index
 https://tmes.eu.org/1.0/about
 https://tmes.eu.org/1.0/post
 https://tmes.eu.org/1.0/contact
-
-EASTER EGG:
-https://tmes.eu.org/C++/
