@@ -1,6 +1,3 @@
-<style>
-  h2 {text-align:center;}
-  </style>
 # [ Three Musketeers - Official Website ](https://tmes.eu.org/)
 > English | [中文](README_CN.md) 
 #### Firmly believe in ideals and beliefs, cherish mountains and seas, work together for the future!
