@@ -1,7 +1,7 @@
 <style>
   h2 {text-align:center;}
   </style>
-#[ Three Musketeers - Official Website ](https://tmes.eu.org/)</style>
+#[ Three Musketeers - Official Website ](https://tmes.eu.org/)
 > English | [中文](README_CN.md) 
 #### Firmly believe in ideals and beliefs, cherish mountains and seas, work together for the future!
 #### This is TMES TEAM, an advanced game team composed of Laoqi Gaming Talking Group chat game lovers. Welcome to our official websiteヽ(￣▽￣)ﾉ !
