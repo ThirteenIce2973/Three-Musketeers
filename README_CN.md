@@ -1,6 +1,6 @@
 # [ Three Musketeers - Official Website ](https://tmes.eu.org/)
 
-> English | [中文](README_CN.md) <br>
+> [English](README.md) | 中文 <br>
 
 ### 团队理念
   坚信理想信念，心怀山海，一齐向未来！<br><br>
