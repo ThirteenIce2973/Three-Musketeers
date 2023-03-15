@@ -9,47 +9,64 @@
 
 <url>
   <loc>https://tmes.eu.org/</loc>
-  <lastmod>2023-02-17T14:12:04+00:00</lastmod>
+  <lastmod>2023-01-22T06:45:56+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://tmes.eu.org/about</loc>
-  <lastmod>2023-02-17T14:12:04+00:00</lastmod>
+  <lastmod>2023-01-22T06:45:56+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://tmes.eu.org/team</loc>
-  <lastmod>2023-02-17T14:12:04+00:00</lastmod>
+  <lastmod>2023-01-22T06:45:56+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://tmes.eu.org/blog</loc>
-  <lastmod>2023-02-17T14:12:04+00:00</lastmod>
+  <lastmod>2023-01-22T06:45:56+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://tmes.eu.org/blog/20220714</loc>
-  <lastmod>2023-02-17T14:12:04+00:00</lastmod>
+  <loc>https://tmes.eu.org/blog/Updates</loc>
+  <lastmod>2023-01-22T06:45:56+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://tmes.eu.org/blog/20230120</loc>
-  <lastmod>2023-02-17T14:12:04+00:00</lastmod>
+  <loc>https://tmes.eu.org/blog/BuildingMaster-Season1-Opening</loc>
+  <lastmod>2023-01-22T06:45:56+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://tmes.eu.org/blog/20230204</loc>
-  <lastmod>2023-02-17T14:12:04+00:00</lastmod>
+  <loc>https://tmes.eu.org/blog/BuildingMaster-Season1-Closing</loc>
+  <lastmod>2023-01-22T06:45:56+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://tmes.eu.org/sitemap</loc>
-  <lastmod>2023-02-17T14:12:04+00:00</lastmod>
+  <loc>https://tmes.eu.org/blog-.html</loc>
+  <lastmod>2023-01-22T06:45:56+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://tmes.eu.org/C++</loc>
-  <lastmod>2023-02-17T14:12:04+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>https://tmes.eu.org/1.0/</loc>
+  <lastmod>2023-01-22T06:45:56+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
+<url>
+  <loc>https://tmes.eu.org/1.0/about</loc>
+  <lastmod>2023-01-22T06:45:56+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://tmes.eu.org/1.0/post</loc>
+  <lastmod>2023-01-22T06:45:56+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://tmes.eu.org/1.0/contact</loc>
+  <lastmod>2023-01-22T06:45:56+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
 </urlset>
