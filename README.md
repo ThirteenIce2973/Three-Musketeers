@@ -14,4 +14,5 @@ This is TMES TEAM, an advanced game team composed of Game Lovers in Laoqi Gaming
 Here is the source code address of this site.   #Source Code<br>
 
 - The template is derived from <i>`Github huniko519/Eoorox-Gaming-Esport-HTML`</i>, has been developed and modified for the second time. It uses mouse icons and particle effects extracted from <i>`CSDN`</i>, and has open source licenses.<br><br>
+* The site currently only supports Simplified Chinese.
 [![Index](img/blog/inner_b1.webp "Index")](https://tmes.eu.org/)
