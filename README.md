@@ -1,4 +1,4 @@
-# [ Three Musketeers - Official Website ](https://tmes.eu.org/)
+# [ Click here to visit the Three Musketeers - Official Website ](https://tmes.eu.org/)
 
 > English | [简体中文](README_CN.md) <br>
 
