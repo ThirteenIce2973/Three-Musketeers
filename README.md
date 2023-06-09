@@ -1,6 +1,6 @@
 # [ Three Musketeers - Official Website ](https://tmes.eu.org/)
 
-> English | [中文](README_CN.md) <br>
+> English | [简体中文](README_CN.md) <br>
 
 ### Team Belief
 Firmly believe in ideals and beliefs, cherish mountains and seas, work together for the future!<br><br>
