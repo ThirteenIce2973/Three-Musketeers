@@ -1,10 +1,9 @@
-# [ Three Musketeers - Official Website ](https://tmes.eu.org/)
+# [ Three Musketeers - 官方网站](https://tmes.eu.org/)
 
 > [English](README.md) | 简体中文 <br>
 
 ### 团队理念
-冰冻三尺，非一日之寒。积土成山，非斯须之作。
-我们始终坚信理想信念，心怀山海，一齐向未来。<br><br>
+冰冻三尺，非一日之寒。积土成山，非斯须之作。我们始终坚信理想信念，心怀山海，一齐向未来。<br><br>
 
 
 ### 关于我们
