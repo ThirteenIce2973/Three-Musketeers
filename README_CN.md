@@ -1,4 +1,4 @@
-# [ Three Musketeers - 官方网站](https://tmes.eu.org/)
+# [ 点此访问 Three Musketeers - 官方网站](https://tmes.eu.org/)
 
 > [English](README.md) | 简体中文 <br>
 
@@ -13,8 +13,8 @@ The Three Musketeers E-sports Team ，又名 TMES TEAM 、TM TEAM，简称 TM (E
 ### 本页讯息
 本站的源码地址于此。  #Source Code<br>
 
-- <b>模板源自 Github <i>`huniko519/Eoorox-Gaming-Esport-HTML`</i>，进行了二次开发和修改 &nbsp;同时使用了摘自 <i> `CSDN` </i> 的鼠标图标、粒子效果，具有开源许可。<br> <p></p>
+- 模板源自 Github <i>`huniko519/Eoorox-Gaming-Esport-HTML`</i>，进行了二次开发和修改 &nbsp;同时使用了摘自 <i> `CSDN` </i> 的鼠标图标、粒子效果，具有开源许可。<br> <p></p>
  
--  本站暂仅支持简体中文。当然，您也可用翻译器，尽管有时结果可能不大令人满意，但它非常有用。 &nbsp;:)</b>
+-  本站暂仅支持简体中文。当然，您也可用翻译器，尽管有时结果可能不大令人满意，但它非常有用。 &nbsp;:)
   <br><br>
 [![主页预览图片](img/blog/inner_b1.webp "Index")](https://tmes.eu.org/)
