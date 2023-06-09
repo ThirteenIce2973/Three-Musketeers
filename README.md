@@ -3,15 +3,15 @@
 > English | [简体中文](README_CN.md) <br>
 
 ### Team Belief
-Firmly believe in ideals and beliefs, cherish mountains and seas, work together for the future!<br><br>
+Rome was not built in one day. Success is founded on the basis of patient pursuit that can never be impeded by temporary failures. <br><p></p>We will firmly believe in our ideals and beliefs, cherish mountains and seas, and work together towards the future.<br><br>
 
 
 ### About Us
-This is TMES TEAM, an advanced game team composed of Game Lovers in Laoqi Gaming Chat Group. Welcome to our Official Websiteヽ(￣▽￣)ﾉ !<br><br>
+The Three Musketeers E-sports Team, aka TMES TEAM or TM TEAM. It is an advanced gaming team composed of game enthusiasts in Lao Qi's online communication group.<br><p></p>In games, we respect each other, help each other, maintain a good communication atmosphere, and form a harmonious relationship of mutual trust. We always make progress together, unite as one, strive to do every detail well, and strive to excel.<br><br>
 
 
 ### Page Information
-Here is the source code address of this site.   #Source Code<br>
+Here is the source code address of this site.  <b> #Source Code</b><br>
 
 - The template is derived from <i>`Github huniko519/Eoorox-Gaming-Esport-HTML`</i>, has been developed and modified for the second time. It uses mouse icons and particle effects extracted from <i>`CSDN`</i>, and has open source licenses.<br>
 
