@@ -1,4 +1,4 @@
-# [ The Three Musketeers - Official Website ](https://tmes.eu.org/)
+# [ The Three Musketeers E-sports Team - Official Website ](https://tmes.eu.org/)
 
 > English | [简体中文](README_CN.md) <br>
 
