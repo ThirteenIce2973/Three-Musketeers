@@ -1,4 +1,4 @@
-# [ 点此访问 Three Musketeers - 官方网站](https://tmes.eu.org/)
+# [ Three Musketeers - TMES 战队官方网站 ](https://tmes.eu.org/)
 
 > [English](README.md) | 简体中文 <br>
 
