@@ -155,8 +155,8 @@
                 </p>
                 <p class="overlay-description">以下内容可能不适合<b>低于 18 岁</b>的人群观看，我们需要确认您的年龄。</p>
                 <div class="overlay-buttons-wrapper">
-                    <a href="https://www.bilibili.com/video/BV1zb411e7bY/?spm_id_from=333.788.recommend_more_video.10&vd_source=f1611b7fcea8c4a28d295ef2ab3c90df"><div id="accept-button" class="overlay-button">已满 18 岁</div></a>
-                    <div id="decline-button" class="overlay-button">未满 18 岁</div>
+                    <a href="https://www.bilibili.com/video/BV1f4411576C/?spm_id_from=333.788.recommend_more_video.6" class="underline"><div id="accept-button" class="overlay-button">已满 18 岁</div></a>
+                    <a href="../img/video/no.webp" target="_blank" class="underline"><div id="decline-button" class="overlay-button">未满 18 岁</div></a>
                 </div>
             </div>
         </div>
@@ -174,15 +174,7 @@
         video.addEventListener("ended", function () {
             window.location.href = "https://github.com/ThirteenIce2973/rickroll";
         });
-        function buttonClick1(event) {
-            event.preventDefault();
-            overlay.hidden = true;
-            video.play();
-            videoClick();
-        }
-        function buttonClick2(event) {
-            window.open("../img/video/no.webp");
-        }
+
         function videoClick(event) {
             if (event) event.preventDefault();
             const { documentElement } = document;
