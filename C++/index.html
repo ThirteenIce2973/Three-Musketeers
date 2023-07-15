@@ -164,29 +164,31 @@
 
    <!--<div class="scare">--> 
        
-   <!--</div>--> 
+   <!--</div>-->
 
-    <script type="text/javascript">
-        const video = document.getElementById("video");
-        const overlay = document.getElementById("overlay");
-        const declineButton = document.getElementById("decline-button");
-        const acceptButton = document.getElementById("accept-button");
-        video.addEventListener("ended", function () {
-            window.location.href = "https://github.com/ThirteenIce2973/rickroll";
-        });
+    <!--
+        <script type="text/javascript">
+            const video = document.getElementById("video");
+            const overlay = document.getElementById("overlay");
+            const declineButton = document.getElementById("decline-button");
+            const acceptButton = document.getElementById("accept-button");
+            video.addEventListener("ended", function () {
+                window.location.href = "https://github.com/ThirteenIce2973/rickroll";
+            });
 
-        function videoClick(event) {
-            if (event) event.preventDefault();
-            const { documentElement } = document;
-            if (documentElement.requestFullscreen) documentElement.requestFullscreen();
-            else if (documentElement.mozRequestFullScreen) documentElement.mozRequestFullScreen();
-            else if (documentElement.webkitRequestFullscreen) documentElement.webkitRequestFullscreen();
-            else if (documentElement.msRequestFullscreen) documentElement.msRequestFullscreen();
-        }
-        acceptButton.addEventListener("click", buttonClick1);
-        declineButton.addEventListener("click", buttonClick2);
-        video.addEventListener("click", videoClick);
-    </script>
-</body>
+            function videoClick(event) {
+                if (event) event.preventDefault();
+                const { documentElement } = document;
+                if (documentElement.requestFullscreen) documentElement.requestFullscreen();
+                else if (documentElement.mozRequestFullScreen) documentElement.mozRequestFullScreen();
+                else if (documentElement.webkitRequestFullscreen) documentElement.webkitRequestFullscreen();
+                else if (documentElement.msRequestFullscreen) documentElement.msRequestFullscreen();
+            }
+            acceptButton.addEventListener("click", buttonClick1);
+            declineButton.addEventListener("click", buttonClick2);
+            video.addEventListener("click", videoClick);
+        </script>
+    -->
 
-</html>
+    </body>
+    </html>
