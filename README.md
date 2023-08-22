@@ -14,7 +14,7 @@ Rome was not built in one day. Success is founded on the basis of patient pursui
 The Three Musketeers E-sports Team, aka TMES TEAM or TM TEAM. It is an advanced gaming team composed of game enthusiasts in Lao Qi's online communication group.<br><p></p>In games, we respect each other, help each other, maintain a good communication atmosphere, and form a harmonious relationship of mutual trust. We always make progress together, unite as one, strive to do every detail well, and strive to excel.<br><br>
 
 
-### Page Information
+### Notices
 Here is the source code address of this site.  <b> #Source Code</b><br>
 - This site was actually built and maintained by the station owner <i>`TThirteenIce2973`</i>. We deployed and protected <i>`Github Pages`</i> and <i>`Cloudflare`</i>.
  
