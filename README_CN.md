@@ -26,6 +26,6 @@ The Three Musketeers E-sports Team ，又名 TMES TEAM 、TM TEAM，简称 TM (E
 
 - 本站萌国ICP备案：[萌ICP备 20230714 号](https://icp.gov.moe/?keyword=20230714)，欢迎大家交流互动。
   
--  本站暂仅支持简体中文。当然，您也可用翻译器，尽管有时结果可能不大令人满意，但它非常有用。 &nbsp;:)
+-  本站暂仅支持简体中文。&nbsp;:)
   <br><br>
 [![主页预览图片](img/blog/inner_b1.webp "Index")](https://tmes.eu.org/)
