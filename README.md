@@ -16,7 +16,7 @@ The Three Musketeers E-sports Team, aka TMES TEAM or TM TEAM. It is an advanced 
 
 ### Notices
 Here is the source code address of this site.  <b> #Source Code</b><br>
-- This site was actually built and maintained by the station owner <i>`TThirteenIce2973`</i>. We deployed and protected <i>`Github Pages`</i> and <i>`Cloudflare`</i>.
+- This site was actually built and maintained by the station owner <i>`ThirteenIce2973`</i>. We deployed and protected <i>`Github Pages`</i> and <i>`Cloudflare`</i>.
  
 - Due to issues with mobile adaptation, some pages may experience poor display. Please prioritize accessing this website on the PC side.
   
