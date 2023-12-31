@@ -26,5 +26,10 @@ Here is the source code address of this site.  <b> #Source Code</b><br>
 
 - The Moe ICP registration of our website: [萌ICP备 20230714 号](https://icp.gov.moe/?keyword=20230714) , welcome everyone to exchange and interact.
 
--  The site currently only supports Simplified Chinese. Sure, you can also use a translator, although sometimes the results may not be very satisfactory, it is quite useful. &nbsp;:)<br><br>
+-  The site currently only supports Simplified Chinese. Sure, you can also use a translator, although sometimes the results may not be very satisfactory, it is quite useful. &nbsp;:)
+-  
+### Copyright and License
+
+Copyright 2021-2024 ThirteenIce2973 Code released under the [MIT](https://github.com/ThirteenIce2973/Three-Musketeers/blob/main/LICENSE) license.
+ <br><br><br><br>
 [![Index Preview](img/blog/inner_b1.webp "Index")](https://tmes.eu.org/)
