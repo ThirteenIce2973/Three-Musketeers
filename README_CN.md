@@ -28,8 +28,8 @@ The Three Musketeers E-sports Team ，又名 TMES TEAM 、TM TEAM，简称 TM (E
   
 -  本站暂仅支持简体中文。&nbsp;:)
  
-### Copyright and License
+### 版权与许可
 
-Copyright 2021-2024 ThirteenIce2973 Code released under the [MIT](https://github.com/ThirteenIce2973/Three-Musketeers/blob/main/LICENSE) license.
+版权所有 2021-2024 ThirteenIce2973 具有[MIT](https://github.com/ThirteenIce2973/Three-Musketeers/LICENSE)许可证。
  <br><br>
 [![主页预览图片](img/blog/inner_b1.webp "Index")](https://tmes.eu.org/)
