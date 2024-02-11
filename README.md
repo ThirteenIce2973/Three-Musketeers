@@ -3,7 +3,7 @@
 > English | [简体中文](README_CN.md) <br>
 
 ### Believe in ideals and beliefs, cherish mountains and seas, and work together towards the future!
-#### Here is "TMES TEAM", an advanced gaming team composed of game enthusiasts from the old chess exchange online group. Welcome to our official website ヽ(￣⌣￣)ﾉ ！
+#### Here is "Three Musketeers E-sports Team", an advanced gaming team composed of game enthusiasts from the old chess exchange online group. Welcome to our official website ヽ(￣⌣￣)ﾉ ！
 <br>
 
 ### Team Belief
