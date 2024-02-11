@@ -1,4 +1,4 @@
-# [ The Three Musketeers E-sports Team - Official Website ](https://tmes.eu.org/)
+# [ Three Musketeers - E-sports Team Official Website ](https://tmes.eu.org/)
 
 > English | [简体中文](README_CN.md) <br>
 
@@ -24,7 +24,7 @@ Here is the source code address of this site.  <b> #Source Code</b><br>
  
 - The template is derived from <i>`Github huniko519/Eoorox-Gaming-Esport-HTML`</i>, has been developed and modified for the second time. It uses mouse icons and particle effects extracted from <i>`CSDN`</i>, and has open source licenses.<br>
 
-- The Moe ICP registration of our website: [萌ICP备 20230714 号](https://icp.gov.moe/?keyword=20230714) , welcome everyone to exchange and interact.
+- The Moe ICP registration of our website: [萌ICP备 20240120 号](https://icp.gov.moe/?keyword=20240120) , welcome everyone to exchange and interact.
 
 -  The site currently only supports Simplified Chinese. Sure, you can also use a translator, although sometimes the results may not be very satisfactory, it is quite useful. &nbsp;:)
    
