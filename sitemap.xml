@@ -9,74 +9,47 @@
 
 <url>
   <loc>https://tmes.eu.org/</loc>
-  <lastmod>2023-01-22T06:45:56+00:00</lastmod>
+  <lastmod>2024-02-10T06:45:56+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://tmes.eu.org/about</loc>
-  <lastmod>2023-01-22T06:45:56+00:00</lastmod>
+  <lastmod>2024-02-10T06:45:56+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://tmes.eu.org/team</loc>
-  <lastmod>2023-01-22T06:45:56+00:00</lastmod>
+  <lastmod>2024-02-10T06:45:56+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://tmes.eu.org/blog</loc>
-  <lastmod>2023-01-22T06:45:56+00:00</lastmod>
+  <lastmod>2024-02-10T06:45:56+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://tmes.eu.org/blog/UpdateLogs</loc>
-  <lastmod>2023-01-22T06:45:56+00:00</lastmod>
+  <lastmod>2024-02-10T06:45:56+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://tmes.eu.org/blog/TheMasterBuilder-Season1</loc>
-  <lastmod>2023-01-22T06:45:56+00:00</lastmod>
+  <lastmod>2024-02-10T06:45:56+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://tmes.eu.org/blog/CherishYourYouth</loc>
-  <lastmod>2023-01-22T06:45:56+00:00</lastmod>
+  <lastmod>2024-02-10T06:45:56+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://tmes.eu.org/blog/ServerofMY-1thAnniversaryCelebration</loc>
-  <lastmod>2023-01-22T06:45:56+00:00</lastmod>
+  <lastmod>2024-02-10T06:45:56+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://tmes.eu.org/sitemap</loc>
-  <lastmod>2023-01-22T06:45:56+00:00</lastmod>
+  <lastmod>2024-02-10T06:45:56+00:00</lastmod>
   <priority>0.80</priority>
 </url>
-<url>
-  <loc>https://tmes.eu.org/1.0/</loc>
-  <lastmod>2023-01-22T06:45:56+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://tmes.eu.org/1.0/about</loc>
-  <lastmod>2023-01-22T06:45:56+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://tmes.eu.org/1.0/post</loc>
-  <lastmod>2023-01-22T06:45:56+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://tmes.eu.org/1.0/contact</loc>
-  <lastmod>2023-01-22T06:45:56+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://tmes.eu.org/C++</loc>
-  <lastmod>2023-01-22T06:45:56+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-
-
 </urlset>
