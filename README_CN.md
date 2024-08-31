@@ -25,5 +25,3 @@ The Three Musketeers E-sports Team ，又名 TMES TEAM 、TM TEAM，简称 TM (E
 - 模板源自 Github <i>`huniko519/Eoorox-Gaming-Esport-HTML`</i>，进行了二次开发和修改 &nbsp;同时使用了摘自 <i> `CSDN` </i> 的鼠标图标、粒子效果。<br> <p></p>
 
 - 本站萌国ICP备案：[萌ICP备 20240120 号](https://icp.gov.moe/?keyword=20240120)，欢迎大家交流互动。
-  
-[![主页预览图片](img/blog/inner_b1.webp "Index")](https://tmes.eu.org/)
