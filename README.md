@@ -22,10 +22,8 @@ Here is the source code address of this site.  <b> #Source Code</b><br>
   
 - This website uses Cloudflare servers from the United States, which are not protected by Chinese laws and do not require domestic ICP registration in China. Therefore, there may be slow loading issues. Before fully loading, there are still many page effects or some background images that cannot be displayed. Please enjoy the scenery outside the window and wait for a moment.
  
-- The template is derived from <i>`Github huniko519/Eoorox-Gaming-Esport-HTML`</i>, has been developed and modified for the second time. It uses mouse icons and particle effects extracted from <i>`CSDN`</i>, and has open source licenses.<br>
+- The template is derived from <i>`Github huniko519/Eoorox-Gaming-Esport-HTML`</i>, has been developed and modified for the second time. It uses mouse icons and particle effects extracted from <i>`CSDN`</i>.<br>
 
 - The Moe ICP registration of our website: [萌ICP备 20240120 号](https://icp.gov.moe/?keyword=20240120) , welcome everyone to exchange and interact.
-
--  The site currently only supports Simplified Chinese. Sure, you can also use a translator, although sometimes the results may not be very satisfactory, it is quite useful. &nbsp;:)
    
 [![Index Preview](img/blog/inner_b1.webp "Index")](https://tmes.eu.org/)
