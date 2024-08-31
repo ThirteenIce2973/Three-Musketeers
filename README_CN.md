@@ -22,9 +22,10 @@ The Three Musketeers E-sports Team ，又名 TMES TEAM 、TM TEAM，简称 TM (E
   
 - 本站使用 <i>`Cloudflare`</i> 美国服务器，不受中国法律保护，不需中国国内 ICP 备案。因此，可能会出现加载缓慢的问题，在完全加载之前，还有许多页面效果或者一些背景图无法展示，请各位客官欣赏窗外风景，稍等片刻。
   
-- 模板源自 Github <i>`huniko519/Eoorox-Gaming-Esport-HTML`</i>，进行了二次开发和修改 &nbsp;同时使用了摘自 <i> `CSDN` </i> 的鼠标图标、粒子效果。<br> <p></p>
+- 模板源自 Github <i>`huniko519/Eoorox-Gaming-Esport-HTML`</i>，进行了二次开发和修改 &nbsp;同时使用了摘自 <i> `CSDN` </i> 的鼠标图标、粒子效果，具有许可。<br> <p></p>
 
 - 本站萌国ICP备案：[萌ICP备 20240120 号](https://icp.gov.moe/?keyword=20240120)，欢迎大家交流互动。
   
+-  本站暂仅支持简体中文。&nbsp;:)
   
 [![主页预览图片](img/blog/inner_b1.webp "Index")](https://tmes.eu.org/)
