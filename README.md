@@ -3,7 +3,7 @@
 > English | [简体中文](README_CN.md) <br>
 
 ### Believe in ideals and beliefs, cherish mountains and seas, and work together towards the future!
-#### Here is "Three Musketeers E-sports Team", an advanced gaming team composed of game enthusiasts from the old chess exchange online group. Welcome to our official website ヽ(￣⌣￣)ﾉ ！
+#### The "Three Musketeers E-sports Team", is an advanced gaming team composed of game enthusiasts from the old chess exchange online group. Welcome to our official website ヽ(￣⌣￣)ﾉ ！
 <br>
 
 ### Team Belief
@@ -15,7 +15,7 @@ The Three Musketeers E-sports Team, aka TMES TEAM or TM TEAM. It is an advanced 
 
 
 ### Notices
-Here is the source code address of this site.  <b> #Source Code</b><br>
+> Here is the source code address of this site.  <b> #Source Code</b><br>
 - This site was actually built and maintained by the station owner <i>`ThirteenIce2973`</i>. We deployed and protected <i>`Github Pages`</i> and <i>`Cloudflare`</i>.
  
 - Due to issues with mobile adaptation, some pages may experience poor display. Please prioritize accessing this website on the PC side.
