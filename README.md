@@ -2,10 +2,8 @@
 
 > English | [简体中文](README_CN.md) <br>
 
-### Dream and Spirit
-Believe in ideals and beliefs, cherish mountains and seas, and work together towards the future!
-<br><br>Welcome to our official website ヽ(￣⌣￣)ﾉ ！
-<br><br>
+<b>Welcome to our official website ヽ(￣⌣￣)ﾉ ！
+<br>Let's get started! <br></b>
 
 ### Team Belief
 Rome was not built in one day. Success is founded on the basis of patient pursuit that can never be impeded by temporary failures. <br><p></p>We will firmly believe in our ideals and beliefs, cherish mountains and seas, and work together towards the future.<br><br>
