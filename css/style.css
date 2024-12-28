@@ -230,7 +230,7 @@ label {
 }
 
 .logo {
-    min-width: 153px;
+    min-width: 300px;
 }
 .logo img {
     width: 100%;
@@ -9703,3 +9703,30 @@ header.masthead {
       font-size: 1.875rem;
     }
   }
+
+
+  .visible-xs{
+
+  display: none;
+
+  }
+  	.visi{
+
+  display: block ;
+
+  }
+
+  @media (max-width: 1200px) {
+
+  .visible-xs{
+
+  display: block !important;
+
+  }
+  .visi{
+
+  display: none;
+
+  }
+  }
+
