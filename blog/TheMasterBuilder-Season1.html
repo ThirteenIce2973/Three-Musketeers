@@ -36,6 +36,9 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@100..900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
+    <script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
+
     <style>
         body {
          font-family: 'Noto Sans SC', sans-serif;
@@ -484,6 +487,7 @@
                                     <br><br>
                                 </a>
                                 <br><br>
+
                             <p style="text-align: center;">
                                 <font size="6" color="pink" align="center">已经到底了，不妨也看看其他页面？</font>
                             </p>
@@ -515,7 +519,19 @@
                                         </h5>
                                     </div>
                                 </div>
-                            </div>
+                            </div> <div id="gitalk-container"></div>
+                            <script>
+                                var gitalk = new Gitalk({
+       clientID: 'Ov23liEDQhoZjKaXVSnE',
+       clientSecret: '5ff56610e4e4ef4906e3d691ba719aff15ccf636',
+       repo: 'Three-Musketeers',
+       owner: 'ThirteenIce2973',
+       admin: ['ThirteenIce2973'],
+       id: location.pathname,      // Ensure uniqueness and length less than 50
+       distractionFreeMode: false  // Facebook-like distraction free mode
+     })
+      gitalk.render('gitalk-container')
+                            </script>
                         </div>
                         <div class="related__post mt-45 mb-85">
                             <div class="post-title">
@@ -849,6 +865,7 @@
 <script src="../js/jquery.magnific-popup.min.js"></script>
 <script src="../js/element-in-view.js"></script>
 <script src="../js/main.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
 <script type="text/javascript">
     (function (c, l, a, r, i, t, y) {
         c[a] = c[a] || function () { (c[a].q = c[a].q || []).push(arguments) };

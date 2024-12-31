@@ -27,18 +27,36 @@
 
 /* 1. Theme default css */
 @import url('https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&family=Teko:wght@300;400;500;600;700&display=swap');
+@import url('https://font.kivo.wiki/Blueaka/Blueaka.css');
  body {
-   font-family: 'Barlow', sans-serif;
+
+   font-family: 'Barlow', monospace;
+    font-family:'Blueaka', sans-serif;
 	font-size: 15px;
-	font-weight: normal;
+	font-weight: light;
 	color: #ffffffc7;
-	font-style: normal;
+	font-style: light;
      line-height: 26px;
      background: #1a0e22;
 }
 body {
   margin:0px;
 }
+        body{
+            cursor: url('../Blue Archive Cursors/normal.cur'), auto
+        }
+
+	a:hover {
+			cursor: url('../Blue Archive Cursors/link.cur'), pointer
+		}
+		i {
+        			cursor: url('../Blue Archive Cursors/link.cur'), auto;
+        		}
+        		img {
+                			cursor: url('../Blue Archive Cursors/link.cur'), auto;
+                		}
+
+
 #container {
   position:relative;
   margin-right:auto;
@@ -230,8 +248,9 @@ label {
 }
 
 .logo {
-    min-width: 300px;
+    min-width: 309px;
 }
+
 .logo img {
     width: 100%;
 }
@@ -4400,6 +4419,9 @@ border-radius: 0;
 .f-widget-title img {
 
 }
+.f-widget-title-mp img {
+
+}
 .footer-top-heiding {
     border-bottom: 2px solid #20282E;
     margin-bottom: 50px;
@@ -4483,6 +4505,22 @@ bottom: 0;
 height: 21px;
 width: 80px;
 background: url('../img/bg/f-line.png') no-repeat;
+}
+
+.f-widget-title-mp h2 {
+	font-size: 20px;
+margin-bottom: 0px;
+position: relative;
+padding-bottom: 25px;
+    color: #fff;
+}
+.f-widget-title-mp h2::before {
+    content: "";
+position: absolute;
+left: 0;
+bottom: 0;
+height: 21px;
+width: 80px;
 }
 
 .footer-link ul li i {
@@ -9705,12 +9743,12 @@ header.masthead {
   }
 
 
-  .visible-xs{
+  .visible-mp{
 
   display: none;
 
   }
-  	.visi{
+  	.visible-pc{
 
   display: block ;
 
@@ -9718,15 +9756,20 @@ header.masthead {
 
   @media (max-width: 1200px) {
 
-  .visible-xs{
+  .visible-mp{
 
   display: block !important;
 
   }
-  .visi{
+  .visible-pc{
 
   display: none;
 
   }
   }
+
+.underline:hover {
+		text-decoration: underline;
+	}
+
 
