@@ -9771,5 +9771,7 @@ header.masthead {
 .underline:hover {
 		text-decoration: underline;
 	}
-
+            .gt-header-textarea {
+    color: #000 !important;
+  }
 
