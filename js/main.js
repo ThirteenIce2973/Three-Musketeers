@@ -4,6 +4,7 @@
 
 
 // skill
+
 $(".skill-per").each(function() {
   var $this = $(this);
   var per = $this.attr("per");
@@ -22,7 +23,10 @@ $(".skill-per").each(function() {
   );
 });
     
-    
+
+
+
+
 // sticky
 $(window).on('scroll', function () {
 	var scroll = $(window).scrollTop();
