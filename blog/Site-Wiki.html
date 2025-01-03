@@ -304,14 +304,14 @@
 
     <!-- breadcrumb-area -->
     <section class="breadcrumb-area d-flex align-items-center"
-             style="background-image:url(../img/bg/壁纸.png)">
+             style="background-image:url(../img/blog/The-Road-to-Success.jpg)">
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-xl-12 col-lg-12">
                     <div class="breadcrumb-wrap text-left">
                         <div class="breadcrumb-title">
                             <h2>
-                                <font color="#00FF7F" align="center">是时候该好好体验一下了</font>
+                                <font color="#00FF7F" align="center">JUST DO IT.</font>
                             </h2>
                             <div class="breadcrumb-wrap">
 
@@ -1393,7 +1393,7 @@
   }
                 </style>
                     <div id="gitalk-container"></div>
-                    <script defer>
+                    <script>
                         var gitalk = new Gitalk({
 clientID: 'Ov23liEDQhoZjKaXVSnE',
 clientSecret: '5ff56610e4e4ef4906e3d691ba719aff15ccf636',
@@ -1409,6 +1409,17 @@ distractionFreeMode: false
 
 gitalk.render('gitalk-container')
 
+                    </script>
+                    <div id="tcomment"></div>
+                    <script src="https://registry.npmmirror.com/twikoo/1.6.40/files/dist/twikoo.min.js"></script>
+                    <script>
+                        twikoo.init({
+                          envId: 'https://tmes.eu.org', // 腾讯云环境填 envId；Vercel 环境填地址（https://xxx.vercel.app）
+                          el: '#tcomment', // 容器元素
+                          // region: 'ap-guangzhou', // 环境地域，默认为 ap-shanghai，腾讯云环境填 ap-shanghai 或 ap-guangzhou；Vercel 环境不填
+                          // path: location.pathname, // 用于区分不同文章的自定义 js 路径，如果您的文章路径不是 location.pathname，需传此参数
+                          lang: 'zh-CN', // 用于手动设定评论区语言，支持的语言列表 https://github.com/twikoojs/twikoo/blob/main/src/client/utils/i18n/index.js
+                        })
                     </script>
                     <id="blog" class="blog-area p-relative pt-120 pb-90 fix"
                     style="background: url(../img/bg/blog-bg2.png) no-repeat; background-position:right top;">
