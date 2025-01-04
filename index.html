@@ -37,8 +37,8 @@
 						<div class="col-xl-3 col-lg-2">
 							<div>
 								<a href="index.html">
-									<img class="visible-pc logo"  src="img/logo/f-logo.png" alt="战队Logo">
-									<img class="visible-mp" src="img/logo/f-logo.png" height="65.997888" width="250" alt="战队Logo" >
+									<img class="visible-pc logo"  src="img/logo/logo.png" alt="战队Logo">
+									<img class="visible-mp" src="img/logo/logo.png" height="65.997888" width="250" alt="战队Logo" >
 								</a>
 							</div>
 						</div>
@@ -373,98 +373,158 @@
 			<!-- team-area -->
 			<section id="team" class="team-area2 pt-120"
 				style="background: url(img/bg/match-bg4.webp) no-repeat; background-position:right top;">
-				<div class="container">
-					<div class="row">
-						<div class="col-lg-12">
-							<div class="section-title center-align text-center mb-50">
-								<h2>
-									新的团队，
-									<span>
-										新的征程
-									</span>
-								</h2>
-								<div class="line5">
-									<img src="img/bg/circle_left.png" alt="插图">
-								</div>
-							</div>
-						</div>
-					</div>
 
-					<div class="row">
-						<div class="col-lg-4 col-md-6">
-							<div class="single-team text-center text-shadow mb-30 ">
-								<div class="team-thumb">
-									<div class="brd">
 
-										<p align="center"><a href="img/team/team_img02.jpg" class="popup-image">
-											<img src="img/team/team_img02.jpg" style="border-radius:100%;"
-												 title="来自中国湖北" alt="天聊"></a>
-										</p>
+					 <!-- gallery-area -->
+
+						<div class="container">
+							<div class="portfolio ">
+								<div class="row align-items-center mb-30">
+									<div class="col-lg-12">
+										<div class="section-title center-align text-center cta-title mb-35">
+											<h2 a>	新的团队， <span>	新的征程</span></h2>
+											<img src="img/bg/circle_left.png" alt="circle left"/>
+										</div>
 									</div>
-									<div class="team-info">
-										<h4 title="来自中国湖北">
-											Tian Liao
-										</h4>
+									<div class="col-lg-12">
+										<div class="my-masonry">
+											<div class="center-align text-center button-group filter-button-group ">
+												<script type="text/javascript">
 
-										<span title="来自中国湖北">
-											<b>「队长」 战术大师</b>
-										</span>
-										<br>
+
+
+													const button = document.getElementById('sp');
+                                                    function clickButton() {
+                                                    button.click();
+                                                    setInterval(clickButton, 30);
+												</script>
+												<button  id="myButton" data-filter=".a">① 主力队员一列 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</button>
+	                                            <button data-filter=".b">② 主力队员二列 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</button>
+                                                 <button data-filter=".c">③ 强劲替补无需多言</button>
+<!--												<button data-filter=".family">Steam</button>-->
+<!--												<button data-filter=".business">Reper</button>-->
+											</div>
+										</div>
 									</div>
 								</div>
-							</div>
-						</div>
-						<div class="col-lg-4 col-md-6">
-							<div class="single-team text-center mb-30 ">
-								<div class="team-thumb">
-									<div class="brd">
+								<script>
+									document.addEventListener('DOMContentLoaded', (event) => {
+                                        const button = document.getElementById('myButton');
+                                        button.click();
+                                    });
+								</script>
 
-										<p align="center"><a href="img/team/team_img03.webp" class="popup-image">
-											<img src="img/team/team_img03.webp" style="border-radius:100%;"
-												 title="来自中国河北" alt="LASK"></a>
-										</p>
+								<div class="grid col4">
+									<div class="grid-item a">
+										<a href="img/team/team_img02.jpg"  class="popup-image">
+											<figure class="gallery-image">
+												<img src="img/team/team_img02.jpg" height="200%" width="200%" class="img"  title="来自中国湖北" alt="天聊">
+												<figcaption>
+
+													<h4>Tian Liao</h4>
+													<p>「队长」 战术大师</p>
+												</figcaption>
+											</figure>
+										</a>
 									</div>
-									<div class="team-info">
-										<h4 title="来自中国河北">
-											LASK
-										</h4>
-										<span title="来自中国河北">
-											<b>第一突破手</b>
-										</span>
+									<div class="grid-item a">
+										<a href="img/team/team_img03.webp"  class="popup-image">
+											<figure class="gallery-image">
+												<img src="img/team/team_img03.webp" height="200%" width="200%"  title="来自中国河北" alt="LASK" class="img">
+												<figcaption>
+
+													<h4>LASK</h4>
+													<p>第一突破手</p>
+												</figcaption>
+											</figure>
+										</a>
 									</div>
-									<p></p>
+									<div class="grid-item a b">
+										<a href="img/team/team_img05.jpg"  class="popup-image">
+											<figure class="gallery-image">
+												<img src="img/team/team_img05.jpg" alt="img" height="200%" width="200%"  title="来自中国浙江" class="img">
+												<figcaption>
+
+													<h4>EH. Ming Yu</h4>
+													<p>国服第一暗号哥</p>
+												</figcaption>
+											</figure>
+										</a>
+									</div>
+
+									<div class="grid-item a b">
+										<a href=""  class="popup-image">
+											<figure class="gallery-image">
+												<img src="img/team/team_img06.jpg" alt="img" height="200%" width="200%"  title="来自中国广东" class="img">
+												<figcaption>
+
+													<h4>KikaO.o</h4>
+													<p>自由人/突破手/副指挥</p>
+												</figcaption>
+											</figure>
+										</a>
+									</div>
+									<div class="grid-item b">
+										<a href="img/team/team_img04.jpg"  class="popup-image">
+											<figure class="gallery-image">
+												<img src="img/team/team_img04.jpg" alt="img" height="200%" width="200%" title="人在南极洲，在线勿扰"class="img">
+												<figcaption>
+
+													<h4>2973</h4>
+													<p>「站长」辅助/断后</p>
+												</figcaption>
+											</figure>
+										</a>
+									</div>
+
+									<div class="grid-item c">
+										<a href="img/team/team_img07.jpg"  class="popup-image">
+											<figure class="gallery-image">
+												<img src="img/team/team_img07.jpg" alt="img" height="200%" width="200%"  title="来自中国广东" class="img">
+												<figcaption>
+
+													<h4>XXSGMXX</h4>
+													<p>无 名 氏 朋 友</p>
+												</figcaption>
+											</figure>
+										</a>
+									</div>	<div class="grid-item c">
+									<a href="img/team/team_img08.jpg"  class="popup-image">
+										<figure class="gallery-image">
+											<img src="img/team/team_img08.jpg" alt="img" height="200%" width="200%"  title="来自中国广东" class="img">
+											<figcaption>
+
+												<h4>Chilldaoyu</h4>
+												<p>电竞 Rapper</p>
+											</figcaption>
+										</figure>
+									</a>
+								</div>
+									<div class="grid-item c">
+										<a href="img/team/team_img09.jpg"  class="popup-image">
+											<figure class="gallery-image">
+												<img src="img/team/team_img09.jpg" alt="img" height="200%" width="200%"  title="来自中国广东" class="img">
+												<figcaption>
+
+													<h4>Da1dL</h4>
+													<p>沙 二 大 帝</p>
+												</figcaption>
+											</figure>
+										</a>
+									</div>
 
 								</div>
+
 							</div>
 
-						</div>
-						<div class="col-lg-4 col-md-6">
-							<div class="single-team text-center mb-30 ">
-								<div class="team-thumb">
-									<div class="brd">
 
-										<p align="center"><a href="img/team/team_img04.png" class="popup-image">
-											<img src="img/team/team_img04.jpg" style="border-radius:100%;"
-												 title="人在南极洲，在线勿扰" alt="2973"></a>
-										</p>
-									</div>
-									<div class="team-info">
-										<h4 title="人在南极洲，在线勿扰">
-											2973
-										</h4>
-										<span title="人在南极洲，在线勿扰">
-											<b>「站长」辅助/断后</b>
-										</span>
-									</div>
-								</div>
-							</div>
 						</div>
 
-					</div>
+					<!-- gallery-area-end -->
 					<div class="slider-btn2 mt-50">
 						<div align="center">
-							<a href="about.html" class="btn ss-btn">
-								我们的战队究竟是什么？ &nbsp;
+							<a href="team.html" class="btn ss-btn">
+								自 我 介 绍 &nbsp;
 								<i class="fa fa-arrow-circle-right"></i>
 							</a>
 						</div>
@@ -497,7 +557,7 @@
 											<div class="single-post2 mb-30  p-relative">
 												<div class="blog-thumb2">
 													<a href="blog/Site-Wiki.html">
-														<img src="img/？？？_ba-style@nulla.top.png" alt="如何玩转本站封面图">
+														<img src="img/blog/The-road-to-success-is.png" alt="如何玩转本站封面图">
 													</a>
 												</div>
 												<div class="blog-content2">
@@ -505,7 +565,7 @@
 														<div class="col-lg-12">
 															<h4>
 																<a href="blog/Site-Wiki.html">
-																	如何玩转本站？
+																	如何玩转本站？ — some ways to give a try
 																</a>
 															</h4>
 															<div class="b-meta">
@@ -526,7 +586,7 @@
 															</div>
 															<div style="text-indent:2em;">
 																<p>
-																	你已经知道如何访问这个网站了，然后呢？
+																	你已经知道如何访问这个网站了，该向前走还是继续等？
 																</p>
 															</div>
 														</div>
@@ -833,7 +893,7 @@
 							文案策划: <b><i>Tian Liao</i></b>
 						</p>
 						<p  style="font-size: 1.75rem;">
-							文案撰写: <b><i>F1XER</i></b>
+							文案撰写: <b><i>KikaO.o</i></b>
 						</p>
 						<p  style="font-size: 1.75rem;">
 							图片提供: <b><i>Ming Yu</i></b>
@@ -895,14 +955,8 @@
 </footer>
 <!-- footer-end -->
 <!-- JS here -->
-
-<script src="js/Sakura.js">
-</script>
 <script src="js/mouse-click.js"></script>
-<canvas width="1777" height="841"
-	style="position: fixed; left: 0px; top: 0px; z-index: 2147483647; pointer-events: none;"></canvas>
-<script type="text/javascript" color="0,0,255" opacity='0.72' zIndex="-2" count="256" src="js/canvas-nest.js">
-</script>
+
 <script src="js/vendor/modernizr-3.5.0.min.js">
 </script>
 <script src="js/vendor/jquery-3.6.0.min.js">
@@ -940,12 +994,5 @@
 <script src="js/element-in-view.js">
 </script>
 <script src="js/main.js">
-</script>
-<script type="text/javascript">
-			(function (c, l, a, r, i, t, y) {
-                c[a] = c[a] || function () { (c[a].q = c[a].q || []).push(arguments) };
-                t = l.createElement(r); t.async = 1; t.src = "https://www.clarity.ms/tag/" + i;
-                y = l.getElementsByTagName(r)[0]; y.parentNode.insertBefore(t, y);
-            })(window, document, "clarity", "script", "e9mtp6w4eq");
 </script>
 </body>
