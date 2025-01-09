@@ -205,7 +205,7 @@
 		<section id="home" class="slider-area slider-four fix p-relative about-imgvideo-p">
 			<div class="slider-active">
 				<div class="single-slider slider-bg d-flex align-items-center"
-					style="background: url(https://gitee.com/thirteenice2973/three-musketeers/raw/main/img/slider/slider.jpg) no-repeat;background-size: cover; background-position: center top;">
+					style="background: url('img/slider/slider.jpg') no-repeat;background-size: cover; background-position: center top;">
 					<div class="after-bg">
 						<img src="https://gitee.com/thirteenice2973/three-musketeers/raw/main/img/bg/before-header-img.png">
 					</div><br>
@@ -224,7 +224,7 @@
 										<br>
 									<h1 align="center">
 										<div data-animation="fadeInDown" data-delay="1.5s">
-											<font color="#3399FF" style="border-style:dashed;border-radius: 10px;border-width: 5px;border-color: orange"> <a href="about.html">&nbsp;&nbsp;&nbsp;😇 start 😜&nbsp;&nbsp;&nbsp;</a> </font>
+											<font color="#3399FF" style="border: 1px solid #007bff; background-color: transparent; color: #007bff;"> <a href="about.html">&nbsp;😇 LET'S GO 😜&nbsp;</a> </font>
 										</div>
 									</h1>
 								</div>
@@ -383,14 +383,14 @@
 								<div class="row align-items-center mb-30">
 									<div class="col-lg-12">
 										<div class="section-title center-align text-center cta-title mb-35">
-											<h2 a>	新的团队， <span>	新的征程</span></h2>
+											<h2>	新的团队， <span>	新的征程</span></h2>
 											<img src="https://gitee.com/thirteenice2973/three-musketeers/raw/main/img/bg/circle_left.png" alt="circle left"/>
 										</div>
 									</div>
 									<div class="col-lg-12">
 										<div class="my-masonry">
 											<div class="center-align text-center button-group filter-button-group ">
-												<button  id="racing" data-filter=".a">① 主力队员一列 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</button>
+												<button  id="aid" data-filter=".a">① 主力队员一列 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</button>
 	                                            <button data-filter=".b">② 主力队员二列 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</button>
                                                  <button data-filter=".c">③ 强劲替补无需多言</button>
 <!--												<button data-filter=".family">Steam</button>-->
@@ -982,11 +982,5 @@
 </script>
 <script src="https://gitee.com/thirteenice2973/three-musketeers/raw/main/js/main.js">
 </script>
-	<script>
-		document.addEventListener('DOMContentLoaded', (event) => {
-            const button = document.getElementById('racing');
-            button.click();
-        });
-
-	</script>
+	<script src="https://gitee.com/thirteenice2973/three-musketeers/raw/main/js/autoclick.js"></script>
 </body>
