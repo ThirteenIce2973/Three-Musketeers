@@ -26,6 +26,7 @@
     <link rel="stylesheet" href="css/default.css">
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/responsive.css">
+    <link rel="stylesheet" href="css/loading.css">
     <meta name="referrer" content="no-referrer" />
 </head>
 
@@ -204,8 +205,45 @@
 <!-- offcanvas-end -->
 <!-- main-area -->
 <main>
+    <div id="loading-box">
+        <div class="loading-left-bg"></div>
+        <div class="loading-right-bg"></div>
+        <div class="spinner-box">
+            <div class="loader">
+                <div class="inner one"></div>
+                <div class="inner two"></div>
+                <div class="inner three"></div>
+            </div>
+            <div class="loading-word">
+                <p class="loading-title" id="loading-title">Loading...</p>
+                「<span id="loading-text" class="hitokoto"></span>」
+                <script type="text/javascript" src="https://v1.hitokoto.cn?encode=js&amp;charset=utf-8&amp;&amp;c=j&amp;c=k&amp;c=l"></script>
+            </div>
+        </div>
+    </div>
+    <script>
+        //加载完成后执行
+    window.addEventListener(
+      'load',
+      function () {
+        //载入动画
+        $('#loading-box').attr('class', 'loaded')
+        $('#bg').css(
+          'cssText',
+          'transform: scale(1);filter: blur(0px);transition: ease 1.5s;'
+        )
+        $('.cover').css('cssText', 'opacity: 1;transition: ease 1.5s;')
+        $('#section').css(
+          'cssText',
+          'transform: scale(1) !important;opacity: 1 !important;filter: blur(0px) !important'
+        )
+      },
+      false
+    )
+
+    </script>
     <!-- breadcrumb-area -->
-    <section class="breadcrumb-area d-flex align-items-center" style="background-image:url(https://gitee.com/thirteenice2973/three-musketeers/raw/main/img/bg/about-hd.webp)">
+    <section class="breadcrumb-area d-flex align-items-center" style="background-image:url(img/bg/about-hd.jpg)">
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-xl-12 col-lg-12">
@@ -264,7 +302,7 @@
                         <b>The Three Musketeers E-sports Team
                         </b>，缩写成 <b>TMES</b>，简称 <b> TM </b> 战队，名为 "
                         <b>三剑客战队</b>
-                        "，是由老棋交流联机群中游戏爱好者们组成的一支高级游戏团队。它成立于 2021年9月10日
+                        "，是由老棋交流联机群中游戏爱好者们建立的一支高级游戏团队。它成立于 2021年9月10日
                         ，由代理队长 <b><i>Tian
                         Liao</i></b> 和队员 <b><i>LASK</i></b> 、<b><i>2973</i></b> 共同创立。
                     </p>
@@ -294,7 +332,7 @@
                 </div>
             </div></div><br><br><br><br>
             <div class="row align-items-center justify-content-center text-center">
-                <div class="col-8">
+                <div class="col-14 col-xl-10">
                     <div class="match-time text-center mt-50 mb-50">
                         <div class="row align-items-center">
                             <div class="col-lg-12">
@@ -329,7 +367,7 @@
                                 8 人 <font color="pink" align="center">现有成员</font>
                             </h5>
                             一夫当关，万夫莫敌
-                        </div>
+                        </div><br><br><br>
                         <div class="col-lg-6">
                             <h5>
                                 4年 <font color="pink" align="center">成立时间</font>
@@ -367,10 +405,10 @@
                     </div>
                     <div class="visible-mp slider-btn2 mt-50">
                         <a href="team.html" class="btn ss-btn">
-                            <i class="fa fa-arrow-circle-left"></i> &nbsp; 那光鲜亮丽的主页？
+                            <i class="fa fa-arrow-circle-left"></i> 美丽的主页？
                         </a>
-                        &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="team.html" class="btn ss-btn">
-                        咱英俊威武的队员？&nbsp;
+                        <br> <br> <a href="team.html" class="btn ss-btn">
+                        威武的队员？
                         <i class="fa fa-arrow-circle-right"></i>
                     </a>
                     </div>

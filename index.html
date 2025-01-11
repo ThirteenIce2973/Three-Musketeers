@@ -25,6 +25,7 @@
 	<link rel="stylesheet" href="css/default.css">
 	<link rel="stylesheet" href="css/style.css">
 	<link rel="stylesheet" href="css/responsive.css">
+	<link rel="stylesheet" href="css/loading.css">
 	<meta name="referrer" content="no-referrer" />
 </head>
 <body>
@@ -38,8 +39,8 @@
 						<div class="col-xl-3 col-lg-2">
 							<div>
 								<a href="index.html">
-									<img class="visible-pc logo"  src="https://gitee.com/thirteenice2973/three-musketeers/raw/main/img/logo/logo.png" alt="战队Logo">
-									<img class="visible-mp" src="https://gitee.com/thirteenice2973/three-musketeers/raw/main/img/logo/logo.png" height="65.997888" width="250" alt="战队Logo" >
+									<img class="visible-pc logo"  src="img/logo/logo.png" alt="战队Logo">
+									<img class="visible-mp" src="img/logo/logo.png" height="65.997888" width="250" alt="战队Logo" >
 								</a>
 							</div>
 						</div>
@@ -78,7 +79,7 @@
 									</li>
 									<li>
 										<a href="#" class="menu-tigger" style="font-size: 2rem">
-											<img src="https://gitee.com/thirteenice2973/three-musketeers/raw/main/img/bg/toggle-menu.png">
+											<img src="img/bg/toggle-menu.png">
 										</a>
 									</li>
 								</ul>
@@ -94,6 +95,43 @@
 		</div>
 	</header>
 	<!-- header-end -->
+<div id="loading-box">
+	<div class="loading-left-bg"></div>
+	<div class="loading-right-bg"></div>
+	<div class="spinner-box">
+		<div class="loader">
+			<div class="inner one"></div>
+			<div class="inner two"></div>
+			<div class="inner three"></div>
+		</div>
+		<div class="loading-word">
+			<p class="loading-title" id="loading-title">Loading...</p>
+			「<span id="loading-text" class="hitokoto"></span>」
+			<script type="text/javascript" src="https://v1.hitokoto.cn?encode=js&amp;charset=utf-8&amp;&amp;c=j&amp;c=k&amp;c=l"></script>
+		</div>
+	</div>
+</div>
+	<script>
+		//加载完成后执行
+    window.addEventListener(
+      'load',
+      function () {
+        //载入动画
+        $('#loading-box').attr('class', 'loaded')
+        $('#bg').css(
+          'cssText',
+          'transform: scale(1);filter: blur(0px);transition: ease 1.5s;'
+        )
+        $('.cover').css('cssText', 'opacity: 1;transition: ease 1.5s;')
+        $('#section').css(
+          'cssText',
+          'transform: scale(1) !important;opacity: 1 !important;filter: blur(0px) !important'
+        )
+      },
+      false
+    )
+
+	</script>
 	<!-- offcanvas-area -->
 	<div class="offcanvas-menu">
 		<span class="menu-close">
@@ -201,29 +239,30 @@
 	<!-- offcanvas-end -->
 	<!-- main-area -->
 	<main>
+
 		<!-- slider-area -->
 		<section id="home" class="slider-area slider-four fix p-relative about-imgvideo-p">
 			<div class="slider-active">
 				<div class="single-slider slider-bg d-flex align-items-center"
-					style="background: url('img/slider/slider.jpg') no-repeat;background-size: cover; background-position: center top;">
+					style="background: url(https://s1.hdslb.com/bfs/article/9edfda9e1733c9a5530116d9ebb34c9b2120636720.jpg@1e_1c.webp) no-repeat;background-size: cover; background-position: center top;">
 					<div class="after-bg">
-						<img src="https://gitee.com/thirteenice2973/three-musketeers/raw/main/img/bg/before-header-img.png">
+						<img src="img/bg/before-header-img.png">
 					</div><br>
 					<div class="container">
 						<div class="row justify-content-center pt-50 text-center">
 							<div class="col-lg-12 col-md-12">
 								<div class="slider-content s-slider-content">
-									<h5 align="center" data-animation="fadeInDown" data-delay=".75s">
+									<h5 align="center" data-animation="fadeInDown" data-delay="1s">
 										「 坚信理想信念，心怀山海，一齐向未来 」
 									</h5>
-									<h2 align="center" data-animation="fadeInUp" data-delay=".5s">
+									<h2 align="center" data-animation="fadeInUp" data-delay=".75s">
 										<font color="pink" align="center">Three-Musketeers</font>
 										<br>
 										<font color="#00FFFF" align="center">战队官方网站</font>
 									</h2>
 										<br>
 									<h1 align="center">
-										<div data-animation="fadeInDown" data-delay="1.5s">
+										<div data-animation="fadeInDown" data-delay="1.6s">
 											<font color="#3399FF" style="border: 1px solid #007bff; background-color: transparent; color: #007bff;"> <a href="about.html">&nbsp;😇 LET'S GO 😜&nbsp;</a> </font>
 										</div>
 									</h1>
@@ -240,7 +279,7 @@
 		<!-- slider-area-end -->
 		<!-- gallery-area -->
 		<section id="work" class="pt-120 pb-65"
-			style="background: url(https://gitee.com/thirteenice2973/three-musketeers/raw/main/img/bg/match-bg.webp) no-repeat; background-position:right top;">
+			style="background: url(img/bg/match-bg.webp) no-repeat; background-position:right top;">
 			<div class="align-items-center">
 				<div class="col-lg-12">
 					<div class="section-title center-align text-center mb-50">
@@ -251,7 +290,7 @@
 							</span>
 						</h2>
 						<div class="line5">
-							<img src="https://gitee.com/thirteenice2973/three-musketeers/raw/main/img/bg/circle_left.png" alt="插图">
+							<img src="img/bg/circle_left.png" alt="插图">
 						</div>
 					</div>
 				</div>
@@ -260,7 +299,7 @@
 				<div class="row">
 					<div class="col-lg-4 col-md-6">
 						<figure class="gallery-image"><a href="img/gallery/protfolio-img01.webp" class="popup-image">
-							<img src="https://gitee.com/thirteenice2973/three-musketeers/raw/main/img/gallery/protfolio-img01.webp" alt="PUBG" class="img"></a>
+							<img src="img/gallery/protfolio-img01.webp" alt="PUBG" class="img"></a>
 							<figcaption>
 								<span>
 									move
@@ -283,7 +322,7 @@
 					</div>
 					<div class="col-lg-4 col-md-6">
 						<figure class="gallery-image"><a href="img/gallery/protfolio-img02.webp" class="popup-image">
-							<img src="https://gitee.com/thirteenice2973/three-musketeers/raw/main/img/gallery/protfolio-img02.webp" alt="CS2" class="img"></a>
+							<img src="img/gallery/protfolio-img02.webp" alt="CS2" class="img"></a>
 							<figcaption>
 								<span>
 									YES
@@ -306,7 +345,7 @@
 					</div>
 					<div class="col-lg-4 col-md-6">
 						<figure class="gallery-image"><a href="img/gallery/protfolio-img03.webp" class="popup-image">
-							<img src="https://gitee.com/thirteenice2973/three-musketeers/raw/main/img/gallery/protfolio-img03.webp" alt="Minecraft" class="img"></a>
+							<img src="img/gallery/protfolio-img03.webp" alt="Minecraft" class="img"></a>
 							<figcaption>
 								<span>
 									YYDS
@@ -338,53 +377,88 @@
 					<div class="row brand-active">
 						<div class="col-xl-1">
 							<div class="single-brand">
-								<img src="https://gitee.com/thirteenice2973/three-musketeers/raw/main/img/brand/b-logo1.png" alt="Apex">
+								<img src="img/brand/b-logo1.png" alt="Apex">
 							</div>
 						</div>
 						<div class="col-xl-1">
 							<div class="single-brand">
-								<img src="https://gitee.com/thirteenice2973/three-musketeers/raw/main/img/brand/b-logo2.png" alt="LOL">
+								<img src="img/brand/b-logo2.png" alt="LOL">
 							</div>
 						</div>
 						<div class="col-xl-1">
 							<div class="single-brand">
-								<img src="https://gitee.com/thirteenice2973/three-musketeers/raw/main/img/brand/b-logo3.png" alt="Muse Dash">
+								<img src="img/brand/b-logo3.png" alt="Muse Dash">
 							</div>
 						</div>
 						<div class="col-xl-1">
 							<div class="single-brand">
-								<img src="https://gitee.com/thirteenice2973/three-musketeers/raw/main/img/brand/b-logo4.png" alt="Minecraft Dungeons">
+								<img src="img/brand/b-logo4.png" alt="Minecraft Dungeons">
 							</div>
 						</div>
 						<div class="col-xl-1">
 							<div class="single-brand">
-								<img src="https://gitee.com/thirteenice2973/three-musketeers/raw/main/img/brand/b-logo5.png" alt="CS起源">
+								<img src="img/brand/b-logo5.png" alt="CS起源">
 							</div>
 						</div>
 						<div class="col-xl-1">
 							<div class="single-brand">
-								<img src="https://gitee.com/thirteenice2973/three-musketeers/raw/main/img/brand/b-logo6.png" alt="Human Fall Flat">
+								<img src="img/brand/b-logo6.png" alt="Human Fall Flat">
 							</div>
 						</div>
 					</div>
 				</div>
 			</div>
-
 			<!-- gallery-area-end -->
+			</section>
 			<!-- team-area -->
-			<section id="team" class="team-area2 pt-120"
-				style="background: url(https://gitee.com/thirteenice2973/three-musketeers/raw/main/img/bg/match-bg4.webp) no-repeat; background-position:right top;">
+			<section class="team-area2 pt-120"
+				style="background: url(
+				img/bg/blog-bg.png) no-repeat; background-position:right top;">
+
+				<!-- features-area -->
+				<p class="visible-pc" align="center">———————————————————————————————————————————————————————————————————————————————————————————————————————</p>
+				<p class="visible-mp" align="center">———————————————————————</p>
+				<section id="graph" class="features-area pt-115 pb-120">
+					<div class="container">
+
+						<div class="row align-items-center text-center">
+
+							<div class="col-lg-12 col-md-12">
+								<div class="section-title cta-title  mb-20">
+									<h2>世界上，<span>有这么一支战队</span></h2><img src="img/bg/circle_left.png" alt="circle left"/><br><br>
+									<p style="color:aqua">这是一支老棋交流联机群中游戏爱好者们建立的几人小队，一支高 <del>（睾）</del> 级的游戏团队，于2021年9月成立，由来自不同地区的玩家组成。
+										<br><br>你将扮演一位神秘用户，被 Tian Liao 授予“捞头”权力，在各有千秋和独特的网页冲浪中，引导本站的力量，逐步发掘「Three Musketeers」的真相。
+										<br><br>不想去看看吗？</p>
+
+								</div><p></p>
+								<div class="slider-btn2 mt-50">
+									<div align="center">
+										<a href="about.html"  target="_blank" class="btn ss-btn">
+											深 入 了 解 &nbsp;
+											<i class="fa fa-arrow-circle-right"></i>
+										</a>
+									</div>
+								</div>
+
+							</div>
 
 
-					 <!-- gallery-area -->
+						</div>
 
-						<div class="container">
+					</div><br><br><br><br><p class="visible-pc" align="center">————————————————————————————————————————————————————————————————————————————————————————————————————————</p>
+				<p class="visible-mp" align="center">———————————————————————</p>
+				</section>
+				 <!-- gallery-area -->
+		<section id="team" class="team-area2 pt-120"
+				 style="background: url(
+				img/bg/match-bg4.webp) no-repeat; background-position:right top;">
+						<div class="container" >
 							<div class="portfolio ">
 								<div class="row align-items-center mb-30">
 									<div class="col-lg-12">
 										<div class="section-title center-align text-center cta-title mb-35">
 											<h2>	新的团队， <span>	新的征程</span></h2>
-											<img src="https://gitee.com/thirteenice2973/three-musketeers/raw/main/img/bg/circle_left.png" alt="circle left"/>
+											<img src="img/bg/circle_left.png" alt="circle left"/>
 										</div>
 									</div>
 									<div class="col-lg-12">
@@ -405,7 +479,7 @@
 									<div class="grid-item a">
 										<a href="img/team/team_img02.jpg"  class="popup-image">
 											<figure class="gallery-image">
-												<img src="https://gitee.com/thirteenice2973/three-musketeers/raw/main/img/team/team_img02.jpg" height="200%" width="200%" class="img"  title="来自中国湖北" alt="天聊">
+												<img src="img/team/team_img02.jpg" height="200%" width="200%" class="img"  title="来自中国湖北" alt="天聊">
 												<figcaption>
 
 													<h4>Tian Liao</h4>
@@ -417,7 +491,7 @@
 									<div class="grid-item a">
 										<a href="img/team/team_img03.webp"  class="popup-image">
 											<figure class="gallery-image">
-												<img src="https://gitee.com/thirteenice2973/three-musketeers/raw/main/img/team/team_img03.webp" height="200%" width="200%"  title="来自中国河北" alt="LASK" class="img">
+												<img src="img/team/team_img03.webp" height="200%" width="200%"  title="来自中国河北" alt="LASK" class="img">
 												<figcaption>
 
 													<h4>LASK</h4>
@@ -429,7 +503,7 @@
 									<div class="grid-item a b">
 										<a href="img/team/team_img05.jpg"  class="popup-image">
 											<figure class="gallery-image">
-												<img src="https://gitee.com/thirteenice2973/three-musketeers/raw/main/img/team/team_img05.jpg" alt="img" height="200%" width="200%"  title="来自中国浙江" class="img">
+												<img src="img/team/team_img05.jpg" alt="img" height="200%" width="200%"  title="来自中国浙江" class="img">
 												<figcaption>
 
 													<h4>EH. Ming Yu</h4>
@@ -442,7 +516,7 @@
 									<div class="grid-item a b">
 										<a href=""  class="popup-image">
 											<figure class="gallery-image">
-												<img src="https://gitee.com/thirteenice2973/three-musketeers/raw/main/img/team/team_img06.jpg" alt="img" height="200%" width="200%"  title="来自中国广东" class="img">
+												<img src="img/team/team_img06.jpg" alt="img" height="200%" width="200%"  title="来自中国广东" class="img">
 												<figcaption>
 
 													<h4>KikaO.o</h4>
@@ -454,7 +528,7 @@
 									<div class="grid-item b">
 										<a href="img/team/team_img04.jpg"  class="popup-image">
 											<figure class="gallery-image">
-												<img src="https://gitee.com/thirteenice2973/three-musketeers/raw/main/img/team/team_img04.jpg" alt="img" height="200%" width="200%" title="人在南极洲，在线勿扰"class="img">
+												<img src="img/team/team_img04.jpg" alt="img" height="200%" width="200%" title="人在南极洲，在线勿扰"class="img">
 												<figcaption>
 
 													<h4>2973</h4>
@@ -467,7 +541,7 @@
 									<div class="grid-item c">
 										<a href="img/team/team_img07.jpg"  class="popup-image">
 											<figure class="gallery-image">
-												<img src="https://gitee.com/thirteenice2973/three-musketeers/raw/main/img/team/team_img07.jpg" alt="img" height="200%" width="200%"  title="来自中国广东" class="img">
+												<img src="img/team/team_img07.jpg" alt="img" height="200%" width="200%"  title="来自中国广东" class="img">
 												<figcaption>
 
 													<h4>XXSGMXX</h4>
@@ -478,7 +552,7 @@
 									</div>	<div class="grid-item c">
 									<a href="img/team/team_img08.jpg"  class="popup-image">
 										<figure class="gallery-image">
-											<img src="https://gitee.com/thirteenice2973/three-musketeers/raw/main/img/team/team_img08.jpg" alt="img" height="200%" width="200%"  title="来自中国广东" class="img">
+											<img src="img/team/team_img08.jpg" alt="img" height="200%" width="200%"  title="来自中国广东" class="img">
 											<figcaption>
 
 												<h4>Chilldaoyu</h4>
@@ -490,7 +564,7 @@
 									<div class="grid-item c">
 										<a href="img/team/team_img09.jpg"  class="popup-image">
 											<figure class="gallery-image">
-												<img src="https://gitee.com/thirteenice2973/three-musketeers/raw/main/img/team/team_img09.jpg" alt="img" height="200%" width="200%"  title="来自中国广东" class="img">
+												<img src="img/team/team_img09.jpg" alt="img" height="200%" width="200%"  title="来自中国广东" class="img">
 												<figcaption>
 
 													<h4>Da1dL</h4>
@@ -506,11 +580,11 @@
 
 
 						</div>
-
+		</section>
 					<!-- gallery-area-end -->
 					<div class="slider-btn2 mt-50">
 						<div align="center">
-							<a href="team.html" class="btn ss-btn">
+							<a href="team.html"  target="_blank" class="btn ss-btn">
 								自 我 介 绍 &nbsp;
 								<i class="fa fa-arrow-circle-right"></i>
 							</a>
@@ -519,10 +593,10 @@
 					<br>
 					<br>
 					<!-- team-area-end -->
-<!--					<style="background: url(https://gitee.com/thirteenice2973/three-musketeers/raw/main/img/bg/trendiang-bg.webp) no-repeat; background-position:right top;">-->
+<!--					<style="background: url(img/bg/trendiang-bg.webp) no-repeat; background-position:right top;">-->
 						<!-- blog-area -->
 						<section id="blog" class="blog-area  p-relative pt-120 pb-90 fix"
-							style="background: url(https://gitee.com/thirteenice2973/three-musketeers/raw/main/img/bg/video-bg2.webp) no-repeat; background-position:right top;">
+							style="background: url(img/bg/video-bg2.webp) no-repeat; background-position:right top;">
 							<div class="container">
 								<div class="row align-items-center">
 									<div class="col-lg-12">
@@ -533,7 +607,7 @@
 													消息
 												</span>
 											</h2>
-											<img src="https://gitee.com/thirteenice2973/three-musketeers/raw/main/img/bg/circle_left.png" alt="插图" />
+											<img src="img/bg/circle_left.png" alt="插图" />
 										</div>
 									</div>
 								</div>
@@ -544,7 +618,7 @@
 											<div class="single-post2 mb-30  p-relative">
 												<div class="blog-thumb2">
 													<a href="blog/Site-Wiki.html">
-														<img src="https://gitee.com/thirteenice2973/three-musketeers/raw/main/img/blog/The-road-to-success-is.png" alt="如何玩转本站封面图">
+														<img src="img/blog/The-road-to-success-is.png" alt="如何玩转本站封面图">
 													</a>
 												</div>
 												<div class="blog-content2">
@@ -586,7 +660,7 @@
 											<div class="single-post2 mb-30  p-relative">
 												<div class="blog-thumb2">
 													<a href="blog/MingYu-Server-1stAnniversary.html">
-														<img src="https://gitee.com/thirteenice2973/three-musketeers/raw/main/img/blog/inner_a4.webp" alt="服务器一周年庆典活动封面图">
+														<img src="img/blog/inner_a4.webp" alt="服务器一周年庆典活动封面图">
 													</a>
 												</div>
 												<div class="blog-content2">
@@ -629,7 +703,7 @@
 											<div class="single-post2 mb-30  p-relative">
 												<div class="blog-thumb2">
 													<a href="blog/MasterBuilder-Season1.html">
-														<img src="https://gitee.com/thirteenice2973/three-musketeers/raw/main/img/blog/inner_a2.webp" alt="《建筑大师》第一季开幕式封面图">
+														<img src="img/blog/inner_a2.webp" alt="《建筑大师》第一季开幕式封面图">
 													</a>
 												</div>
 												<div class="blog-content2">
@@ -683,8 +757,8 @@
 
 					<div class="footer-widget mb-30">
 						<div class="f-widget-title mb-20">
-							<a href="index.html"><img class="visible-mp" src="https://gitee.com/thirteenice2973/three-musketeers/raw/main/img/logo/logo.png" width="340" height="89.7571277719113" style="margin: 0px 6.5px ;" alt="img">
-								<img class="visible-pc" src="https://gitee.com/thirteenice2973/three-musketeers/raw/main/img/logo/logo.png" width="400" height="105.59662" style="margin: 21.5px 22px ;" alt="img"></a>
+							<a href="index.html"><img class="visible-mp" src="img/logo/logo.png" width="309.09" height="81.59738888355573" style="margin: 0 auto;" alt="img">
+								<img class="visible-pc" src="img/logo/logo.png" width="400" height="105.59662" style="margin: 21.5px auto;" alt="img"></a>
 						</div>
 						<div class="footer-link" align="center">
 							<h6 class="visible-pc">「坚信理想信念，心怀山海，一齐向未来」
@@ -785,7 +859,7 @@
 							<div class="footer-link">
 								<ul  class="visible-pc">
 									<li style="font-size: 15pt;">
-										<img src="https://gitee.com/thirteenice2973/three-musketeers/raw/main/img/icon/bing.png" width="20" height="20">
+										<img src="img/icon/bing.png" width="20" height="20">
 										&nbsp;&nbsp;
 										<a href="https://www.bing.com/search?q=three+musketeers%E6%88%98%E9%98%9F" target="_blank"
 										   class="tag-link-29 tag-link-position-7">
@@ -793,7 +867,7 @@
 										</a>
 									</li>
 									<li style="font-size: 15pt;">
-										<img src="https://gitee.com/thirteenice2973/three-musketeers/raw/main/img/icon/gitee.svg" width="20" height="20">
+										<img src="img/icon/gitee.png" width="20" height="20">
 										&nbsp;&nbsp;
 										<a href="https://gitee.com/thirteenice2973/three-musketeers" target="_blank"
 										   class="tag-link-29 tag-link-position-7">
@@ -802,7 +876,7 @@
 									</li>
 
 									<li style="font-size: 15pt;">
-										<img src="https://gitee.com/thirteenice2973/three-musketeers/raw/main/img/icon/oopz.ico" width="20" height="20">
+										<img src="img/icon/oopz.png" width="20" height="20">
 										&nbsp;&nbsp;
 										<a href="https://oopz.cn/i/Fk2RFe" target="_blank"
 										   class="tag-link-29 tag-link-position-7">
@@ -810,7 +884,7 @@
 										</a>
 									</li>
 									<li style="font-size: 15pt;">
-										<img src="https://gitee.com/thirteenice2973/three-musketeers/raw/main/img/icon/QQ.png" width="20" height="20">
+										<img src="img/icon/QQ.png" width="20" height="20">
 										&nbsp;&nbsp;
 										<a href="https://jq.qq.com/?_wv=1027&k=wG6YQr4X" target="_blank"
 										   class="tag-link-29 tag-link-position-7">
@@ -821,7 +895,7 @@
 
 								<ul  class="visible-mp" align="center">
 									<li style="font-size: 15pt;">
-										<img src="https://gitee.com/thirteenice2973/three-musketeers/raw/main/img/icon/bing.png" width="20" height="20">
+										<img src="img/icon/bing.png" width="20" height="20">
 										&nbsp;&nbsp;
 										<a href="https://www.bing.com/search?q=three+musketeers%E6%88%98%E9%98%9F" target="_blank"
 										   class="tag-link-29 tag-link-position-7">
@@ -829,7 +903,7 @@
 										</a>
 									</li>
 									<li style="font-size: 15pt;">
-										<img src="https://gitee.com/thirteenice2973/three-musketeers/raw/main/img/icon/gitee.svg" width="20" height="20">
+										<img src="img/icon/gitee.png" width="20" height="20">
 										&nbsp;&nbsp;
 										<a href="https://gitee.com/thirteenice2973/three-musketeers" target="_blank"
 										   class="tag-link-29 tag-link-position-7">
@@ -838,7 +912,7 @@
 									</li>
 
 									<li style="font-size: 15pt;">
-										<img src="https://gitee.com/thirteenice2973/three-musketeers/raw/main/img/icon/oopz.ico" width="20" height="20">
+										<img src="img/icon/oopz.png" width="20" height="20">
 										&nbsp;&nbsp;
 										<a href="https://oopz.cn/i/Fk2RFe" target="_blank"
 										   class="tag-link-29 tag-link-position-7">
@@ -846,7 +920,7 @@
 										</a>
 									</li>
 									<li style="font-size: 15pt;">
-										<img src="https://gitee.com/thirteenice2973/three-musketeers/raw/main/img/icon/QQ.png" width="20" height="20">
+										<img src="img/icon/QQ.png" width="20" height="20">
 										&nbsp;&nbsp;
 										<a href="https://jq.qq.com/?_wv=1027&k=wG6YQr4X" target="_blank"
 										   class="tag-link-29 tag-link-position-7">
@@ -920,20 +994,20 @@
 			<p></p>
 		<div style="text-align: center;" class="visible-pc">
             <p><a href="https://icp.gov.moe/?keyword=20240120" target="_blank" class="underline">
-                <font color="orange"><b><img src="https://gitee.com/thirteenice2973/three-musketeers/raw/main/img/icon/moe.ico" width="25" height="25" alt="萌ICP备"> 萌ICP备 20240120 号 </font>
+                <font color="orange"><b><img src="img/icon/moe.png" width="25" height="25" alt="萌ICP备"> 萌ICP备 20240120 号 </font>
             </a>
 				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-            <a href="https://travel.moe/go.html?travel=on" target="_blank" class="underline"><font color="orange"><img src="https://travel.moe/images/icon/icon64.png" style="width:23px;height:23px">Let's 一起旅行(◦˙▽˙◦)？ </font></a></b>
+            <a href="https://travel.moe/go.html?travel=on" target="_blank" class="underline"><font color="orange"><img src="https://travel.moe/images/icon/icon64.png" style="width:23px;height:23px"> &nbsp;Let's 一起旅行(◦˙▽˙◦)？ </font></a></b>
 
             </p>
         </div>
 			<div style="text-align: center;" class="visible-mp">
 				<p><a href="https://icp.gov.moe/?keyword=20240120" target="_blank" class="underline">
-					<font color="orange"><b><img src="https://gitee.com/thirteenice2973/three-musketeers/raw/main/img/icon/moe.ico" width="25" height="25" alt="萌ICP备"> 萌ICP备 20240120 号 </font>
+					<font color="orange"><b><img src="img/icon/moe.png" width="25" height="25" alt="萌ICP备"> 萌ICP备 20240120 号 </font>
 				</a><br>
 
-					<a href="https://travel.moe/go.html?travel=on" target="_blank" class="underline"><font color="orange"><img src="https://travel.moe/images/icon/icon64.png" style="width:23px;height:23px">Travel together! 一起旅行(◦˙▽˙◦)？ </font></a></br>
+					<a href="https://travel.moe/go.html?travel=on" target="_blank" class="underline"><font color="orange"><img src="https://travel.moe/images/icon/icon64.png" style="width:23px;height:23px"> &nbsp;Travel together! 一起旅行(◦˙▽˙◦)？ </font></a></br>
 
 				</p>
 			</div>
@@ -942,45 +1016,45 @@
 </footer>
 <!-- footer-end -->
 <!-- JS here -->
-<script src="https://gitee.com/thirteenice2973/three-musketeers/raw/main/js/mouse-click.js" defer></script>
+<script src="js/mouse-click.js" defer></script>
 
-<script src="https://gitee.com/thirteenice2973/three-musketeers/raw/main/js/vendor/modernizr-3.5.0.min.js" defer>
+<script src="js/vendor/modernizr-3.5.0.min.js" defer>
 </script>
-<script src="https://gitee.com/thirteenice2973/three-musketeers/raw/main/js/vendor/jquery-3.6.0.min.js" defer>
+<script src="js/vendor/jquery-3.6.0.min.js" defer>
 </script>
-<script src="https://gitee.com/thirteenice2973/three-musketeers/raw/main/js/popper.min.js" defer>
+<script src="js/popper.min.js" defer>
 </script>
-<script src="https://gitee.com/thirteenice2973/three-musketeers/raw/main/js/bootstrap.min.js" defer>
+<script src="js/bootstrap.min.js" defer>
 </script>
-<script src="https://gitee.com/thirteenice2973/three-musketeers/raw/main/js/slick.min.js" defer>
+<script src="js/slick.min.js" defer>
 </script>
-<script src="https://gitee.com/thirteenice2973/three-musketeers/raw/main/js/ajax-form.js" defer>
+<script src="js/ajax-form.js" defer>
 </script>
-<script src="https://gitee.com/thirteenice2973/three-musketeers/raw/main/js/paroller.js" defer>
+<script src="js/paroller.js" defer>
 </script>
-<script src="https://gitee.com/thirteenice2973/three-musketeers/raw/main/js/wow.min.js" defer>
+<script src="js/wow.min.js" defer>
 </script>
-<script src="https://gitee.com/thirteenice2973/three-musketeers/raw/main/js/js_isotope.pkgd.min.js" defer>
+<script src="js/js_isotope.pkgd.min.js" defer>
 </script>
-<script src="https://gitee.com/thirteenice2973/three-musketeers/raw/main/js/imagesloaded.min.js" defer>
+<script src="js/imagesloaded.min.js" defer>
 </script>
-<script src="https://gitee.com/thirteenice2973/three-musketeers/raw/main/js/parallax.min.js" defer>
+<script src="js/parallax.min.js" defer>
 </script>
-<script src="https://gitee.com/thirteenice2973/three-musketeers/raw/main/js/jquery.waypoints.min.js" defer>
+<script src="js/jquery.waypoints.min.js" defer>
 </script>
-<script src="https://gitee.com/thirteenice2973/three-musketeers/raw/main/js/jquery.counterup.min.js" defer>
+<script src="js/jquery.counterup.min.js" defer>
 </script>
-<script src="https://gitee.com/thirteenice2973/three-musketeers/raw/main/js/jquery.scrollUp.min.js" defer>
+<script src="js/jquery.scrollUp.min.js" defer>
 </script>
-<script src="https://gitee.com/thirteenice2973/three-musketeers/raw/main/js/jquery.meanmenu.min.js" defer>
+<script src="js/jquery.meanmenu.min.js" defer>
 </script>
-<script src="https://gitee.com/thirteenice2973/three-musketeers/raw/main/js/parallax-scroll.js" defer>
+<script src="js/parallax-scroll.js" defer>
 </script>
-<script src="https://gitee.com/thirteenice2973/three-musketeers/raw/main/js/jquery.magnific-popup.min.js" defer>
+<script src="js/jquery.magnific-popup.min.js" defer>
 </script>
-<script src="https://gitee.com/thirteenice2973/three-musketeers/raw/main/js/element-in-view.js" defer>
+<script src="js/element-in-view.js" defer>
 </script>
-<script src="https://gitee.com/thirteenice2973/three-musketeers/raw/main/js/main.js" defer>
+<script src="js/main.js" defer>
 </script>
-	<script src="https://gitee.com/thirteenice2973/three-musketeers/raw/main/js/autoclick.js" defer></script>
+	<script src="js/autoclick.js" defer></script>
 </body>

@@ -2610,7 +2610,7 @@ margin-top: 30px;
 /* 9. brand */
 .single-brand {text-align: center;}
 .single-brand img {display: inline-block;
-    opacity: .5;
+    opacity: .9;
 }
 .single-brand img:hover{
     opacity: 1;
@@ -9771,5 +9771,7 @@ header.masthead {
 .underline:hover {
 		text-decoration: underline;
 	}
-
+::-webkit-scrollbar-thumb {
+    background: #ff0000; /* 设置滑块的颜色 */
+}
 

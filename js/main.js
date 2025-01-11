@@ -350,7 +350,7 @@ $('.brand-active').slick({
 	dots: false,
 	infinite: true,
     autoplay:true,
-  autoplaySpeed:1500,
+  autoplaySpeed:500,
 	arrows: false,
 	speed: 1000,
 	slidesToShow:4,
