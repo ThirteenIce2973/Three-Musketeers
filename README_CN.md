@@ -1,10 +1,8 @@
-# [ Three Musketeers - 战队官方网站 ](https://tmes.eu.org/)
-
-[![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://GitHub.com/Naereen/)
+# [ Three Musketeers | 战队官方网站 ](https://tmes.eu.org/)
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
 [![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg)](http://ForTheBadge.com)
+[![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://GitHub.com/Naereen/)
 [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
-
 
 > [English](README.md) | 简体中文 <br>
 
@@ -21,14 +19,25 @@
 The Three Musketeers E-sports Team ，又名 TMES TEAM 、TM TEAM，简称 TM (ES) 战队，译名为 " 三剑客战队 "，是由老棋交流联机群中游戏爱好者们组成的一支高级游戏团队 。<br><p></p>在游戏中，我们相互尊重，互帮互助，保持着良好的交流氛围，形成相互信赖的和谐关系。我们始终共同进步，团结一致，努力做好每一个细节，力争上游。<br><br>
 
 
-### 本页讯息
+### 可圈可点
 > 本站的<b>源码</b>地址于此。 
 - 本站由站长  <i>`ThirteenIce2973`</i>  实际搭建并维护。 使用了 <i>`Github Pages`</i> 和 <i>`Cloudflare`</i> 部署并加以保护。
  
 - 由于移动端适配的问题，个别页面效果会出现展示欠佳的问题。请优先使用 PC 端访问本站。
   
-- 本站使用 <i>`Cloudflare`</i> 美国服务器，不受中国法律保护，不需中国国内 ICP 备案。因此，可能会出现加载缓慢的问题，在完全加载之前，还有许多页面效果或者一些背景图无法展示，请各位客官欣赏窗外风景，稍等片刻。
-  
-- 模板源自 Github <i>`huniko519/Eoorox-Gaming-Esport-HTML`</i>，进行了二次开发和修改 &nbsp;同时使用了摘自 <i> `CSDN` </i> 的鼠标图标、粒子效果。<br> <p></p>
+- 本站使用 <i>`Cloudflare`</i> 美国服务器，不需中国国内 ICP 备案。[萌ICP备 20240120 号](https://icp.gov.moe/?keyword=20240120)
 
-- 本站萌国ICP备案：[萌ICP备 20240120 号](https://icp.gov.moe/?keyword=20240120)，欢迎大家交流互动。
+### 写在最后
+#### 诚恳感谢：
+- 灵感 `https://github.com/Huniko519/Eoorox-Gaming-Esport-HTML` （Accepted）
+- 字体 `https://kivo.wiki/`
+- 加载动画 `https://www.cnblogs.com/yecss/p/16862476.html`
+- 嘉然live2d `https://www.moeshou.com/310/`
+- 音乐播放器 `https://musicplayer.xfyun.club/`
+- API `https://www.hitokoto.cn` , `https://www.jinrishici.com/`
+- 镜像站 `https://zstatic.net/` ， `https://blog.jsdmirror.com/`
+- 此外，还参考和二次开发了互联网上公开的一些小项目，有启发，亦有思考。在源代码处保留署名，但暂不列于此处，深感抱歉
+
+> 该项目不商用不盈利，供学习与自娱自乐之用。<br>有问题请及时联系，信箱: 2973@tmes.eu.org   谢谢！
+
+Have a good day!
