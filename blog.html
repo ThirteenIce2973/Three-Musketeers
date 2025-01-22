@@ -204,7 +204,43 @@
 <!-- offcanvas-end -->
 <!-- main-area -->
 <main>
+    <div id="loading-box">
+        <div class="loading-left-bg"></div>
+        <div class="loading-right-bg"></div>
+        <div class="spinner-box">
+            <div class="loader">
+                <div class="inner one"></div>
+                <div class="inner two"></div>
+                <div class="inner three"></div>
+            </div>
+            <div class="loading-word">
+                <p class="loading-title" id="loading-title">Loading...</p>
+                「<span id="loading-text" class="hitokoto"></span>」
+                <script type="text/javascript" src="https://v1.hitokoto.cn?encode=js&amp;charset=utf-8&amp;&amp;c=j&amp;c=k&amp;c=l"></script>
+            </div>
+        </div>
+    </div>
+    <script>
+        //加载完成后执行
+    window.addEventListener(
+      'load',
+      function () {
+        //载入动画
+        $('#loading-box').attr('class', 'loaded')
+        $('#bg').css(
+          'cssText',
+          'transform: scale(1);filter: blur(0px);transition: ease 1.5s;'
+        )
+        $('.cover').css('cssText', 'opacity: 1;transition: ease 1.5s;')
+        $('#section').css(
+          'cssText',
+          'transform: scale(1) !important;opacity: 1 !important;filter: blur(0px) !important'
+        )
+      },
+      false
+    )
 
+    </script>
     <!-- search-popup -->
     <div class="modal fade bs-example-modal-lg search-bg popup1" tabindex="-1" role="dialog">
         <div class="modal-dialog modal-lg" role="document">
@@ -254,7 +290,7 @@
     </section>
     <!-- breadcrumb-area-end -->
     <!-- inner-blog -->
-    <section class="inner-blog pb-90">
+    <section class="inner-blog pb-90" style="background: url(img/bg/match-bg3.webp) no-repeat; background-position:right top;">
         <div class="container">
             <br>
             </br>
@@ -299,7 +335,7 @@
                     </div>
 
 
-                    <div class="bsingle__post mb-50">
+                    <div class="bsingle__post mb-50" >
                         <div class="bsingle__post-thumb">
                             <a href="blog/MingYu-Server-1stAnniversary.html"><img src="img/blog/inner_b4.webp"
                                                                                   alt="img">
@@ -715,18 +751,11 @@
             </div>
 
         </div>
-</footer>
+</footer><div id="xf-MusicPlayer" data-cdnName="https://player.xfyun.club/js"  data-themeColor="xf-girlPink" data-bottomHeight="20em" data-randomSongList="1"></div>
+<script src="https://player.xfyun.club/js/xf-MusicPlayer/js/xf-MusicPlayer.min.js"></script>
 <!-- footer-end -->
-<style type="text/css">
-		.underline:hover {
-			text-decoration: underline;
-		}
-
-</style>
 <!-- JS here -->
-
 <script src="js/mouse-click.js"></script>
-
 <script src="js/vendor/modernizr-3.5.0.min.js"></script>
 <script src="js/vendor/jquery-3.6.0.min.js"></script>
 <script src="js/popper.min.js"></script>
@@ -761,6 +790,7 @@
 <!-- Load pio and alternative loader -->
 <script src="https://cdn.jsdmirror.com/gh/journey-ad/blog-img@76ba2b3/live2d/lib/pio_sdk4.js"></script>
 <script src="https://cdn.jsdmirror.com/gh/journey-ad/blog-img@76ba2b3/live2d/lib/load.js"></script>
+<script src="js/load.js"></script>
 </body>
 
 </html>
