@@ -12,18 +12,18 @@
 ### Team Belief
 Rome was not built in one day. Success is founded on the basis of patient pursuit that can never be impeded by temporary failures. <br><p></p>We will firmly believe in our ideals and beliefs, cherish mountains and seas, and work together towards the future.<br><br>
 
-
 ### About Us
-The Three Musketeers E-sports Team, aka TMES TEAM or TM TEAM. It is an advanced gaming team composed of game enthusiasts in Lao Qi's online communication group.<br><p></p>In games, we respect each other, help each other, maintain a good communication atmosphere, and form a harmonious relationship of mutual trust. We always make progress together, unite as one, strive to do every detail well, and strive to excel.<br><br>
+The Three Musketeers E-sports Team, aka TMES TEAM or TM TEAM. It is an advanced gaming team composed of game enthusiasts in Lao Qi's online communication group.
+
+In games, we respect each other, help each other, maintain a good communication atmosphere, and form a harmonious relationship of mutual trust. We always make progress together, unite as one, strive to do every detail well, and strive to excel.<br><br>
 
 
 ### Some Sentences
 > Here is the <b>Source Code</b> address of this site.  <br>
 - This site was actually built and maintained by the station owner <i>`ThirteenIce2973`</i>. We deployed and protected <i>`Github Pages`</i> and <i>`Cloudflare`</i>.
-
 - Due to issues with mobile adaptation, some pages may experience poor display. Please prioritize accessing this website on the PC side.
-
 - This website uses Cloudflare servers from the United States, do not require domestic ICP registration in China.  [萌ICP备 20240120 号](https://icp.gov.moe/?keyword=20240120)
+
 
 ### Write at The End
 #### Sincere thanks:
