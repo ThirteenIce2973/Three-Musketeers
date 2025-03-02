@@ -12,7 +12,7 @@
 
 
 ###  🚸 Introduction
-A simple blog style webpage using HTML+CSS+JS to introduce oneself.
+A simple blog style webpage using HTML+CSS+JS to introduce yourself.
 
 History:
 
