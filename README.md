@@ -18,7 +18,7 @@ History:
 
 | Project                                      | Status | Information                                                                                               |
 |----------------------------------------------|------|-----------------------------------------------------------------------------------------------------------|
-| [Wix ver.](https://tmteams.wixsite.com/info) | Discontinued | The predecessor of version 1.0, developed in September 2021, was later discontinued due to network issues 
+| [Wixsite](https://tmteams.wixsite.com/info) | Discontinued | The predecessor of version 1.0, developed in September 2021, was later discontinued due to network issues 
 | [1.0](https://tmes.eu.org/1.0/index)         | Discontinued | The initial planned development version of this website in July 2022                                      
 | [2.x](https://tmes.eu.org)                   | Running | Modernized version, maintaining development and innovation                                                
 | [C++](https://tmes.eu.org/C++)               | Running | Rickroll (Andy Law version)                                                                               
