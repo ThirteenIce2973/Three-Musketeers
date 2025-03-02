@@ -594,7 +594,7 @@ $.scrollUp({
 	animation: 'fade',
 	animationInSpeed: 200,
 	animationOutSpeed: 200,
-	scrollText: '<i class="fas fa-level-up-alt"></i>',
+	scrollText: '<b>⇑</b>',
 	activeOverlay: false,
 });
 
@@ -666,4 +666,33 @@ new WOW().init();
 
 
 })(jQuery);
+
+//  autoclick 进入页面立即触发
+(()=>{
+	//  兼容IE
+	if(document.all) {
+		document.getElementById("aid").click();
+	}
+	//  兼容其它浏览器
+	else {
+		var e = document.createEvent("MouseEvents");
+		e.initEvent("click", true, true);
+		document.getElementById("aid").dispatchEvent(e);
+	}
+})();
+
+
+//  三秒后模拟点击
+setTimeout(function() {
+	//  IE浏览器
+	if(document.all) {
+		document.getElementById("aid").click();
+	}
+	//  其它浏览器
+	else {
+		var e = document.createEvent("MouseEvents");
+		e.initEvent("click", true, true);
+		document.getElementById("aid").dispatchEvent(e);
+	}
+}, 1000);
 
