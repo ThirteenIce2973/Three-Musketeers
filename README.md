@@ -11,7 +11,7 @@
 
 <br>
 <a href="https://icp.gov.moe/?keyword=20240120" target="_blank">
-<img src="https://img.shields.io/badge/20240120 %E5%8F%B7-fa2484?style=flat-square&amp;label=Moe ICP &amp;labelColor=282726&logoColor=white&amp;logo=htmlacademy" alt="萌ICP备" />
+<img src="https://img.shields.io/badge/No. 20240120-fa2484?style=flat-square&amp;label=Moe ICP &amp;labelColor=282726&logoColor=white&amp;logo=htmlacademy" alt="萌ICP备" />
 </a>
 <a href="https://travel.moe/go.html" title="异次元之旅-跃迁-我们一起去萌站成员的星球旅行吧！" target="_blank">
 <img alt="异次元之旅-跃迁" src="https://img.shields.io/badge/Travel-(◦˙▽˙◦)-51c4d3?Color=282726&logoColor=white&amp;logo=planetscale">
