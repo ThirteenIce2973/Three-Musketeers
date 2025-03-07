@@ -198,43 +198,7 @@
 <!-- offcanvas-end -->
 <!-- main-area -->
 <main>
-    <div id="loading-box">
-        <div class="loading-left-bg"></div>
-        <div class="loading-right-bg"></div>
-        <div class="spinner-box">
-            <div class="loader">
-                <div class="inner one"></div>
-                <div class="inner two"></div>
-                <div class="inner three"></div>
-            </div>
-            <div class="loading-word">
-                <p class="loading-title" id="loading-title">Loading...</p>
-                「<span id="loading-text" class="hitokoto"></span>」
-                <script type="text/javascript" src="https://v1.hitokoto.cn?encode=js&amp;charset=utf-8&amp;&amp;c=j&amp;c=k&amp;c=l"></script>
-            </div>
-        </div>
-    </div>
-    <script>
-        //加载完成后执行
-    window.addEventListener(
-      'load',
-      function () {
-        //载入动画
-        $('#loading-box').attr('class', 'loaded')
-        $('#bg').css(
-          'cssText',
-          'transform: scale(1);filter: blur(0px);transition: ease 1.5s;'
-        )
-        $('.cover').css('cssText', 'opacity: 1;transition: ease 1.5s;')
-        $('#section').css(
-          'cssText',
-          'transform: scale(1) !important;opacity: 1 !important;filter: blur(0px) !important'
-        )
-      },
-      false
-    )
-
-    </script>
+  
     <!-- breadcrumb-area -->
     <section class="breadcrumb-area d-flex align-items-center" style="background-image:url(img/bg/about-hd.jpg)">
         <div class="container">
@@ -714,10 +678,11 @@
 
         </div>
 </footer>
-<!-- JS here --><script src="https://s4.zstatic.net/ajax/libs/magnific-popup.js/1.2.0/jquery.magnific-popup.min.js" integrity="sha512-fCRpXk4VumjVNtE0j+OyOqzPxF1eZwacU3kN3SsznRPWHgMTSSo7INc8aY03KQDBWztuMo5KjKzCFXI/a5rVYQ==" crossorigin="anonymous" referrerpolicy="no-referrer" defer></script>
-<script src="https://s4.zstatic.net/ajax/libs/parallax/3.1.0/parallax.min.js" integrity="sha512-/6TZODGjYL7M8qb7P6SflJB/nTGE79ed1RfJk3dfm/Ib6JwCT4+tOfrrseEHhxkIhwG8jCl+io6eaiWLS/UX1w==" crossorigin="anonymous" referrerpolicy="no-referrer" defer></script>
-<script src="https://s4.zstatic.net/ajax/libs/wow/1.1.2/wow.min.js" integrity="sha512-Eak/29OTpb36LLo2r47IpVzPBLXnAMPAVypbSZiZ4Qkf8p/7S/XRG5xp7OKWPPYfJT6metI+IORkR5G8F900+g==" crossorigin="anonymous" referrerpolicy="no-referrer" defer></script>
-<script src="https://s4.zstatic.net/ajax/libs/popper.js/2.11.8/umd/popper.min.js" integrity="sha512-TPh2Oxlg1zp+kz3nFA0C5vVC6leG/6mm1z9+mA81MI5eaUVqasPLO8Cuk4gMF4gUfP5etR73rgU/8PNMsSesoQ==" crossorigin="anonymous" referrerpolicy="no-referrer" defer></script>
+<!-- JS here -->
+<script src="js/jquery.magnific-popup.min.js" defer></script>
+<script src="js/parallax.min.js" defer></script>
+<script src="js/wow.min.js" defer></script>
+<script src="js/popper.min.js" defer></script>
 <script src="js/bootstrap.min.js" defer></script>
 <script src="js/vendor/modernizr-3.5.0.min.js" defer></script>
 <script src="js/vendor/jquery-3.6.0.min.js"></script>

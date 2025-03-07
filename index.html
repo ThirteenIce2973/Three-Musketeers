@@ -25,7 +25,7 @@
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/responsive.css">
     <link rel="stylesheet" href="css/loading.css">
-    <link rel="stylesheet" type="text/css" href="css/poem.css" />
+    <link rel="stylesheet" type="text/css" href="css/poem.css"/>
 
 </head>
 <body>
@@ -38,8 +38,9 @@
                     <div class="col-xl-3 col-lg-2">
                         <div>
                             <a href="index.html">
-                                <img class="visible-pc logo"  src="img/logo/logo.png" alt="战队Logo">
-                                <img class="visible-mp" src="img/logo/logo.png" height="65.997888" width="250" alt="战队Logo" >
+                                <img class="visible-pc logo" src="img/logo/logo.png" alt="战队Logo">
+                                <img class="visible-mp" src="img/logo/logo.png" height="65.997888" width="250"
+                                     alt="战队Logo">
                             </a>
                         </div>
                     </div>
@@ -93,43 +94,6 @@
     </div>
 </header>
 <!-- header-end -->
-<div id="loading-box">
-    <div class="loading-left-bg"></div>
-    <div class="loading-right-bg"></div>
-    <div class="spinner-box">
-        <div class="loader">
-            <div class="inner one"></div>
-            <div class="inner two"></div>
-            <div class="inner three"></div>
-        </div>
-        <div class="loading-word">
-            <p class="loading-title" id="loading-title">Loading...</p>
-            「<span id="loading-text" class="hitokoto"></span>」
-            <script type="text/javascript" src="https://v1.hitokoto.cn?encode=js&amp;charset=utf-8&amp;&amp;c=j&amp;c=k&amp;c=l"></script>
-        </div>
-    </div>
-</div>
-<script>
-    //加载完成后执行
-    window.addEventListener(
-        'load',
-        function () {
-            //载入动画
-            $('#loading-box').attr('class', 'loaded')
-            $('#bg').css(
-                'cssText',
-                'transform: scale(1);filter: blur(0px);transition: ease 1.5s;'
-            )
-            $('.cover').css('cssText', 'opacity: 1;transition: ease 1.5s;')
-            $('#section').css(
-                'cssText',
-                'transform: scale(1) !important;opacity: 1 !important;filter: blur(0px) !important'
-            )
-        },
-        false
-    )
-
-</script>
 <!-- offcanvas-area -->
 <div class="offcanvas-menu">
 		<span class="menu-close">
@@ -140,7 +104,7 @@
         <label>
             <span class="screen-reader-text">Search for:</span>
             <input type="search" id="search-input" name="q" class="search-field" placeholder="Search &hellip;"
-                   value="" />
+                   value=""/>
         </label>
         <button>
             <i>搜索！
@@ -237,7 +201,42 @@
 <!-- offcanvas-end -->
 <!-- main-area -->
 <main>
+    <div id="loading-box">
+        <div class="loading-left-bg"></div>
+        <div class="loading-right-bg"></div>
+        <div class="spinner-box">
+            <div class="loader">
+                <div class="inner one"></div>
+                <div class="inner two"></div>
+                <div class="inner three"></div>
+            </div>
+            <div class="loading-word">
+                <p class="loading-title" id="loading-title">✨ LOADING... ✨</p>
+                「<span id="loading-text">用代码表达言语的魅力，用代码书写山河的壮丽。</span>」
+            </div>
+        </div>
+    </div>
+    <script>
+        //加载完成后执行
+        window.addEventListener(
+            'load',
+            function () {
+                //载入动画
+                $('#loading-box').attr('class', 'loaded')
+                $('#bg').css(
+                    'cssText',
+                    'transform: scale(1);filter: blur(0px);transition: ease 1s;'
+                )
+                $('.cover').css('cssText', 'opacity: 1;transition: ease 1s;')
+                $('#section').css(
+                    'cssText',
+                    'transform: scale(1) !important;opacity: 1 !important;filter: blur(0px) !important'
+                )
+            },
+            false
+        )
 
+    </script>
     <!-- slider-area -->
     <section id="home" class="slider-area slider-four fix p-relative about-imgvideo-p">
         <div class="slider-active">
@@ -245,7 +244,8 @@
                  style="background: url(img/bg/home-bg.jpg) no-repeat;background-size: cover; background-position: center top;">
                 <div class="after-bg">
                     <img src="img/bg/before-header-img.png">
-                </div><br>
+                </div>
+                <br>
                 <div class="container">
                     <div class="row justify-content-center pt-50 text-center">
                         <div class="col-lg-12 col-md-12">
@@ -265,14 +265,14 @@
                     </div>
                     <div data-animation="fadeInDown" data-delay="1.6s">
                         <div class="poem-wrap">
-
                             <div class="poem-border poem-left"></div>
                             <div class="poem-border poem-right"></div>
-                            <div class="visible-pc"><h1>念两句诗</h1></div>
+                            <div class="visible-pc"><h1>一言 の 碎碎念</h1></div>
+                            <!--                            <div class="visible-pc"><h1>念两句诗</h1></div>-->
+                            <!--                            「<span class="hitokoto" size="6"></span>」-->
+                            <!--                                <script type="text/javascript" src="https://v1.hitokoto.cn?encode=js&amp;charset=utf-8&amp;&amp;c=j&amp;c=k&amp;c=l"></script>-->
                             <p id="poem">挑选中...</p>
-                            <p id="info" >挑选中...</p>
-
-
+                            <p id="info">挑选中...</p>
 
                         </div>
 
@@ -336,7 +336,7 @@
                                 Counter-Strike 2
                             </h4>
                             <p>
-                                反恐精英  2
+                                反恐精英 2
                             </p>
                             <a href="https://zh.moegirl.org.cn/%E5%8F%8D%E6%81%90%E7%B2%BE%E8%8B%B12"
                                target="_blank" class="underline">
@@ -421,7 +421,8 @@
 				img/bg/blog-bg.png) no-repeat; background-position:right top;">
 
         <!-- features-area -->
-        <p class="visible-pc" align="center">———————————————————————————————————————————————————————————————————————————————————————————————————————</p>
+        <p class="visible-pc" align="center">
+            ———————————————————————————————————————————————————————————————————————————————————————————————————————</p>
         <p class="visible-mp" align="center">———————————————————————</p>
         <section id="graph" class="features-area pt-110 pb-120">
             <div class="container">
@@ -430,15 +431,21 @@
 
                     <div class="col-lg-12 col-md-12">
                         <div class="section-title cta-title  mb-20">
-                            <h2>单丝不成线，<span>独木不成林</span></h2><img src="img/bg/circle_left.png" alt="circle left"/><br><br>
-                            <p style="color:aqua">这是一支老棋交流联机群中游戏爱好者们建立的几人小队，一支高 <del>（睾）</del> 级的游戏团队，于2021年9月成立，由来自不同地区的玩家组成。
-                                <br><br>你将扮演一位神秘用户，被 Tian Liao 授予“捞头”权力，在各有千秋和独特的网页冲浪中，引导本站的力量，逐步发掘「Three Musketeers」的真相。
-                                <br><br>不想去看看吗？</p>
+                            <h2>单丝不成线，<span>独木不成林</span></h2><img src="img/bg/circle_left.png"
+                                                                            alt="circle left"/><br><br>
+                            <p style="color:aqua">这是一支老棋交流联机群中游戏爱好者们建立的几人小队，一支高
+                                <del>（睾）</del>
+                                级的游戏团队，于2021年9月成立，由来自不同地区的玩家组成。
+                                <br><br>你将扮演一位神秘用户，被 Tian Liao 授予“捞头”权力，在各有千秋和独特的网页冲浪中，引导本站的力量，逐步发掘「Three
+                                Musketeers」的真相。
+                                <br><br>不想去看看吗？
+                            </p>
 
-                        </div><p></p>
+                        </div>
+                        <p></p>
                         <div class="slider-btn2 mt-50">
                             <div align="center">
-                                <a href="about.html"  target="_blank" class="btn ss-btn">
+                                <a href="about.html" target="_blank" class="btn ss-btn">
                                     深 入 了 解 &nbsp;➡️︎
                                 </a>
                             </div>
@@ -449,27 +456,31 @@
 
                 </div>
 
-            </div><br><br><br><br><p class="visible-pc" align="center">————————————————————————————————————————————————————————————————————————————————————————————————————————</p>
+            </div>
+            <br><br><br><br>
+            <p class="visible-pc" align="center">
+                ————————————————————————————————————————————————————————————————————————————————————————————————————————</p>
             <p class="visible-mp" align="center">———————————————————————</p>
         </section>
         <!-- gallery-area -->
         <section id="team" class="team-area2 pt-120"
                  style="background: url(
 				img/bg/match-bg4.webp) no-repeat; background-position:right top;">
-            <div class="container" >
+            <div class="container">
                 <div class="portfolio ">
                     <div class="row align-items-center mb-30">
                         <div class="col-lg-12">
                             <div class="section-title center-align text-center cta-title mb-35">
-                                <h2>	新的团队， <span>	新的征程</span></h2>
+                                <h2> 新的团队， <span>	新的征程</span></h2>
                                 <img src="img/bg/circle_left.png" alt="circle left"/>
                             </div>
                         </div>
                         <div class="col-lg-12">
                             <div class="my-masonry">
                                 <div class="center-align text-center button-group filter-button-group ">
-                                    <button  id="aid" data-filter=".a">① 主力队员一列 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</button>
-                                    <button data-filter=".b">② 主力队员二列 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</button>
+                                    <button id="aid" data-filter=".a">① 主力队员一列 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</button>
+                                    <button data-filter=".b">② 主力队员二列 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                    </button>
                                     <button data-filter=".c">③ 强劲替补无需多言</button>
                                     <!--												<button data-filter=".family">Steam</button>-->
                                     <!--												<button data-filter=".business">Reper</button>-->
@@ -481,9 +492,10 @@
 
                     <div class="grid col4">
                         <div class="grid-item a">
-                            <a href="img/team/team_img02.jpg"  class="popup-image">
+                            <a href="img/team/team_img02.jpg" class="popup-image">
                                 <figure class="gallery-image">
-                                    <img src="img/team/team_img02.jpg" height="200%" width="200%" class="img"  title="来自中国湖北" alt="天聊">
+                                    <img src="img/team/team_img02.jpg" height="200%" width="200%" class="img"
+                                         title="来自中国湖北" alt="天聊">
                                     <figcaption>
 
                                         <h4>Tian Liao</h4>
@@ -493,9 +505,10 @@
                             </a>
                         </div>
                         <div class="grid-item a">
-                            <a href="img/team/team_img03.webp"  class="popup-image">
+                            <a href="img/team/team_img03.webp" class="popup-image">
                                 <figure class="gallery-image">
-                                    <img src="img/team/team_img03.webp" height="200%" width="200%"  title="来自中国河北" alt="LASK" class="img">
+                                    <img src="img/team/team_img03.webp" height="200%" width="200%" title="来自中国河北"
+                                         alt="LASK" class="img">
                                     <figcaption>
 
                                         <h4>LASK</h4>
@@ -505,9 +518,10 @@
                             </a>
                         </div>
                         <div class="grid-item a b">
-                            <a href="img/team/team_img05.jpg"  class="popup-image">
+                            <a href="img/team/team_img05.jpg" class="popup-image">
                                 <figure class="gallery-image">
-                                    <img src="img/team/team_img05.jpg" alt="img" height="200%" width="200%"  title="来自中国浙江" class="img">
+                                    <img src="img/team/team_img05.jpg" alt="img" height="200%" width="200%"
+                                         title="来自中国浙江" class="img">
                                     <figcaption>
 
                                         <h4>EH. Ming Yu</h4>
@@ -518,9 +532,10 @@
                         </div>
 
                         <div class="grid-item a b">
-                            <a href="img/team/team_img06.jpg"  class="popup-image">
+                            <a href="img/team/team_img06.jpg" class="popup-image">
                                 <figure class="gallery-image">
-                                    <img src="img/team/team_img06.jpg" alt="img" height="200%" width="200%"  title="来自中国广东" class="img">
+                                    <img src="img/team/team_img06.jpg" alt="img" height="200%" width="200%"
+                                         title="来自中国广东" class="img">
                                     <figcaption>
 
                                         <h4>KikaO.o</h4>
@@ -530,9 +545,10 @@
                             </a>
                         </div>
                         <div class="grid-item b">
-                            <a href="img/team/team_img04.jpg"  class="popup-image">
+                            <a href="img/team/team_img04.jpg" class="popup-image">
                                 <figure class="gallery-image">
-                                    <img src="img/team/team_img04.jpg" alt="img" height="200%" width="200%" title="人在南极洲，在线勿扰"class="img">
+                                    <img src="img/team/team_img04.jpg" alt="img" height="200%" width="200%"
+                                         title="人在南极洲，在线勿扰" class="img">
                                     <figcaption>
 
                                         <h4>2973</h4>
@@ -543,9 +559,10 @@
                         </div>
 
                         <div class="grid-item c">
-                            <a href="img/team/team_img07.jpg"  class="popup-image">
+                            <a href="img/team/team_img07.jpg" class="popup-image">
                                 <figure class="gallery-image">
-                                    <img src="img/team/team_img07.jpg" alt="img" height="200%" width="200%"  title="来自中国广东" class="img">
+                                    <img src="img/team/team_img07.jpg" alt="img" height="200%" width="200%"
+                                         title="来自中国广东" class="img">
                                     <figcaption>
 
                                         <h4>XXSGMXX</h4>
@@ -553,22 +570,25 @@
                                     </figcaption>
                                 </figure>
                             </a>
-                        </div>	<div class="grid-item c">
-                        <a href="img/team/team_img08.jpg"  class="popup-image">
-                            <figure class="gallery-image">
-                                <img src="img/team/team_img08.jpg" alt="img" height="200%" width="200%"  title="来自中国广东" class="img">
-                                <figcaption>
-
-                                    <h4>Chilldaoyu</h4>
-                                    <p>电竞 Rapper</p>
-                                </figcaption>
-                            </figure>
-                        </a>
-                    </div>
+                        </div>
                         <div class="grid-item c">
-                            <a href="img/team/team_img09.jpg"  class="popup-image">
+                            <a href="img/team/team_img08.jpg" class="popup-image">
                                 <figure class="gallery-image">
-                                    <img src="img/team/team_img09.jpg" alt="img" height="200%" width="200%"  title="来自中国广东" class="img">
+                                    <img src="img/team/team_img08.jpg" alt="img" height="200%" width="200%"
+                                         title="来自中国广东" class="img">
+                                    <figcaption>
+
+                                        <h4>Chilldaoyu</h4>
+                                        <p>电竞 Rapper</p>
+                                    </figcaption>
+                                </figure>
+                            </a>
+                        </div>
+                        <div class="grid-item c">
+                            <a href="img/team/team_img09.jpg" class="popup-image">
+                                <figure class="gallery-image">
+                                    <img src="img/team/team_img09.jpg" alt="img" height="200%" width="200%"
+                                         title="来自中国广东" class="img">
                                     <figcaption>
 
                                         <h4>Da1dL</h4>
@@ -588,7 +608,7 @@
         <!-- gallery-area-end -->
         <div class="slider-btn2 mt-50">
             <div align="center">
-                <a href="team.html"  target="_blank" class="btn ss-btn">
+                <a href="team.html" target="_blank" class="btn ss-btn">
                     自 我 介 绍 &nbsp;➡️︎
 
                 </a>
@@ -611,7 +631,7 @@
 													消息
 												</span>
                             </h2>
-                            <img src="img/bg/circle_left.png" alt="插图" />
+                            <img src="img/bg/circle_left.png" alt="插图"/>
                         </div>
                     </div>
                 </div>
@@ -693,7 +713,10 @@
                                         </div>
                                         <div style="text-indent:2em;">
                                             <p>
-                                                光阴似箭，岁月如梭。转眼今天，一个周年已悄悄地从指缝间溜走，Minecraft 也走过了十四个年头。明宇建筑服的周年庆典如约而至。本次周年庆活动将由 Tian Liao 主持，传播友人间团结互助、友谊第一、合作共赢的宗旨和理念，创造新事物，拓展新玩法，力求在繁忙工作与学习之余能够让大家会心一笑。我们也希望在以后共度的诸多个周年里还能再接再厉，同心协力，共创辉煌。
+                                                光阴似箭，岁月如梭。转眼今天，一个周年已悄悄地从指缝间溜走，Minecraft
+                                                也走过了十四个年头。明宇建筑服的周年庆典如约而至。本次周年庆活动将由 Tian
+                                                Liao
+                                                主持，传播友人间团结互助、友谊第一、合作共赢的宗旨和理念，创造新事物，拓展新玩法，力求在繁忙工作与学习之余能够让大家会心一笑。我们也希望在以后共度的诸多个周年里还能再接再厉，同心协力，共创辉煌。
                                             </p>
                                         </div>
                                     </div>
@@ -761,19 +784,24 @@
 
                     <div class="footer-widget mb-30">
                         <div class="f-widget-title mb-20">
-                            <a href="index.html"><img class="visible-mp" src="img/logo/logo.png" width="309.09" height="81.59738888355573" style="margin: 0 auto;" alt="img">
-                                <img class="visible-pc" src="img/logo/logo.png" width="400" height="105.59662" style="margin: 21.5px auto;" alt="img"></a>
+                            <a href="index.html"><img class="visible-mp" src="img/logo/logo.png" width="309.09"
+                                                      height="81.59738888355573" style="margin: 0 auto;" alt="img">
+                                <img class="visible-pc" src="img/logo/logo.png" width="400" height="105.59662"
+                                     style="margin: 21.5px auto;" alt="img"></a>
                         </div>
                         <div class="footer-link" align="center">
                             <h6 class="visible-pc">「坚信理想信念，心怀山海，一齐向未来」
                             </h6><h6 class="visible-mp">坚信理想信念，心怀山海，一齐向未来
-                        </h6><p></p>
+                        </h6>
+                            <p></p>
                         </div>
                         <ul class="visible-mp">
-                            <iframe allowtransparency="true" frameborder="0" width="257" height="100" scrolling="no" src="//tianqi.2345.com/plugin/widget/index.htm?s=1&z=1&t=1&v=0&d=1&bd=1&k=ffffff&f=ffffff&ltf=009944&htf=cc0000&q=1&e=1&a=1&c=54511&w=257&h=100&align=center"></iframe>
+                            <iframe allowtransparency="true" frameborder="0" width="257" height="100" scrolling="no"
+                                    src="//tianqi.2345.com/plugin/widget/index.htm?s=1&z=1&t=1&v=0&d=1&bd=1&k=ffffff&f=ffffff&ltf=009944&htf=cc0000&q=1&e=1&a=1&c=54511&w=257&h=100&align=center"></iframe>
                         </ul>
                         <ul class="visible-pc">
-                            <iframe allowtransparency="true" frameborder="0" width="412" height="100" scrolling="no" src="//tianqi.2345.com/plugin/widget/index.htm?s=1&z=1&t=1&v=0&d=2&bd=1&k=ffffff&f=ffffff&ltf=009944&htf=cc0000&q=1&e=1&a=1&c=54511&w=412&h=100&align=center"></iframe>
+                            <iframe allowtransparency="true" frameborder="0" width="412" height="100" scrolling="no"
+                                    src="//tianqi.2345.com/plugin/widget/index.htm?s=1&z=1&t=1&v=0&d=2&bd=1&k=ffffff&f=ffffff&ltf=009944&htf=cc0000&q=1&e=1&a=1&c=54511&w=412&h=100&align=center"></iframe>
                         </ul>
 
                     </div>
@@ -861,11 +889,12 @@
                                 </h2>
                             </div>
                             <div class="footer-link">
-                                <ul  class="visible-pc">
+                                <ul class="visible-pc">
                                     <li style="font-size: 15pt;">
                                         <img src="img/icon/bing.png" width="20" height="20">
                                         &nbsp;&nbsp;
-                                        <a href="https://www.bing.com/search?q=three+musketeers%E6%88%98%E9%98%9F" target="_blank"
+                                        <a href="https://www.bing.com/search?q=three+musketeers%E6%88%98%E9%98%9F"
+                                           target="_blank"
                                            class="tag-link-29 tag-link-position-7">
                                             微软 &nbsp;BING
                                         </a>
@@ -897,11 +926,12 @@
                                     </li>
                                 </ul>
 
-                                <ul  class="visible-mp" align="center">
+                                <ul class="visible-mp" align="center">
                                     <li style="font-size: 15pt;">
                                         <img src="img/icon/bing.png" width="20" height="20">
                                         &nbsp;&nbsp;
-                                        <a href="https://www.bing.com/search?q=three+musketeers%E6%88%98%E9%98%9F" target="_blank"
+                                        <a href="https://www.bing.com/search?q=three+musketeers%E6%88%98%E9%98%9F"
+                                           target="_blank"
                                            class="tag-link-29 tag-link-position-7">
                                             微软 &nbsp;BING
                                         </a>
@@ -954,38 +984,39 @@
                                 </h2>
                             </div>
                             <div class="visible-pc">
-                                <p  style="font-size: 1.75rem;">
+                                <p style="font-size: 1.75rem;">
                                     文案策划: <b><i>Tian Liao</i></b>
                                 </p>
-                                <p  style="font-size: 1.75rem;">
+                                <p style="font-size: 1.75rem;">
                                     文案撰写: <b><i>KikaO.o</i></b>
                                 </p>
-                                <p  style="font-size: 1.75rem;">
+                                <p style="font-size: 1.75rem;">
                                     图片提供: <b><i>Ming Yu</i></b>
                                 </p>
-                                <p  style="font-size: 1.75rem;">
+                                <p style="font-size: 1.75rem;">
                                     建议提出: <b><i>KAMO</i></b>
                                 </p>
                             </div>
 
-                            <div  class="visible-mp" align="center">
-                                <p  style="font-size: 1.75rem;">
+                            <div class="visible-mp" align="center">
+                                <p style="font-size: 1.75rem;">
                                     文案策划: <b><i>Tian Liao</i></b>
                                 </p>
-                                <p  style="font-size: 1.75rem;">
+                                <p style="font-size: 1.75rem;">
                                     文案撰写: <b><i>F1XER</i></b>
                                 </p>
-                                <p  style="font-size: 1.75rem;">
+                                <p style="font-size: 1.75rem;">
                                     图片提供: <b><i>Ming Yu</i></b>
                                 </p>
-                                <p  style="font-size: 1.75rem;">
+                                <p style="font-size: 1.75rem;">
                                     建议提出: <b><i>KAMO</i></b>
                                 </p>
                             </div>
                         </div>
                     </div>
                 </div>
-            </div><br>
+            </div>
+            <br>
             <div style="color:#93DB70; text-align:center">
 
                 <div style="font-size: 2.5rem;font-family:Barlow" id="datetime">
@@ -998,20 +1029,28 @@
             <p></p>
             <div style="text-align: center;" class="visible-pc">
                 <p><a href="https://icp.gov.moe/?keyword=20240120" target="_blank" class="underline">
-                    <font color="orange"><b><img src="img/icon/moe.png" width="25" height="25" alt="萌ICP备"> 萌ICP备 20240120 号 </font>
+                    <font color="orange"><b><img src="img/icon/moe.png" width="25" height="25" alt="萌ICP备"> 萌ICP备
+                        20240120 号 </font>
                 </a>
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-                    <a href="https://travel.moe/go.html?travel=on" target="_blank" class="underline"><font color="orange"><img src="https://travel.moe/images/icon/icon64.png" style="width:23px;height:23px"> &nbsp;Let's 一起旅行(◦˙▽˙◦)？ </font></a></b>
+                    <a href="https://travel.moe/go.html?travel=on" target="_blank" class="underline"><font
+                            color="orange"><img src="https://travel.moe/images/icon/icon64.png"
+                                                style="width:23px;height:23px"> &nbsp;Let's 一起旅行(◦˙▽˙◦)？
+                    </font></a></b>
 
                 </p>
             </div>
             <div style="text-align: center;" class="visible-mp">
                 <p><a href="https://icp.gov.moe/?keyword=20240120" target="_blank" class="underline">
-                    <font color="orange"><b><img src="img/icon/moe.png" width="25" height="25" alt="萌ICP备"> 萌ICP备 20240120 号 </font>
+                    <font color="orange"><b><img src="img/icon/moe.png" width="25" height="25" alt="萌ICP备"> 萌ICP备
+                        20240120 号 </font>
                 </a><br>
 
-                    <a href="https://travel.moe/go.html?travel=on" target="_blank" class="underline"><font color="orange"><img src="https://travel.moe/images/icon/icon64.png" style="width:23px;height:23px"> &nbsp;Travel together! 一起旅行(◦˙▽˙◦)？ </font></a></br>
+                    <a href="https://travel.moe/go.html?travel=on" target="_blank" class="underline"><font
+                            color="orange"><img src="https://travel.moe/images/icon/icon64.png"
+                                                style="width:23px;height:23px"> &nbsp;Travel together! 一起旅行(◦˙▽˙◦)？
+                    </font></a></br>
 
                 </p>
             </div>
@@ -1020,10 +1059,11 @@
 </footer>
 
 <!-- footer-end -->
-<!-- JS here --><script src="https://s4.zstatic.net/ajax/libs/magnific-popup.js/1.2.0/jquery.magnific-popup.min.js" integrity="sha512-fCRpXk4VumjVNtE0j+OyOqzPxF1eZwacU3kN3SsznRPWHgMTSSo7INc8aY03KQDBWztuMo5KjKzCFXI/a5rVYQ==" crossorigin="anonymous" referrerpolicy="no-referrer" defer></script>
-<script src="https://s4.zstatic.net/ajax/libs/parallax/3.1.0/parallax.min.js" integrity="sha512-/6TZODGjYL7M8qb7P6SflJB/nTGE79ed1RfJk3dfm/Ib6JwCT4+tOfrrseEHhxkIhwG8jCl+io6eaiWLS/UX1w==" crossorigin="anonymous" referrerpolicy="no-referrer" defer></script>
-<script src="https://s4.zstatic.net/ajax/libs/wow/1.1.2/wow.min.js" integrity="sha512-Eak/29OTpb36LLo2r47IpVzPBLXnAMPAVypbSZiZ4Qkf8p/7S/XRG5xp7OKWPPYfJT6metI+IORkR5G8F900+g==" crossorigin="anonymous" referrerpolicy="no-referrer" defer></script>
-<script src="https://s4.zstatic.net/ajax/libs/popper.js/2.11.8/umd/popper.min.js" integrity="sha512-TPh2Oxlg1zp+kz3nFA0C5vVC6leG/6mm1z9+mA81MI5eaUVqasPLO8Cuk4gMF4gUfP5etR73rgU/8PNMsSesoQ==" crossorigin="anonymous" referrerpolicy="no-referrer" defer></script>
+<!-- JS here -->
+<script src="js/jquery.magnific-popup.min.js" defer></script>
+<script src="js/parallax.min.js" defer></script>
+<script src="js/wow.min.js" defer></script>
+<script src="js/popper.min.js" defer></script>
 <script src="js/bootstrap.min.js" defer></script>
 <script src="js/vendor/modernizr-3.5.0.min.js" defer></script>
 <script src="js/vendor/jquery-3.6.0.min.js"></script>
@@ -1041,13 +1081,13 @@
 <script src="js/main.js" defer></script>
 <script>
     var xhr = new XMLHttpRequest();
-    xhr.open('get', 'https://v1.jinrishici.com/all.json');
+    xhr.open('get', 'https://v1.hitokoto.cn/');
     xhr.onreadystatechange = function () {
         if (xhr.readyState === 4) {
             var data = JSON.parse(xhr.responseText);
             var poem = document.getElementById('poem');
-            poem.innerText = data.content;
-            info.innerText = data.author + '《'+ data.origin+ '》';
+            poem.innerText = data.hitokoto;
+            info.innerText = data.from_who + '《' + data.from + '》';
         }
     };
     xhr.send();
