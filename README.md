@@ -48,7 +48,7 @@ Directory:
 1.0, C++ and Wix Version are independent. All folders except for 1.0 and C++ serve version 2. x.
 
 ###  💭 Function
-✅  Bootstrap, jQuery are supported.<br>
+✅  Bootstrap, jQuery are supported. Bing Search is provided in blog pages.<br>
 ☑️  Widget: gitalk, mouse-click fireworks effect, loading animation, 2345 weather (only available in China Mainland), <del>Music player, Jiaran Live2d</del>, etc.<br>
 ❤️  Gorgeous interface!
 
