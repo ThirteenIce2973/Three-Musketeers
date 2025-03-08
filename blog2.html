@@ -25,7 +25,6 @@
     <link rel="stylesheet" href="css/default.css">
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/responsive.css">
-    <link rel="stylesheet" href="css/loading.css">
 </head>
 <body>
 <!-- header -->
@@ -199,66 +198,6 @@
 
 <!-- offcanvas-end -->
 <!-- main-area -->
-<main>
-    <div id="loading-box">
-        <div class="loading-left-bg"></div>
-        <div class="loading-right-bg"></div>
-        <div class="spinner-box">
-            <div class="loader">
-                <div class="inner one"></div>
-                <div class="inner two"></div>
-                <div class="inner three"></div>
-            </div>
-            <div class="loading-word">
-                <p class="loading-title" id="loading-title">Loading...</p>
-                「<span id="loading-text" class="hitokoto"></span>」
-                <script type="text/javascript"
-                        src="https://v1.hitokoto.cn?encode=js&amp;charset=utf-8&amp;&amp;c=j&amp;c=k&amp;c=l"></script>
-            </div>
-        </div>
-    </div>
-    <script>
-        //加载完成后执行
-        window.addEventListener(
-            'load',
-            function () {
-                //载入动画
-                $('#loading-box').attr('class', 'loaded')
-                $('#bg').css(
-                    'cssText',
-                    'transform: scale(1);filter: blur(0px);transition: ease 1.5s;'
-                )
-                $('.cover').css('cssText', 'opacity: 1;transition: ease 1.5s;')
-                $('#section').css(
-                    'cssText',
-                    'transform: scale(1) !important;opacity: 1 !important;filter: blur(0px) !important'
-                )
-            },
-            false
-        )
-
-    </script>
-    <!-- search-popup -->
-    <div class="modal fade bs-example-modal-lg search-bg popup1" tabindex="-1" role="dialog">
-        <div class="modal-dialog modal-lg" role="document">
-            <div class="modal-content search-popup">
-                <div class="text-center">
-                    <a href="#" class="close2" data-dismiss="modal" aria-label="Close">× close</a>
-                </div>
-                <div class="row search-outer">
-                    <div class="col-md-11">
-                        <input type="text" placeholder="Search for products..."/>
-                    </div>
-                    <div class="col-md-1 text-right">
-                        <a href="#">
-                            <i class="fa fa-search" aria-hidden="true"></i>
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- /search-popup -->
     <!-- breadcrumb-area -->
     <section class="breadcrumb-area d-flex align-items-center" style="background-image:url(img/bg/blog-hd.png)">
         <div class="container">
@@ -291,7 +230,7 @@
     </section>
     <!-- breadcrumb-area-end -->
     <!-- inner-blog -->
-    <section class="inner-blog pb-90">
+    <section class="inner-blog pb-90" style="background: url(img/bg/match-bg3.webp) no-repeat; background-position:right top;">
         <div class="container">
             <br>
             </br>
@@ -330,8 +269,7 @@
 
 
                                     <li>
-                                        📆 <b>最后更新时间</b>: &nbsp<b>3月
-                                        4日, 2023年</b>
+                                        📆 <b>最后更新时间</b>: &nbsp<b>3月4日, 2023年</b>
                                     </li>
                                     <li>
                                         <b>⌛ 预计阅读时间</b>: &nbsp;<b>10 分钟</b>
