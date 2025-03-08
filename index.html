@@ -1012,23 +1012,25 @@
                     </div>
                 </div>
             </div>
-            <br>
+            <p></p>
             <div style="color:#93DB70; text-align:center">
-
-                <div style="font-size: 2.5rem;font-family:Barlow" id="datetime">
+                <div style="font-size: 1.5rem;font-family:Blueaka">
+                    ✨在灾难中运行了「<span id="sitetime" ></span>」✨
+                </div>
+               <!-- <div style="font-size: 1.5rem;font-family:Barlow"  id="datetime">
                     <script>
                         setInterval("document.getElementById('datetime').innerHTML=new Date().toLocaleString();", 1000);
                     </script>
                 </div>
-
+                -->
             </div>
-            <p></p>
+
             <div style="text-align: center;" class="visible-pc">
                 <p><a href="https://icp.gov.moe/?keyword=20240120" target="_blank" class="underline">
                     <font color="orange"><b><img src="img/icon/moe.png" width="25" height="25" alt="萌ICP备"> 萌ICP备
                         20240120 号 </font>
                 </a>
-                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
                     <a href="https://travel.moe/go.html?travel=on" target="_blank" class="underline"><font
                             color="orange"><img src="https://travel.moe/images/icon/icon64.png"
@@ -1074,18 +1076,8 @@
 <script src="js/jquery.meanmenu.min.js" defer></script>
 <script src="js/parallax-scroll.js" defer></script>
 <script src="js/element-in-view.js" defer></script>
+<script src="js/hitokoto.js"></script>
+<script src="js/autoclick.js" defer></script>
+<script src="js/sitetime.js" defer></script>
 <script src="js/main.js" defer></script>
-<script>
-    var xhr = new XMLHttpRequest();
-    xhr.open('get', 'https://v1.hitokoto.cn/');
-    xhr.onreadystatechange = function () {
-        if (xhr.readyState === 4) {
-            var data = JSON.parse(xhr.responseText);
-            var poem = document.getElementById('poem');
-            poem.innerText = data.hitokoto;
-            info.innerText = data.from_who + '《' + data.from + '》';
-        }
-    };
-    xhr.send();
-</script>
 </body>
