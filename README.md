@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://tmes.eu.org/img/logo/logo.png" width="60%" alt="Three-Musketeers Logo" />
+  <a href="https://tmes.eu.org"><img src="https://tmes.eu.org/img/logo/logo.png" width="60%" alt="Three-Musketeers Logo" />
+</a>
 </div>
 <div align="center" style="line-height: 1;">
   <a href="https://github.com/ThirteenIce2973/Three-Musketeers">
