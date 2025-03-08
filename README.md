@@ -57,7 +57,7 @@ Directory:
 - Git to local ` git clone https://github.com/ThirteenIce2973/Three-Musketeers.git `
 
 ###  🌏 Secondary development
-This project is a secondary development of `Huniko519/Eoorox-Gaming-Esport-HTML`. <br>Please follow all the projects and dependent licenses used, and retain the original authorship.
+This project is a development of `Huniko519/Eoorox-Gaming-Esport-HTML`. <br>Please follow all the projects and dependent licenses used, and retain the original authorship.
 
 ### 🧭 Some Sentences
 

@@ -57,7 +57,7 @@
 - git 至本地开发 `git clone https://github.com/ThirteenIce2973/Three-Musketeers.git`
 
 ### 🌏 二次开发
-本项目由`Huniko519/Eoorox-Gaming-Esport-HTML`二次开发而来，请遵循使用到的所有项目及依赖的许可证，并保留原署名。
+本项目由`Huniko519/Eoorox-Gaming-Esport-HTML`开发而来，请遵循使用到的所有项目及依赖的许可证，并保留原署名。
 
 ### 🧭 我说两句
 - 本站由站长  <i>`ThirteenIce2973`</i>  实际搭建并维护。 使用了 <i>`Github Pages`</i> 和 <i>`Cloudflare`</i> 部署并加以保护。
