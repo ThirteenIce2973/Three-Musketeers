@@ -72,9 +72,10 @@
 - 非常好 BA logo 生成器 [bluearchive-logo](https://github.com/nulla2011/bluearchive-logo)
 - 天气 [2345天气](https://tianqi.2345.com)
 - 评论插件 [gitalk](https://github.com/gitalk/gitalk)
-- 加载动画 [博客园-海浪](https://www.cnblogs.com/yecss/p/16862476.html)
-- C++ [rickroll](https://github.com/arcxingye/rr)
-- <del>嘉然live2d [叶小兽のBlog](https://www.moeshou.com/310/)</del>
+- 加载动画 [给网页加入加载动画](https://www.cnblogs.com/yecss/p/16862476.html)
+- 运行时间 [网站页面底端“本站已经安全运行XX年XX天XX秒“代码](https://blog.csdn.net/qq_28669073/article/details/115933418)
+- Rickroll [arcxingye rr](https://github.com/arcxingye/rr)
+- <del>嘉然live2d [如何将嘉然live2D添加到博客网站当看板娘](https://www.moeshou.com/310/)</del>
 - <del>音乐播放器 [小枫音乐播放器](https://musicplayer.xfyun.club/)</del>
 - API [今日诗词](https://www.jinrishici.com/)，[一言](https://www.hitokoto.cn)
 - 镜像站  [静态资源](https://zstatic.net/)， [jsdmirror](https://blog.jsdmirror.com/)

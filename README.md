@@ -68,14 +68,15 @@ This project is a development of `Huniko519/Eoorox-Gaming-Esport-HTML`. <br>Plea
 
 ###  💌 Write at the end
 #### Project dependencies:
-- Template reference [Eoorox-Gaming-Esport-HTML](https://github.com/Huniko519/Eoorox-Gaming-Esport-HTML)
+- Template Reference [Eoorox-Gaming-Esport-HTML](https://github.com/Huniko519/Eoorox-Gaming-Esport-HTML)
 - Font [Blueaka](https://kivo.wiki/)
-- Very good BA logo generator [bluearchive-logo](https://github.com/nulla2011/bluearchive-logo)
+- Very good BA Logo Generator [bluearchive-logo](https://github.com/nulla2011/bluearchive-logo)
 - Weather [2345 Weather](https://tianqi.2345.com )
-- Comment plugin [gitalk](https://github.com/gitalk/gitalk)
-- Loading animation [Blog Garden - Waves](https://www.cnblogs.com/yecss/p/16862476.html)
-- C++ [rickroll](https://github.com/arcxingye/rr)
-- <del>Diana Live2d [Ye Xiaoshou's Blog]( https://www.moeshou.com/310/)</del>
+- Comment Plugin [gitalk](https://github.com/gitalk/gitalk)
+- Loading Animation [Add Loading Animation to Webpages](https://www.cnblogs.com/yecss/p/16862476.html)
+- Active Time [The code at the bottom of the website page: yy,mm,dd](https://blog.csdn.net/qq_28669073/article/details/115933418)
+- Rickroll [arcxingye rr](https://github.com/arcxingye/rr)
+- <del>Diana Live2d [How to add Diana Live2D to a blog website as a cute girl]( https://www.moeshou.com/310/)</del>
 - <del>Music Player [Xiaofeng's Music Player](https://musicplayer.xfyun.club/)</del>
 - API [jinrishici]( https://www.jinrishici.com/ ), [hitokoto](https://www.hitokoto.cn)
 - Mirror [zstatic]( https://zstatic.net/ ), [jsdmirror](https://blog.jsdmirror.com/)
