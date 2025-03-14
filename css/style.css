@@ -8508,7 +8508,7 @@ color: #fff;
 	text-align:center;
 }
 .sidebar-widget .widget {
-padding: 25px;
+padding: 20px;
 overflow: hidden;
 margin-bottom: 40px;
 border: 2px solid #eeeeee17 !important;
@@ -8604,9 +8604,8 @@ border: 2px solid #eeeeee17 !important;
 	transition: all 0.3s ease-out 0s;
 }
 .widget-social a {
-	height: 40px;
-	width: 40px !important;
-	line-height: 40px;
+	height: 32px;
+	width: 32px !important;
 	border-radius: 50%;
 	display: inline-block;
 	background: transparent;

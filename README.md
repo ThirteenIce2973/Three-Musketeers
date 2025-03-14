@@ -4,7 +4,7 @@
 </div>
 <div align="center" style="line-height: 1;">
   <a href="https://github.com/ThirteenIce2973/Three-Musketeers">
-<img alt="Chat" src="https://img.shields.io/badge/Github-repo-orgreen?logoColor=white&amp;logo=github"/>
+<img src="https://img.shields.io/badge/Github-repo-orgreen?logoColor=white&amp;logo=github"/>
 </a>
   <a href='https://gitee.com/thirteenice2973/three-musketeers'>
 <img src="https://img.shields.io/badge/%20Gitee-mirror-536af5?color=blue&logoColor=white&amp;logo=gitee">
@@ -62,7 +62,7 @@ This project is a development of `Huniko519/Eoorox-Gaming-Esport-HTML`. <br>Plea
 
 ### 🧭 Some Sentences
 
-- This site was actually built and maintained by `ThirteenIce2973`. It was deployed and protected by `Github Pages` and `Cloudflare`.
+- Powered by `ThirteenIce2973`. It was deployed and protected by `Github Pages` and `Cloudflare`.
 - Due to issues with mobile adaptation, some pages may experience poor display. Please prioritize accessing this website on the PC side.
 - Have problem or suggestion? Please feel free to open a new issue at Issues panel in this repo. I will be reaching you soon!
 
@@ -91,6 +91,6 @@ This project is non-commercial and non-profit, intended for learning and self en
 Please contact us promptly if you have any questions. Feel free to email at 2973@tmes.eu.org, thank you!
 
 ### 🙏 Extra
-For more information, please visit our website [ Three Musketeers | E-sports Team Official Website ](https://tmes.eu.org/) and star the project (if you can).<br>
+Are you ready to visit our website for more information[ Three Musketeers | E-sports Team Official Website ](https://tmes.eu.org/)? I can't wait to see your star! (if you can).<br>
 
 Have a good day!

@@ -4,7 +4,7 @@
 </div>
 <div align="center" style="line-height: 1;">
   <a href="https://github.com/ThirteenIce2973/Three-Musketeers">
-<img alt="Chat" src="https://img.shields.io/badge/Github-仓库-orgreen?logoColor=white&amp;logo=github"/>
+<img src="https://img.shields.io/badge/Github-仓库-orgreen?logoColor=white&amp;logo=github"/>
 </a>
   <a href='https://gitee.com/thirteenice2973/three-musketeers'>
 <img src="https://img.shields.io/badge/%20Gitee-镜像-536af5?color=blue&logoColor=white&amp;logo=gitee">
@@ -89,6 +89,6 @@
 
 
 ### 🙏 额外特供
-如果您感兴趣的话，请访问我们的网站 [ Three Musketeers | 战队官方网站 ](https://tmes.eu.org/)，并 star 本项目（如果可以）。<br>
+准备好访问我们的网站[ Three Musketeers | 战队官方网站 ](https://tmes.eu.org/) 了吗？我等不及你的 star 了！（如果可以）。<br>
 
 有缘再见！
