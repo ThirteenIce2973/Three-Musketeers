@@ -38,11 +38,7 @@
 | [v1.0](https://tmes.eu.org/1.0/index)       | 停用 | 2022年7月，初始计划开发版本
 | [v2.x](https://tmes.eu.org)                 | 运行中  | 现代化版本，保持开发与创新，不断更新
 
-项目目录：
-
-| 项目                                     | 状态   | 描述
-|----------------------------------------|------| ------ |
-| [sitemap](https://tmes.eu.org/sitemap) | 运行中  | 所有已开发的页面目录
+项目目录：[sitemap](https://tmes.eu.org/sitemap) 
 
 v1.0 和 Wixsite 是独立的。除 v1.0 外所有文件夹均服务于2.x版本。
 

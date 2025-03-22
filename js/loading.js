@@ -1,12 +1,3 @@
-var i = 0;
-function doit(){
-    i = i + 1;
-    var o = document.getElementById('s1');
-    o.innerHTML = i.toString();
-    if(i<100) setTimeout('doit()',50);
-}
-doit();
-
 //加载完成后执行
 window.addEventListener(
     'load',
@@ -25,3 +16,11 @@ window.addEventListener(
     },
     false
 )
+var i = 0;
+function doit(){
+    i = i + 1;
+    var o = document.getElementById('s1');
+    o.innerHTML = i.toString();
+    if(i<100) setTimeout('doit()',25);
+}
+doit();

@@ -38,11 +38,7 @@ History:
 | [v1.0](https://tmes.eu.org/1.0/index)       | Discontinued | The initial planned development version of the project in July 2022                                      
 | [v2.x](https://tmes.eu.org)                 | Running | Modernized version, maintaining development and innovation. Constantly updated
 
-Directory:
-
-| Page                                   |  Information|
-|----------------------------------------| ------ |
-| [sitemap](https://tmes.eu.org/sitemap) | Directory of all developed pages
+Directory: [sitemap](https://tmes.eu.org/sitemap) 
 
 v1.0 and Wixsite Version are independent. All folders except v1.0 serve v2.x.
 

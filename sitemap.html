@@ -218,32 +218,11 @@
                 <div class="inner three"></div>
             </div>
             <div class="loading-word">
-                <p class="loading-title" id="loading-title">✨ LOADING... ✨</p>
+                <p class="loading-title" id="loading-title">✨ LOADING... <span id="s1"></span>% ✨</p>
                 「<span id="loading-text">用代码表达言语的魅力，用代码书写山河的壮丽。</span>」
             </div>
         </div>
     </div>
-    <script>
-        //加载完成后执行
-        window.addEventListener(
-            'load',
-            function () {
-                //载入动画
-                $('#loading-box').attr('class', 'loaded')
-                $('#bg').css(
-                    'cssText',
-                    'transform: scale(1);filter: blur(0px);transition: ease 1s;'
-                )
-                $('.cover').css('cssText', 'opacity: 1;transition: ease 1s;')
-                $('#section').css(
-                    'cssText',
-                    'transform: scale(1) !important;opacity: 1 !important;filter: blur(0px) !important'
-                )
-            },
-            false
-        )
-
-    </script>
     <!-- main-area -->
     <main>
         <!-- breadcrumb-area -->
@@ -699,6 +678,7 @@
     <script src="js/parallax-scroll.js" defer></script>
     <script src="js/element-in-view.js" defer></script>
     <script src="js/sitetime.js" defer></script>
+    <script src="js/loading.js" defer></script>
     <script src="js/main.js" defer></script>
 </body>
 
