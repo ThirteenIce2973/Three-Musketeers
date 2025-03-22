@@ -64,7 +64,8 @@ This project is a development of `Huniko519/Eoorox-Gaming-Esport-HTML`. <br>Plea
 ###  💌 Write at the end
 #### Project dependencies:
 - Template Reference [Eoorox-Gaming-Esport-HTML](https://github.com/Huniko519/Eoorox-Gaming-Esport-HTML)
-- Font [Blueaka](https://kivo.wiki/)
+- Font [Blueaka](https://kivo.wiki/), [Barlow](https://fonts.googleapis.com)
+- Cursors [BlueArchive-Cursors](https://github.com/makipom/BlueArchive-Cursors)
 - Very good BA Logo Generator [bluearchive-logo](https://github.com/nulla2011/bluearchive-logo)
 - Weather [2345 Weather](https://tianqi.2345.com )
 - Comment Plugin [gitalk](https://github.com/gitalk/gitalk)

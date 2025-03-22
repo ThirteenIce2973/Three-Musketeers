@@ -63,7 +63,8 @@ v1.0 和 Wixsite 是独立的。除 v1.0 外所有文件夹均服务于2.x版本
 ### 💌 写在最后
 #### 项目依赖：
 - 样板参考 [Eoorox-Gaming-Esport-HTML](https://github.com/Huniko519/Eoorox-Gaming-Esport-HTML)
-- 字体 [Blueaka](https://kivo.wiki/)
+- 字体 [Blueaka](https://kivo.wiki/)，[Barlow](https://fonts.googleapis.com)
+- 鼠标指针 [BlueArchive-Cursors](https://github.com/makipom/BlueArchive-Cursors)
 - 非常好 BA logo 生成器 [bluearchive-logo](https://github.com/nulla2011/bluearchive-logo)
 - 天气 [2345天气](https://tianqi.2345.com)
 - 评论插件 [gitalk](https://github.com/gitalk/gitalk)
