@@ -16,6 +16,7 @@ window.addEventListener(
     },
     false
 )
+
 var i = 0;
 function doit(){
     i = i + 1;
