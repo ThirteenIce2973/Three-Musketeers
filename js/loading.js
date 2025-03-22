@@ -17,10 +17,10 @@ window.addEventListener(
     false
 )
 
-var i = 0;
+let i = 0;
 function doit(){
     i = i + 1;
-    var o = document.getElementById('s1');
+    const o = document.getElementById('s1');
     o.innerHTML = i.toString();
     if(i<100) setTimeout('doit()',25);
 }

@@ -27,7 +27,7 @@
 @import url('../fonts/Blueaka/Blueaka.css');
 @import url('../fonts/Barlow/Barlow.css');
  body {
-    font-family:'Blueaka', sans-serif;'Barlow', monospace;
+    font-family:'Blueaka', monospace;
 	font-size: 15px;
 	color: #ffffffc7;
 	font-style: normal;
