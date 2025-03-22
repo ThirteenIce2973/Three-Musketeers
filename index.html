@@ -214,41 +214,10 @@
             </div>
             <div class="loading-word">
                 <p class="loading-title" id="loading-title">✨ LOADING... <span id="s1"></span>% ✨</p>
-                <script language="javascript">
-                    var i = 0;
-                    function doit(){
-                        i = i + 1;
-                        var o = document.getElementById('s1');
-                        o.innerHTML = i.toString();
-                        if(i<100) setTimeout('doit()',50);
-                    }
-                    doit();
-                </script>
                 「<span id="loading-text">用代码表达言语的魅力，用代码书写山河的壮丽。</span>」
             </div>
         </div>
     </div>
-    <script>
-        //加载完成后执行
-        window.addEventListener(
-            'load',
-            function () {
-                //载入动画
-                $('#loading-box').attr('class', 'loaded')
-                $('#bg').css(
-                    'cssText',
-                    'transform: scale(1);filter: blur(0px);transition: ease 1s;'
-                )
-                $('.cover').css('cssText', 'opacity: 1;transition: ease 1s;')
-                $('#section').css(
-                    'cssText',
-                    'transform: scale(1) !important;opacity: 1 !important;filter: blur(0px) !important'
-                )
-            },
-            false
-        )
-
-    </script>
     <!-- slider-area -->
     <section id="home" class="slider-area slider-four fix p-relative about-imgvideo-p">
         <div class="slider-active">
@@ -1106,5 +1075,6 @@
 <script src="js/hitokoto.js"></script>
 <script src="js/autoclick.js" defer></script>
 <script src="js/sitetime.js" defer></script>
+<script src="js/loading.js" defer></script>
 <script src="js/main.js" defer></script>
 </body>
