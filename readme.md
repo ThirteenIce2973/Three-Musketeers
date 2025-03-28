@@ -44,7 +44,7 @@ Directory：
 |------------------------------------------|---------|---------------|
 | [1.0](1.0)                               | 1.0     | v1.0 souvenir 
 | [blog](blog)                             | 2.x     | blog articles    
-| [Blue Archive Cursors](cursors) | 2.x     | cursors         
+| [cursors](cursors) | 2.x     | BlueArchive-style cursors         
 | [css](css)                               | 2.x     | css           
 | [fonts](fonts)                           | 2.x     | fonts            
 | [img](img)                               | 2.x     | images            
