@@ -68,8 +68,8 @@ Sitemap: [sitemap.html](https://tmes.eu.org/sitemap) || [sitemap.txt](sitemap.tx
 - Fork and use GitHub Pages
 - Git to local ` git clone https://github.com/ThirteenIce2973/Three-Musketeers.git `
 
-###  🌏 Secondary development
-This project is a development of `Huniko519/Eoorox-Gaming-Esport-HTML`. <br>Please follow all the projects and dependent licenses used, and retain the original authorship.
+###  🌏 Secondary Development / License
+This project is a development of `Huniko519/Eoorox-Gaming-Esport-HTML` with GPL-3.0 license. <br>Please follow all the projects and dependent licenses used, and retain the original authorship.
 
 ### 🧭 Some Sentences
 
@@ -77,7 +77,7 @@ This project is a development of `Huniko519/Eoorox-Gaming-Esport-HTML`. <br>Plea
 - Due to issues with mobile adaptation, some pages may experience poor display. Please prioritize accessing this website on the PC side.
 - Have problem or suggestion? Please feel free to open a new issue at Issues panel in this repo. I will be reaching you soon!
 
-###  💌 Write at the end
+###  💌 Write at the End
 #### Project dependencies:
 - Template Reference [Eoorox-Gaming-Esport-HTML](https://github.com/Huniko519/Eoorox-Gaming-Esport-HTML)
 - Font [Blueaka](https://kivo.wiki/), [Barlow](https://fonts.googleapis.com)
