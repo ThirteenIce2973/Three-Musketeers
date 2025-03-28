@@ -51,7 +51,7 @@ Directory：
 | [js](js)                                 | 2.x     | js            
 | [C++](C++)                               | 2.x     | rickroll      
 
-1.0 and Wixsite Version are independent. All folders serve 2.x except 1.0.
+1.0 and Wixsite Version are independent without latest updates. All folders except 1.0 in the project are used for 2.x .
 <br>
 
 Documents ：[word.txt](word.txt)
