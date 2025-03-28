@@ -27,7 +27,7 @@
 @import url('../fonts/Blueaka/Blueaka.css');
 @import url('../fonts/Barlow/Barlow.css');
  body {
-    font-family:'Blueaka', monospace;
+    font-family:'Blueaka', '微软雅黑';
 	font-size: 15px;
 	color: #ffffffc7;
 	font-style: normal;
@@ -2604,7 +2604,7 @@ margin-top: 30px;
 /* 9. brand */
 .single-brand {text-align: center;}
 .single-brand img {display: inline-block;
-    opacity: .9;
+    opacity: 95%;
 }
 .single-brand img:hover{
     opacity: 1;

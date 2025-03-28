@@ -20,7 +20,7 @@ window.addEventListener(
 let i = 0;
 function doit(){
     i = i + 1;
-    const o = document.getElementById('s1');
+    const o = document.getElementById('loading-s1');
     o.innerHTML = i.toString();
     if(i<100) setTimeout('doit()',25);
 }

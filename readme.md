@@ -32,19 +32,35 @@ A simple blog style static website using `HTML+CSS+JS` to introduce yourself or 
 
 History:
 
-| Project                                     | Status | Information                                                                                               |
-|---------------------------------------------|------|-----------------------------------------------------------------------------------------------------------|
-| [Wixsite](https://tmteams.wixsite.com/info) | Discontinued | The predecessor of version 1.0, developed in September 2021, was later discontinued due to network issues 
-| [v1.0](https://tmes.eu.org/1.0/index)       | Discontinued | The initial planned development version of the project in July 2022                                      
-| [v2.x](https://tmes.eu.org)                 | Running | Modernized version, maintaining development and innovation. Constantly updated
+| Project                                   | Status | Description                                                                                               |
+|-------------------------------------------|------|-----------------------------------------------------------------------------------------------------------|
+| [Wixsite](https://tmteams.wixsite.com/info) | Discontinued | The earliest version which was developed in Sept 2021
+| [1.0](https://tmes.eu.org/1.0/index)      | Discontinued | The initial planned development version of the project in July 2022                                      
+| [2.x](https://tmes.eu.org)                | Running | Modernized version, maintaining development and innovation. Constantly updated
 
-Directory: [sitemap](https://tmes.eu.org/sitemap) 
+Directory：
 
-v1.0 and Wixsite Version are independent. All folders except v1.0 serve v2.x.
+| Folder                                   | Version | Content       |
+|------------------------------------------|---------|---------------|
+| [1.0](1.0)                               | 1.0     | v1.0 souvenir 
+| [blog](blog)                             | 2.x     | blog articles    
+| [Blue Archive Cursors](Blue Archive Cursors) | 2.x     | cursors         
+| [css](css)                               | 2.x     | css           
+| [fonts](fonts)                           | 2.x     | fonts            
+| [img](img)                               | 2.x     | images            
+| [js](js)                                 | 2.x     | js            
+| [C++](C++)                               | 2.x     | rickroll      
+
+1.0 and Wixsite Version are independent. All folders serve 2.x except 1.0.
+<br>
+
+Documents ：[word.txt](word.txt)
+
+Sitemap: [sitemap.html](https://tmes.eu.org/sitemap) || [sitemap.txt](sitemap.txt) || [sitemap.xml](sitemap.xml)
 
 ###  💭 Function
-✅  Bootstrap, jQuery are supported. Bing Search is provided in blog pages.<br>
-☑️  Widget: gitalk, mouse-click fireworks effect, loading animation, 2345 weather (only available in China Mainland), <del>Music player, Jiaran Live2d</del>, etc.<br>
+✅  Bootstrap, jQuery are supported. Bing Search is provided.<br>
+☑️  Widget: gitalk, mouse-click fireworks effect, loading animation, 2345 weather (only available in China Mainland), <del>Music player, Diana Live2d</del>, etc.<br>
 ❤️  Small file size, fast loading; Gorgeous interface!
 
 ###  🛂 Usage
@@ -57,7 +73,7 @@ This project is a development of `Huniko519/Eoorox-Gaming-Esport-HTML`. <br>Plea
 
 ### 🧭 Some Sentences
 
-- Powered by `ThirteenIce2973`. It was deployed and protected by `Github Pages` and `Cloudflare`.
+- Powered by `ThirteenIce2973`. The website is deployed and protected by `Github Pages` and `Cloudflare`.
 - Due to issues with mobile adaptation, some pages may experience poor display. Please prioritize accessing this website on the PC side.
 - Have problem or suggestion? Please feel free to open a new issue at Issues panel in this repo. I will be reaching you soon!
 

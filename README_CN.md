@@ -32,15 +32,32 @@
 
 项目历史：
 
-| 项目                                          | 状态   | 描述
-|---------------------------------------------|------| ------ |
-| [Wixsite](https://tmteams.wixsite.com/info) | 停用   | 1.0 版本的前身，开发于 2021年9月，后来由于网络原因，不予采用
-| [v1.0](https://tmes.eu.org/1.0/index)       | 停用 | 2022年7月，初始计划开发版本
-| [v2.x](https://tmes.eu.org)                 | 运行中  | 现代化版本，保持开发与创新，不断更新
+| 项目                                        | 状态   | 描述
+|-------------------------------------------|------| ------ |
+| [Wixsite](https://tmteams.wixsite.com/info) | 停用   | 开发于 2021年9月的最早版本
+| [1.0](https://tmes.eu.org/1.0/index)      | 停用 | 2022年7月的初始计划开发版本
+| [2.x](https://tmes.eu.org)                | 运行中  | 现代化版本，保持开发与创新，不断更新
 
-项目目录：[sitemap](https://tmes.eu.org/sitemap) 
+<br>
+项目目录：
 
-v1.0 和 Wixsite 是独立的。除 v1.0 外所有文件夹均服务于2.x版本。
+| 文件夹                                          | 版本  | 内容
+|----------------------------------------------|-----| ------ |
+| [1.0](1.0)                                   | 1.0 | 1.0版本目录（纪念）
+| [blog](blog)                                 | 2.x | 博客文章
+| [Blue Archive Cursors](Blue Archive Cursors) | 2.x | 鼠标指针
+| [css](css)                                   | 2.x | css
+| [fonts](fonts)                               | 2.x | 字体
+| [img](img)                                   | 2.x | 图片
+| [js](js)                                     | 2.x | js
+| [C++](C++)                                   | 2.x | rickroll
+
+v1.0 和 Wixsite 是独立的，且不再更新。本项目所有文件夹均服务于 2.x 版本。
+<br>
+
+文案：[word.txt](word.txt)
+
+Sitemap: [sitemap.html](https://tmes.eu.org/sitemap) || [sitemap.txt](sitemap.txt) || [sitemap.xml](sitemap.xml)
 
 ### 💭 功能特性
 ✅ 支持 Bootstrap, JQuery，页面内必应搜索<br>
@@ -63,7 +80,7 @@ v1.0 和 Wixsite 是独立的。除 v1.0 外所有文件夹均服务于2.x版本
 ### 💌 写在最后
 #### 项目依赖：
 - 样板参考 [Eoorox-Gaming-Esport-HTML](https://github.com/Huniko519/Eoorox-Gaming-Esport-HTML)
-- 字体 [Blueaka](https://kivo.wiki/)，[Barlow](https://fonts.googleapis.com)
+- 字体（本地） [Blueaka](https://kivo.wiki/)，[Barlow](https://fonts.googleapis.com)
 - 鼠标指针 [BlueArchive-Cursors](https://github.com/makipom/BlueArchive-Cursors)
 - 非常好 BA logo 生成器 [bluearchive-logo](https://github.com/nulla2011/bluearchive-logo)
 - 天气 [2345天气](https://tianqi.2345.com)
