@@ -45,7 +45,7 @@
 |----------------------------------------------|-----| ------ |
 | [1.0](1.0)                                   | 1.0 | 1.0版本目录（纪念）
 | [blog](blog)                                 | 2.x | 博客文章
-| [Blue Archive Cursors](Blue Archive Cursors) | 2.x | 鼠标指针
+| [Blue Archive Cursors](cursors) | 2.x | 鼠标指针
 | [css](css)                                   | 2.x | css
 | [fonts](fonts)                               | 2.x | 字体
 | [img](img)                                   | 2.x | 图片

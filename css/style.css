@@ -38,17 +38,17 @@ body {
   margin:0px;
 }
         body{
-            cursor: url('../Blue Archive Cursors/normal.cur'), auto
+            cursor: url('../cursors/normal.cur'), auto
         }
 
 	a:hover {
-			cursor: url('../Blue Archive Cursors/link.cur'), pointer
+			cursor: url('../cursors/link.cur'), pointer
 		}
 		i {
-        			cursor: url('../Blue Archive Cursors/link.cur'), auto;
+        			cursor: url('../cursors/link.cur'), auto;
         		}
         		img {
-                			cursor: url('../Blue Archive Cursors/link.cur'), auto;
+                			cursor: url('../cursors/link.cur'), auto;
                 		}
 
 
