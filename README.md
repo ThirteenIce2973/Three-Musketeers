@@ -39,7 +39,6 @@ History:
 | [2.x](https://tmes.eu.org)                        | Running | Modernized and powerful version, maintaining development and innovation
 
 1.0 and Wix Version are part of the project which located in folder "old-versions". All folders except it in the project are used for 2.x .
-
 <br>
 
 Documents ：[word.txt](word.txt)
