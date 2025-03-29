@@ -34,11 +34,11 @@
 
 | 项目                                        | 状态   | 描述
 |-------------------------------------------|------| ------ |
-| [Wixsite](https://tmteams.wixsite.com/info) | 停用   | 开发于 2021年9月的最早版本
-| [1.0](https://tmes.eu.org/1.0/index)      | 停用 | 2022年7月的初始计划开发版本
-| [2.x](https://tmes.eu.org)                | 运行中  | 现代化版本，保持开发与创新，不断更新
+| [Wixsite](https://tmteams.wixsite.com/info) | 停用   | 开发于 2021年9月的最早版本（纪念）
+| [1.0](https://tmes.eu.org/1.0/index)      | 停用 | 2022年7月的初始计划开发版本（纪念）
+| [2.x](https://tmes.eu.org)                | 运行中  | 现代化版本，保持开发与创新
 
-v1.0 和 Wixsite 是独立的，且不再更新。本项目所有文件夹均服务于 2.x 版本。
+v1.0 和 Wixsite 是独立的，且不再更新。除 １.0 外所有文件夹均服务于 2.x 版本。
 <br>
 
 文案：[word.txt](word.txt)

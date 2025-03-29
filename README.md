@@ -34,9 +34,9 @@ History:
 
 | Project                                   | Status | Description                                                                                               |
 |-------------------------------------------|------|-----------------------------------------------------------------------------------------------------------|
-| [Wixsite](https://tmteams.wixsite.com/info) | Discontinued | The earliest version which was developed in Sept 2021
-| [1.0](https://tmes.eu.org/1.0/index)      | Discontinued | The initial planned development version of the project in July 2022                                      
-| [2.x](https://tmes.eu.org)                | Running | Modernized version, maintaining development and innovation. Constantly updated
+| [Wixsite](https://tmteams.wixsite.com/info) | Discontinued | The earliest version which was developed in Sept 2021 (souvenir)
+| [1.0](https://tmes.eu.org/1.0/index)      | Discontinued | The initial planned development version of the project in July 2022 (souvenir)                                     
+| [2.x](https://tmes.eu.org)                | Running | Modernized and powerful version, maintaining development and innovation
 
 1.0 and Wixsite Version are independent without latest updates. All folders except 1.0 in the project are used for 2.x .
 <br>
@@ -83,6 +83,6 @@ Please follow all the projects and dependent licenses used, and retain the origi
 - This project is non-commercial and non-profit, intended for learning and amusement. Have problem or suggestion? Please feel free to open a new issue at Issues panel in this repo. I will be reaching you soon!
 
 ### 🙏 Surf on the Internet
-Are you ready to visit our website for more information[ Three Musketeers | E-sports Team Official Website ](https://tmes.eu.org/)? I can't wait to see your star! (if you can).<br>
+Are you ready to visit our website [ Three Musketeers | E-sports Team Official Website ](https://tmes.eu.org/) for more info? I can't wait to see your star! (if you can).<br>
 
 Have a good day!
