@@ -38,7 +38,9 @@
 | [1.0](https://tmes.eu.org/old-versions/1.0/index) | 停用 | 2022年7月的初始计划开发版本（纪念）
 | [2.x](https://tmes.eu.org)                        | 运行中  | 现代化版本，保持开发与创新
 
-v1.0 和 Wix版本是本项目的一部分，收录在 "old-versions" 文件夹。除此之外的所有文件夹均服务于 2.x 版本。
+v1.0 和 Wix版本是本项目的一部分，收录在 "old-versions" 文件夹。
+
+除此之外的所有文件夹均服务于 2.x 版本。"C++" 文件夹是 Rickroll (彩蛋)。
 <br>
 
 文案：[word.txt](word.txt)
@@ -59,7 +61,7 @@ Sitemap: [sitemap.html](https://tmes.eu.org/sitemap) || [sitemap.txt](sitemap.tx
 - 评论插件 [gitalk](https://github.com/gitalk/gitalk)
 - 加载动画 [给网页加入加载动画](https://www.cnblogs.com/yecss/p/16862476.html)
 - 运行时间 [网站页面底端“本站已经安全运行XX年XX天XX秒“代码](https://blog.csdn.net/qq_28669073/article/details/115933418)
-- Rickroll [arcxingye rr](https://github.com/arcxingye/rr)
+- Rickroll [arcxingye-rr](https://github.com/arcxingye/rr)
 - <del>嘉然live2d [如何将嘉然live2D添加到博客网站当看板娘](https://www.moeshou.com/310/)</del>
 - <del>音乐播放器 [小枫音乐播放器](https://musicplayer.xfyun.club/)</del>
 - API [今日诗词](https://www.jinrishici.com/)，[一言](https://www.hitokoto.cn)

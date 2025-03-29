@@ -38,7 +38,10 @@ History:
 | [1.0](https://tmes.eu.org/old-versions/1.0/index) | Discontinued | The initial planned development version of the project in July 2022 (souvenir)                                     
 | [2.x](https://tmes.eu.org)                        | Running | Modernized and powerful version, maintaining development and innovation
 
-1.0 and Wix Version are part of the project which located in folder "old-versions". All folders except it in the project are used for 2.x .
+1.0 and Wix Version are part of the project which located in folder "old-versions". 
+
+All folders except it in the project are used for 2.x .
+The folder "C++" is rickroll (a kind of trick).
 <br>
 
 Documents ：[word.txt](word.txt)
@@ -59,7 +62,7 @@ Sitemap: [sitemap.html](https://tmes.eu.org/sitemap) || [sitemap.txt](sitemap.tx
 - Comment Plugin [gitalk](https://github.com/gitalk/gitalk)
 - Loading Animation [Add Loading Animation to Webpages](https://www.cnblogs.com/yecss/p/16862476.html)
 - Active Time [The code at the bottom of the website page: yy,mm,dd](https://blog.csdn.net/qq_28669073/article/details/115933418)
-- Rickroll [arcxingye rr](https://github.com/arcxingye/rr)
+- Rickroll [arcxingye-rr](https://github.com/arcxingye/rr)
 - <del>Diana Live2d [How to add Diana Live2D to a blog website as a cute girl]( https://www.moeshou.com/310/)</del>
 - <del>Music Player [Xiaofeng's Music Player](https://musicplayer.xfyun.club/)</del>
 - API [jinrishici]( https://www.jinrishici.com/ ), [hitokoto](https://www.hitokoto.cn)
