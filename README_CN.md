@@ -51,17 +51,6 @@ Sitemap: [sitemap.html](https://tmes.eu.org/sitemap) || [sitemap.txt](sitemap.tx
 ☑️ 小组件：gitalk评论，点击烟花效果，首屏加载动画，2345天气（仅限中国大陆），<del>音乐播放器，嘉然live2d</del> 等<br>
 ❤️ 文件体积小，加载速度快；华丽的界面！
 
-### 🛂 使用说明
-
-- fork 本项目，并使用 github pages
-- git 至本地开发 `git clone https://github.com/ThirteenIce2973/Three-Musketeers.git`
-
-### 🧭 我说两句
-- 本站由站长  <i>`ThirteenIce2973`</i>  实际搭建并维护，担任技术支持。 使用了 <i>`Github Pages`</i> 和 <i>`Cloudflare`</i> 部署并加以保护。
-- 由于移动端适配的问题，个别页面效果会出现展示欠佳的问题。请优先使用 PC 端访问本站。
-- 如果您在使用时遇到任何问题，亦或是希望对未来的功能提供新的建议，欢迎您直接切换至 Issues 面板创建新提案！
-
-### 💌 写在最后
 #### 项目依赖：
 - 样板参考 [Eoorox-Gaming-Esport-HTML](https://github.com/Huniko519/Eoorox-Gaming-Esport-HTML)
 - 字体（本地） [Blueaka](https://kivo.wiki/)，[Barlow](https://fonts.googleapis.com)
@@ -76,16 +65,26 @@ Sitemap: [sitemap.html](https://tmes.eu.org/sitemap) || [sitemap.txt](sitemap.tx
 - <del>音乐播放器 [小枫音乐播放器](https://musicplayer.xfyun.club/)</del>
 - API [今日诗词](https://www.jinrishici.com/)，[一言](https://www.hitokoto.cn)
 - 镜像站  [静态资源](https://zstatic.net/)， [jsdmirror](https://blog.jsdmirror.com/)
-<br>
+  <br>
 
 此外，还参考和二次开发了互联网上公开的一些小项目，在源代码处保留署名。
+
+### 🛂 使用说明
+
+- fork 本项目，并使用 github pages
+- git 至本地开发 `git clone https://github.com/ThirteenIce2973/Three-Musketeers.git`
+
+### 🧭 我说两句
+- 使用了 <i>`Github Pages`</i> 和 <i>`Cloudflare`</i> 部署并加以保护。
+- 由于移动端适配的问题，个别页面效果会出现展示欠佳的问题。请优先使用 PC 端访问本站。
+- 如果您在使用时遇到任何问题，亦或是希望对未来的功能提供新的建议，欢迎您直接切换至 Issues 面板创建新提案！
 
 #### 注意：
 该项目不商用不盈利，供学习与娱乐之用。<br>
 有问题请联系: 2973@tmes.eu.org，谢谢！
 
 ### 🌏 二次开发 / 许可
-v2.x 使用 [Eoorox-Gaming-Esport-HTML](https://github.com/Huniko519/Eoorox-Gaming-Esport-HTML) ，Huniko519，GPL-3.0许可。v1.0使用 [clean-blog](https://startbootstrap.com/theme/clean-blog)，Start Bootstrap LLC，MIT 许可。请遵循使用到的所有项目及依赖的许可证，并保留原署名。
+v2.x 使用 [Eoorox-Gaming-Esport-HTML](https://github.com/Huniko519/Eoorox-Gaming-Esport-HTML) ，Huniko519，GPL-3.0　许可。v1.0使用 [clean-blog](https://startbootstrap.com/theme/clean-blog)，Start Bootstrap LLC，MIT 许可。请遵循使用到的所有项目及依赖的许可证，并保留原署名。
 
 ### 🙏 网上冲浪
 准备好访问我们的网站[ Three Musketeers | 战队官方网站 ](https://tmes.eu.org/) 了吗？我等不及你的 star 了！（如果可以）。<br>
