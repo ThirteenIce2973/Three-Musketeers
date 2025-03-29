@@ -38,19 +38,6 @@ History:
 | [1.0](https://tmes.eu.org/1.0/index)      | Discontinued | The initial planned development version of the project in July 2022                                      
 | [2.x](https://tmes.eu.org)                | Running | Modernized version, maintaining development and innovation. Constantly updated
 
-Directory：
-
-| Folder                                   | Version | Content       |
-|------------------------------------------|---------|---------------|
-| [1.0](1.0)                               | 1.0     | v1.0 souvenir 
-| [blog](blog)                             | 2.x     | blog articles    
-| [cursors](cursors) | 2.x     | BlueArchive-style cursors         
-| [css](css)                               | 2.x     | css           
-| [fonts](fonts)                           | 2.x     | fonts            
-| [img](img)                               | 2.x     | images            
-| [js](js)                                 | 2.x     | js            
-| [C++](C++)                               | 2.x     | rickroll      
-
 1.0 and Wixsite Version are independent without latest updates. All folders except 1.0 in the project are used for 2.x .
 <br>
 
