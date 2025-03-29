@@ -73,17 +73,18 @@ Sitemap: [sitemap.html](https://tmes.eu.org/sitemap) || [sitemap.txt](sitemap.tx
 - fork 本项目，并使用 github pages
 - git 至本地开发 `git clone https://github.com/ThirteenIce2973/Three-Musketeers.git`
 
-### 🧭 我说两句
+### 🧭 注意事项
 - 使用了 <i>`Github Pages`</i> 和 <i>`Cloudflare`</i> 部署并加以保护。
 - 由于移动端适配的问题，个别页面效果会出现展示欠佳的问题。请优先使用 PC 端访问本站。
-- 如果您在使用时遇到任何问题，亦或是希望对未来的功能提供新的建议，欢迎您直接切换至 Issues 面板创建新提案！
+- 该项目不商用不盈利，供学习与娱乐之用。如果您在使用时遇到任何问题，亦或是希望对未来的功能提供新的建议，欢迎您直接切换至 Issues 面板创建新提案！
 
-#### 注意：
-该项目不商用不盈利，供学习与娱乐之用。<br>
-有问题请联系: 2973@tmes.eu.org，谢谢！
+
 
 ### 🌏 二次开发 / 许可
-v2.x 使用 [Eoorox-Gaming-Esport-HTML](https://github.com/Huniko519/Eoorox-Gaming-Esport-HTML) ，Huniko519，GPL-3.0　许可。v1.0使用 [clean-blog](https://startbootstrap.com/theme/clean-blog)，Start Bootstrap LLC，MIT 许可。请遵循使用到的所有项目及依赖的许可证，并保留原署名。
+- v1.0使用 [clean-blog](https://startbootstrap.com/theme/clean-blog)，Start Bootstrap LLC，MIT 许可。
+- v2.x 使用 [Eoorox-Gaming-Esport-HTML](https://github.com/Huniko519/Eoorox-Gaming-Esport-HTML) ，Huniko519，GPL-3.0 许可。
+
+请遵循使用到的所有项目及依赖的许可证，并保留原署名。
 
 ### 🙏 网上冲浪
 准备好访问我们的网站[ Three Musketeers | 战队官方网站 ](https://tmes.eu.org/) 了吗？我等不及你的 star 了！（如果可以）。<br>
