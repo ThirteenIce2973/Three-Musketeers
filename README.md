@@ -46,25 +46,10 @@ Documents ：[word.txt](word.txt)
 Sitemap: [sitemap.html](https://tmes.eu.org/sitemap) || [sitemap.txt](sitemap.txt) || [sitemap.xml](sitemap.xml)
 
 ###  💭 Function
-✅  Bootstrap, jQuery are supported. Bing Search is provided.<br>
+✅  Bootstrap, jQuery and Bing Search are supported.<br>
 ☑️  Widget: gitalk, mouse-click fireworks effect, loading animation, 2345 weather (only available in China Mainland), <del>Music player, Diana Live2d</del>, etc.<br>
 ❤️  Small file size, fast loading; Gorgeous interface!
 
-###  🛂 Usage
-
-- Fork and use GitHub Pages
-- Git to local ` git clone https://github.com/ThirteenIce2973/Three-Musketeers.git `
-
-###  🌏 Secondary Development / License
-This project is a development of `Huniko519/Eoorox-Gaming-Esport-HTML` with GPL-3.0 license. <br>Please follow all the projects and dependent licenses used, and retain the original authorship.
-
-### 🧭 Some Sentences
-
-- Powered by `ThirteenIce2973`. The website is deployed and protected by `Github Pages` and `Cloudflare`.
-- Due to issues with mobile adaptation, some pages may experience poor display. Please prioritize accessing this website on the PC side.
-- Have problem or suggestion? Please feel free to open a new issue at Issues panel in this repo. I will be reaching you soon!
-
-###  💌 Write at the End
 #### Project dependencies:
 - Template Reference [Eoorox-Gaming-Esport-HTML](https://github.com/Huniko519/Eoorox-Gaming-Esport-HTML)
 - Font [Blueaka](https://kivo.wiki/), [Barlow](https://fonts.googleapis.com)
@@ -80,16 +65,24 @@ This project is a development of `Huniko519/Eoorox-Gaming-Esport-HTML` with GPL-
 - API [jinrishici]( https://www.jinrishici.com/ ), [hitokoto](https://www.hitokoto.cn)
 - Mirror [zstatic]( https://zstatic.net/ ), [jsdmirror](https://blog.jsdmirror.com/)
 
-In addition, some small projects published on the Internet were also referenced and re developed, which is enlightening and thoughtful.<br>
+In addition, some small projects published on the Internet were also referenced and redeveloped. I had kept the signature on the source code.<br>
 
-I had kept the signature on the source code, but it is not listed here at the moment. I apologize for any inconvenience caused.
+###  🛂 Usage
+- Fork and use GitHub Pages
+- Git to local ` git clone https://github.com/ThirteenIce2973/Three-Musketeers.git `
 
-#### Notice: 
-This project is non-commercial and non-profit, intended for learning and amusement.<br>
+###  🌏 Secondary Development / License
+- v1.0 uses [clean-blog](https://startbootstrap.com/theme/clean-blog), Start Bootstrap LLC, MIT License.
+- v2.x uses [Eoorox-Gaming-Esport-HTML](https://github.com/Huniko519/Eoorox-Gaming-Esport-HTML), Huniko519, GPL-3.0 License.
 
-Please contact me promptly if you have any questions. Feel free to email at 2973@tmes.eu.org, thank you!
+Please follow all the projects and dependent licenses used, and retain the original authorship.
 
-### 🙏 Extra
+### 🧭 Notices
+- The website is deployed and protected by `Github Pages` and `Cloudflare`.
+- Due to issues with mobile adaptation, some pages may experience poor display. Please prioritize accessing this website on the PC side.
+- This project is non-commercial and non-profit, intended for learning and amusement. Have problem or suggestion? Please feel free to open a new issue at Issues panel in this repo. I will be reaching you soon!
+
+### 🙏 Surf on the Internet
 Are you ready to visit our website for more information[ Three Musketeers | E-sports Team Official Website ](https://tmes.eu.org/)? I can't wait to see your star! (if you can).<br>
 
 Have a good day!

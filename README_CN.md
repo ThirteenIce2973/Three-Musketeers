@@ -64,12 +64,10 @@ Sitemap: [sitemap.html](https://tmes.eu.org/sitemap) || [sitemap.txt](sitemap.tx
 - <del>音乐播放器 [小枫音乐播放器](https://musicplayer.xfyun.club/)</del>
 - API [今日诗词](https://www.jinrishici.com/)，[一言](https://www.hitokoto.cn)
 - 镜像站  [静态资源](https://zstatic.net/)， [jsdmirror](https://blog.jsdmirror.com/)
-  <br>
 
 此外，还参考和二次开发了互联网上公开的一些小项目，在源代码处保留署名。
 
 ### 🛂 使用说明
-
 - fork 本项目，并使用 github pages
 - git 至本地开发 `git clone https://github.com/ThirteenIce2973/Three-Musketeers.git`
 
@@ -78,11 +76,9 @@ Sitemap: [sitemap.html](https://tmes.eu.org/sitemap) || [sitemap.txt](sitemap.tx
 - 由于移动端适配的问题，个别页面效果会出现展示欠佳的问题。请优先使用 PC 端访问本站。
 - 该项目不商用不盈利，供学习与娱乐之用。如果您在使用时遇到任何问题，亦或是希望对未来的功能提供新的建议，欢迎您直接切换至 Issues 面板创建新提案！
 
-
-
 ### 🌏 二次开发 / 许可
-- v1.0使用 [clean-blog](https://startbootstrap.com/theme/clean-blog)，Start Bootstrap LLC，MIT 许可。
-- v2.x 使用 [Eoorox-Gaming-Esport-HTML](https://github.com/Huniko519/Eoorox-Gaming-Esport-HTML) ，Huniko519，GPL-3.0 许可。
+- v1.0 使用 [clean-blog](https://startbootstrap.com/theme/clean-blog)，Start Bootstrap LLC，MIT 许可。
+- v2.x 使用 [Eoorox-Gaming-Esport-HTML](https://github.com/Huniko519/Eoorox-Gaming-Esport-HTML)，Huniko519，GPL-3.0 许可。
 
 请遵循使用到的所有项目及依赖的许可证，并保留原署名。
 
