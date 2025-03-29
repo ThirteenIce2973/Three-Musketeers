@@ -15,10 +15,10 @@ https://tmes.eu.org/C++
 
 
 ----- 1.0 -----
-https://tmes.eu.org/1.0/contact
-https://tmes.eu.org/1.0/post
-https://tmes.eu.org/1.0/about
-https://tmes.eu.org/1.0/index
+https://tmes.eu.org/old-versions/1.0/index
+https://tmes.eu.org/old-versions/1.0/about
+https://tmes.eu.org/old-versions/1.0/post
+https://tmes.eu.org/old-versions/1.0/contact
 
 
 ----- Wixsite -----

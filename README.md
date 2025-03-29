@@ -32,13 +32,14 @@ A simple blog style static website using `HTML+CSS+JS` to introduce yourself or 
 
 History:
 
-| Project                                   | Status | Description                                                                                               |
-|-------------------------------------------|------|-----------------------------------------------------------------------------------------------------------|
-| [Wixsite](https://tmteams.wixsite.com/info) | Discontinued | The earliest version which was developed in Sept 2021 (souvenir)
-| [1.0](https://tmes.eu.org/1.0/index)      | Discontinued | The initial planned development version of the project in July 2022 (souvenir)                                     
-| [2.x](https://tmes.eu.org)                | Running | Modernized and powerful version, maintaining development and innovation
+| Version                                           | Status | Description                                                                                               |
+|---------------------------------------------------|------|-----------------------------------------------------------------------------------------------------------|
+| [Wix](https://tmteams.wixsite.com/info) | Discontinued | The earliest version which was developed in Sept 2021 (souvenir)
+| [1.0](https://tmes.eu.org/old-versions/1.0/index) | Discontinued | The initial planned development version of the project in July 2022 (souvenir)                                     
+| [2.x](https://tmes.eu.org)                        | Running | Modernized and powerful version, maintaining development and innovation
 
-1.0 and Wixsite Version are independent without latest updates. All folders except 1.0 in the project are used for 2.x .
+1.0 and Wix Version are part of the project which located in folder "old-versions". All folders except it in the project are used for 2.x .
+
 <br>
 
 Documents ：[word.txt](word.txt)
@@ -69,7 +70,7 @@ In addition, some small projects published on the Internet were also referenced 
 
 ###  🛂 Usage
 - Fork and use GitHub Pages
-- Git to local ` git clone https://github.com/ThirteenIce2973/Three-Musketeers.git `
+- Git to local, edit html css js directly ` git clone https://github.com/ThirteenIce2973/Three-Musketeers.git `
 
 ###  🌏 Secondary Development / License
 - v1.0 uses [clean-blog](https://startbootstrap.com/theme/clean-blog), Start Bootstrap LLC, MIT License.
