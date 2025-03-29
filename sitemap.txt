@@ -1,4 +1,4 @@
------ 2.0 -----
+----- 2.x -----
 https://tmes.eu.org
 https://tmes.eu.org/about
 https://tmes.eu.org/team
