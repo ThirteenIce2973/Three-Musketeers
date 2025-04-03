@@ -3,17 +3,17 @@ https://tmes.eu.org
 https://tmes.eu.org/about
 https://tmes.eu.org/team
 https://tmes.eu.org/blog
-https://tmes.eu.org/blog2
 
-https://tmes.eu.org/blog/Site-Wiki
-https://tmes.eu.org/blog/MasterBuilder-Season1
-https://tmes.eu.org/blog/Cherish-Your-Youth
-https://tmes.eu.org/blog/MingYu-Server-1stAnniversary
+https://tmes.eu.org/blog/site-wiki
+https://tmes.eu.org/blog/masterbuilder-season01
+https://tmes.eu.org/blog/mingyu-server-1st-anniversary.html
+https://tmes.eu.org/blog/cherish-your-youth
 
 https://tmes.eu.org/sitemap
 https://tmes.eu.org/C++
 
-
+* https://tmes.eu.org/blog/site-wiki-old
+* https://tmes.eu.org/old-versions/2.0
 ----- 1.0 -----
 https://tmes.eu.org/old-versions/1.0/index
 https://tmes.eu.org/old-versions/1.0/about

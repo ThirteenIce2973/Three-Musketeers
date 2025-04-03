@@ -45,14 +45,14 @@ v1.0 和 Wix版本是本项目的一部分，收录在 "old-versions" 文件夹�
 
 文案：[word.txt](word.txt)
 
-Sitemap: [sitemap.html](https://tmes.eu.org/sitemap) || [sitemap.txt](sitemap.txt) || [sitemap.xml](sitemap.xml)
+导航页 (sitemap)： [sitemap.html](https://tmes.eu.org/sitemap) || [sitemap.txt](sitemap.txt) || [sitemap.xml](sitemap.xml)
 
 ### 💭 功能特性
 ✅ 支持 Bootstrap, JQuery，页面内必应搜索<br>
 ☑️ 小组件：gitalk评论，点击烟花效果，首屏加载动画，2345天气（仅限中国大陆），<del>音乐播放器，嘉然live2d</del> 等<br>
 ❤️ 文件体积小，加载速度快；华丽的界面！
 
-#### 项目依赖：
+#### 项目依赖
 - 样板参考 [Eoorox-Gaming-Esport-HTML](https://github.com/Huniko519/Eoorox-Gaming-Esport-HTML)
 - 字体（本地） [Blueaka](https://kivo.wiki/)，[Barlow](https://fonts.googleapis.com)
 - 鼠标指针 [BlueArchive-Cursors](https://github.com/makipom/BlueArchive-Cursors)
@@ -85,6 +85,6 @@ Sitemap: [sitemap.html](https://tmes.eu.org/sitemap) || [sitemap.txt](sitemap.tx
 请遵循使用到的所有项目及依赖的许可证，并保留原署名。
 
 ### 🙏 网上冲浪
-准备好访问我们的网站[ Three Musketeers | 战队官方网站 ](https://tmes.eu.org/) 了吗？我等不及你的 star 了！（如果可以）。<br>
+准备好访问我们的网站[ Three Musketeers | 战队官方网站 ](https://tmes.eu.org/) 了吗？我等不及你的 star 了！<br>
 
 有缘再见！

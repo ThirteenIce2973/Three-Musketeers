@@ -41,10 +41,10 @@ History:
 1.0 and Wix Version are part of the project which located in folder "old-versions". 
 
 All folders except it in the project are used for 2.x .
-The folder "C++" is rickroll (a kind of trick).
+The folder "C++" is Rickroll (a kind of tricks).
 <br>
 
-Documents ：[word.txt](word.txt)
+Document: [word.txt](word.txt)
 
 Sitemap: [sitemap.html](https://tmes.eu.org/sitemap) || [sitemap.txt](sitemap.txt) || [sitemap.xml](sitemap.xml)
 
@@ -53,7 +53,7 @@ Sitemap: [sitemap.html](https://tmes.eu.org/sitemap) || [sitemap.txt](sitemap.tx
 ☑️  Widget: gitalk, mouse-click fireworks effect, loading animation, 2345 weather (only available in China Mainland), <del>Music player, Diana Live2d</del>, etc.<br>
 ❤️  Small file size, fast loading; Gorgeous interface!
 
-#### Project dependencies:
+#### Project dependencies
 - Template Reference [Eoorox-Gaming-Esport-HTML](https://github.com/Huniko519/Eoorox-Gaming-Esport-HTML)
 - Font [Blueaka](https://kivo.wiki/), [Barlow](https://fonts.googleapis.com)
 - Cursors [BlueArchive-Cursors](https://github.com/makipom/BlueArchive-Cursors)
@@ -86,6 +86,6 @@ Please follow all the projects and dependent licenses used, and retain the origi
 - This project is non-commercial and non-profit, intended for learning and amusement. Have problem or suggestion? Please feel free to open a new issue at Issues panel in this repo. I will be reaching you soon!
 
 ### 🙏 Surf on the Internet
-Are you ready to visit our website [ Three Musketeers | E-sports Team Official Website ](https://tmes.eu.org/) for more info? I can't wait to see your star! (if you can).<br>
+Are you ready to visit our website [ Three Musketeers | E-sports Team Official Website ](https://tmes.eu.org/) for more info? I can't wait to see your star! .<br>
 
 Have a good day!
