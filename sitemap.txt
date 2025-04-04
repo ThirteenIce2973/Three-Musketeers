@@ -14,12 +14,9 @@ https://tmes.eu.org/C++
 
 * https://tmes.eu.org/blog/site-wiki-old
 * https://tmes.eu.org/old-versions/2.0
------ 1.0 -----
-https://tmes.eu.org/old-versions/1.0/index
-https://tmes.eu.org/old-versions/1.0/about
-https://tmes.eu.org/old-versions/1.0/post
-https://tmes.eu.org/old-versions/1.0/contact
 
+----- 1.0 -----
+https://tmes.eu.org/old-versions/1.0
 
 ----- Wixsite -----
 https://tmteams.wixsite.com/info
