@@ -1,4 +1,5 @@
 /*诗*/
+/*诗*/
 .poem-wrap {
     position: relative;
     width: 750px;
@@ -24,7 +25,7 @@
     color: #979797;
     font-family:fangsong;
     font-weight: bold;
-    font-size:2rem;
+    font-size:2.25rem;
 }
 .poem-wrap p#poem {
     margin: 5px auto;
@@ -60,6 +61,71 @@
         margin: 10px 3px;
     }
     .poem-border {
+        display: none;
+    }
+}
+
+
+.poemmp-wrap {
+    position: relative;
+    width: 750px;
+    max-width: 100%;
+    border: 2px solid #979797;
+    border-top: none;
+    text-align: center;
+    margin: 0px auto;
+}
+.poemmp-wrap h1 {
+    font-size: 2.25rem;
+    font-family: '楷体', serif;
+    position: relative;
+    margin-top: -0px;
+    display: inline-block;
+    letter-spacing: 4px;
+    color: #979797;
+}
+.poemmp-wrap p {
+    width: 90%;
+    margin: auto;
+    line-height: 30px;
+    color: #979797;
+    font-family:fangsong;
+    font-weight: bold;
+    font-size:1.75rem;
+}
+.poemmp-wrap p#poemmp {
+    margin: 5px auto;
+}
+.poemmp-wrap p#infomp {
+    font-size: 1.25rem;
+    margin: 5px auto;
+}
+.poemmp-border {
+    position: absolute;
+    height: 2px;
+    width: 20%;
+    background-color: #979797;
+}
+.poemmp-right {
+    right: 0;
+}
+.poemmp-left {
+    left: 0;
+}
+@media (max-width: 800px) {
+    .poemmp-border {
+        width: 18%;
+    }
+}
+@media (max-width: 600px) {
+    .poemmp-wrap {
+        margin-top: 0px;
+        margin-bottom: 0px;
+    }
+    .poemmp-wrap h1 {
+        margin: 0px 0px;
+    }
+    .poemmp-border {
         display: none;
     }
 }

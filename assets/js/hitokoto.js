@@ -6,6 +6,8 @@ xhr.onreadystatechange = function () {
         var poem = document.getElementById('poem');
         poem.innerText = data.hitokoto;
         info.innerText = data.from_who + '《' + data.from + '》';
+        poemmp.innerText = data.hitokoto;
+        infomp.innerText = data.from_who + '《' + data.from + '》';
     }
 };
 xhr.send();
