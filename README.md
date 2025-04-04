@@ -71,6 +71,8 @@ Sitemap: [sitemap.html](https://tmes.eu.org/sitemap) || [sitemap.txt](sitemap.tx
 In addition, some small projects published on the Internet were also referenced and redeveloped. I had kept the signature on the source code.<br>
 
 ###  🛂 Usage
+> [!IMPORTANT]
+>  As a beginner's frontend project during my middle school terms, the code for this project is quite messy and of low quality. Please consider using it as appropriate.
 - Fork and use GitHub Pages
 - Git to local, edit html css js directly ` git clone https://github.com/ThirteenIce2973/Three-Musketeers.git `
 
@@ -81,7 +83,7 @@ In addition, some small projects published on the Internet were also referenced 
 Please follow all the projects and dependent licenses used, and retain the original authorship.
 
 ### 🧭 Notices
-- The website is deployed and protected by `Github Pages` and `Cloudflare`.
+- The website is deployed and protected by Github Pages and Cloudflare.
 - Due to issues with mobile adaptation, some pages may experience poor display. Please prioritize accessing this website on the PC side.
 - This project is non-commercial and non-profit, intended for learning and amusement. Have problem or suggestion? Please feel free to open a new issue at Issues panel in this repo. I will be reaching you soon!
 

@@ -1,1 +1,1 @@
-visit https://tmteams.wixsite.com/info
+https://tmteams.wixsite.com/info

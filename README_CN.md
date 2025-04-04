@@ -70,11 +70,13 @@ v1.0 和 Wix版本是本项目的一部分，收录在 "old-versions" 文件夹�
 此外，还参考和二次开发了互联网上公开的一些小项目，在源代码处保留署名。
 
 ### 🛂 使用说明
+> [!IMPORTANT]
+>  此项目作为本人初中时期初学前端的作品，其代码相当杂乱且质量低下，请酌情选用
 - fork 本项目，并使用 github pages
 - git 至本地开发，直接编辑 html css js 文件 `git clone https://github.com/ThirteenIce2973/Three-Musketeers.git`
 
 ### 🧭 注意事项
-- 使用了 <i>`Github Pages`</i> 和 <i>`Cloudflare`</i> 部署并加以保护。
+- 使用了 Github Pages 和 Cloudflare 部署并加以保护。
 - 由于移动端适配的问题，个别页面效果会出现展示欠佳的问题。请优先使用 PC 端访问本站。
 - 该项目不商用不盈利，供学习与娱乐之用。如果您在使用时遇到任何问题，亦或是希望对未来的功能提供新的建议，欢迎您直接切换至 Issues 面板创建新提案！
 

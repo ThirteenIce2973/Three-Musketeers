@@ -155,42 +155,45 @@
                 </p>
                 <p class="overlay-description">以下内容可能不适合<b>低于 18 岁</b>的人群观看，我们需要确认您的年龄。</p>
                 <div class="overlay-buttons-wrapper">
-                    <a href="https://vdse.bdstatic.com/192d9a98d782d9c74c96f09db9378d93.mp4" class="underline">
-                        <div id="accept-button" class="overlay-button">已满 18 岁</div></a>
-                    <a href="../assets/img/video/no.webp" target="_blank" class="underline">
-                        <div id="decline-button" class="overlay-button">未满 18 岁</div></a>
+                    <a href="" class="underline">
+                        <div id="accept-button" class="overlay-button">已满 18 岁</div>
+                        <div id="decline-button" class="overlay-button">未满 18 岁</div>
                 </div>
             </div>
         </div>
     </div>
-
-   <div class="scare">
-       
-   </div>
-
-    
-        <script type="text/javascript">
-            const video = document.getElementById("video");
-            const overlay = document.getElementById("overlay");
-            const declineButton = document.getElementById("decline-button");
-            const acceptButton = document.getElementById("accept-button");
-            video.addEventListener("ended", function () {
-                window.location.href = "https://github.com/ThirteenIce2973/rickroll";
-            });
-
-            function videoClick(event) {
-                if (event) event.preventDefault();
-                const { documentElement } = document;
-                if (documentElement.requestFullscreen) documentElement.requestFullscreen();
-                else if (documentElement.mozRequestFullScreen) documentElement.mozRequestFullScreen();
-                else if (documentElement.webkitRequestFullscreen) documentElement.webkitRequestFullscreen();
-                else if (documentElement.msRequestFullscreen) documentElement.msRequestFullscreen();
-            }
-            acceptButton.addEventListener("click", buttonClick1);
-            declineButton.addEventListener("click", buttonClick2);
-            video.addEventListener("click", videoClick);
-        </script>
-    
+    <div class="scare">
+        <video id="video" class="video" src="https://vdse.bdstatic.com/192d9a98d782d9c74c96f09db9378d93.mp4"></video>
+    </div>
+    <script type="text/javascript">
+        const video = document.getElementById("video");
+        const overlay = document.getElementById("overlay");
+        const declineButton = document.getElementById("decline-button");
+        const acceptButton = document.getElementById("accept-button");
+        video.addEventListener("ended", function () {
+            window.location.href = "https://arcxingye.github.io/rr/qrcode4";
+        });
+        function buttonClick1(event) {
+            event.preventDefault();
+            overlay.hidden = true;
+            video.play();
+            videoClick();
+        }
+        function buttonClick2(event) {
+            window.open("../assets/img/video/no.webp");
+        }
+        function videoClick(event) {
+            if (event) event.preventDefault();
+            const { documentElement } = document;
+            if (documentElement.requestFullscreen) documentElement.requestFullscreen();
+            else if (documentElement.mozRequestFullScreen) documentElement.mozRequestFullScreen();
+            else if (documentElement.webkitRequestFullscreen) documentElement.webkitRequestFullscreen();
+            else if (documentElement.msRequestFullscreen) documentElement.msRequestFullscreen();
+        }
+        acceptButton.addEventListener("click", buttonClick1);
+        declineButton.addEventListener("click", buttonClick2);
+        video.addEventListener("click", videoClick);
+    </script>
 
     </body>
     </html>
