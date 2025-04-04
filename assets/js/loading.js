@@ -1,9 +1,5 @@
 //加载完成后执行
-const img = new Image();
-img.src = 'assets/img/bg/home-bg.jpg'; // 图片路径
-
-    img.addEventListener('load', function() {
-        //载入动画
+setTimeout(function() {      //载入动画
         $('#loading-box').attr('class', 'loaded')
        $('#bg').css(
             'cssText',
@@ -16,9 +12,7 @@ img.src = 'assets/img/bg/home-bg.jpg'; // 图片路径
              'transform: scale(1) !important;opacity: 1 !important;filter: blur(0px) !important'
          )
 
-    },
-    false
-)
+}, 3000); // 5000ms = 5秒
 
 let i = 0;
 function doit(){
