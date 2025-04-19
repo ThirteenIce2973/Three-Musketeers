@@ -1860,8 +1860,8 @@ border-radius: 0;
 	margin-bottom: 0;
 }
 .second-services-content a {
-	/*font-size: 14px;
-	font-weight: 500;
+	/*fonts-size: 14px;
+	fonts-weight: 500;
 	color: #444d69;
 	position: relative;
 	transition: .5s;*/
@@ -9731,8 +9731,6 @@ header.masthead {
       font-size: 1.875rem;
     }
   }
-
-
   .visible-mp{
 
   display: none;
@@ -9755,7 +9753,6 @@ header.masthead {
 
   display: none;
 
-  }
   }
 
 .underline:hover {
