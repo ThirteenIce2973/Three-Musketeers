@@ -1,3 +1,16 @@
+let progress = 0;
+const interval = 50;
+const duration = 3000;
+const step = 100 / (duration/interval);
+
+const timer = setInterval(() => {
+    progress += step;
+    if(progress >= 100) {
+        progress = 100;
+        clearInterval(timer);
+    }
+    document.getElementById('loading-s1').textContent = Math.round(progress);
+}, interval);
 setTimeout(function() {
     // 移除加载动画效果
     $('#loading-box').attr('class', 'loaded');
@@ -12,19 +25,6 @@ setTimeout(function() {
     );
 }, 3000);
 
-let progress = 0;
-const interval = 50; // 每50ms更新一次
-const duration = 3000; // 总时长5秒
-const step = 100 / (duration/interval); // 每次增加的百分比
-
-const timer = setInterval(() => {
-    progress += step;
-    if(progress >= 100) {
-        progress = 100;
-        clearInterval(timer);
-    }
-    document.getElementById('loading-s1').textContent = Math.round(progress);
-}, interval);
 
 
 
