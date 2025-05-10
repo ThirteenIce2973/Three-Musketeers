@@ -43,9 +43,9 @@ v1.0 和 Wix版本是本项目的一部分，收录在 "old-versions" 文件夹�
 除此之外的所有文件夹均服务于 2.x 版本。"C++" 文件夹是 Rickroll (彩蛋)。
 <br>
 
-文案：[word.txt](word.txt)
+文案：[word.txt](txt/word.txt)
 
-导航页 (sitemap)： [sitemap.html](https://tmes.eu.org/sitemap) || [sitemap.txt](sitemap.txt) || [sitemap.xml](sitemap.xml)
+导航页 (sitemap)： [sitemap.html](https://tmes.eu.org/sitemap) || [sitemap.txt](txt/sitemap.txt) || [sitemap.xml](sitemap.xml)
 
 ### 💭 功能特性
 ✅ 支持 Bootstrap, JQuery，页面内必应搜索<br>

@@ -44,9 +44,9 @@ All folders except it in the project are used for 2.x .
 The folder "C++" is Rickroll (a kind of tricks).
 <br>
 
-Document: [word.txt](word.txt)
+Document: [word.txt](txt/word.txt)
 
-Sitemap: [sitemap.html](https://tmes.eu.org/sitemap) || [sitemap.txt](sitemap.txt) || [sitemap.xml](sitemap.xml)
+Sitemap: [sitemap.html](https://tmes.eu.org/sitemap) || [sitemap.txt](txt/sitemap.txt) || [sitemap.xml](sitemap.xml)
 
 ###  💭 Function
 ✅  Bootstrap, jQuery and Bing Search are supported.<br>
