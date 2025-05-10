@@ -54,7 +54,7 @@ v1.0 和 Wix版本是本项目的一部分，收录在 "old-versions" 文件夹�
 
 #### 项目依赖
 - 样板参考 [Eoorox-Gaming-Esport-HTML](https://github.com/Huniko519/Eoorox-Gaming-Esport-HTML)
-- 字体（本地） [Blueaka](https://kivo.wiki/)，[Barlow](https://fonts.googleapis.com)
+- 字体（本地） [Blueaka](https://kivo.wiki/)，[Teko](https://fonts.googleapis.com)
 - 鼠标指针 [BlueArchive-Cursors](https://github.com/makipom/BlueArchive-Cursors)
 - 非常好 BA logo 生成器 [bluearchive-logo](https://github.com/nulla2011/bluearchive-logo)
 - 天气 [2345天气](https://tianqi.2345.com)

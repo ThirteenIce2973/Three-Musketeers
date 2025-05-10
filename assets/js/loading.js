@@ -1,6 +1,6 @@
 let progress = 0;
 const interval = 50;
-const duration = 3000;
+const duration = 1000;
 const step = 100 / (duration/interval);
 
 const timer = setInterval(() => {
@@ -23,7 +23,7 @@ setTimeout(function() {
         'cssText',
         'transform: scale(1) !important; opacity: 1 !important; filter: blur(0px) !important'
     );
-}, 3000);
+}, 1500);
 
 
 

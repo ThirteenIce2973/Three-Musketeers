@@ -25,7 +25,7 @@
 
 /* 1. Theme default css */
 @import url('../fonts/Blueaka/Blueaka.css');
-@import url('../fonts/Barlow/Barlow.css');
+@import url('../fonts/Teko/Teko.css');
  body {
     font-family:'Blueaka', '微软雅黑';
 	font-size: 15px;
@@ -309,7 +309,7 @@ margin-left: 0px;
 	height: 45px;
 	width: 45px;
 	right: 50px;
-	bottom: 77px;
+	bottom: 40px;
 	color: #fff;
 	text-align: center;
 	border-radius: 50%;
@@ -475,7 +475,7 @@ color: #191D3B;
     width: 100%;
     box-shadow: 0 0 60px 0 rgba(0, 0, 0, .07);
 		z-index: 9999;
-		background: #fff;
+		background: #1a0e22;
     -webkit-animation: 300ms ease-in-out 0s normal none 1 running fadeInDown;
     animation: 300ms ease-in-out 0s normal none 1 running fadeInDown;
     -webkit-box-shadow: 0 10px 15px rgba(25, 25, 25, 0.1);
@@ -775,7 +775,7 @@ color: #b8bfc3;
 border-top: 0;
     position: relative;
     z-index: 1;
-    padding-top: 25px;
+    padding-top: 15px;
 }
 .header-three .main-menu ul li a {
     color: #fff;
@@ -4765,7 +4765,7 @@ text-align: center;
 display:none;
 position: absolute;
 background-color: #ffff;
-min-width: 250px;
+min-width: 270px;
 z-index: 1;
 transition: all 0.3s ease-in-out;
 margin-top: 15px;
@@ -9762,3 +9762,19 @@ header.masthead {
     background: #ff0000; /* 设置滑块的颜色 */
 }
 
+.top-nav { /*顶部导航栏*/
+	background: background-image:url(assets/img/bg/about-hd.jpg);
+	position: fixed !important;
+	width: 100%;
+	height: 100px;
+	z-index: 10;
+}
+
+.banner { /*滚动广告幅*/
+	background: background-image:url(assets/img/bg/about-hd.jpg);
+	padding-top: 0px !important;
+	margin: 0 auto;
+	width: 1920px;
+	height: 500px;
+	position: relative !important;
+}

@@ -1,0 +1,414 @@
+----- Text 文字版 -----
+[★ VERSION 2.5.0 (48) 新年特典！ ★]（Jan 28, 2025） 版本更新：
+MM XX V.
+
+"We choose to go to the moon."
+
+// 不再详细撰写更新。
+
+
+
+[ 2.0.0.47 ]（Sept 01, 2024） 版本更新日志：
+1. 大更新：将原先又臭又长的“更新日志”改为”玩转本站“，新增了大量内容，并修改了链接。
+
+2. 成员名册页面的文案有改动，并新增成员“呆呆”；更换了“关于我们”处的大图片。
+
+3. 完善了交互功能，例如“🕰️预计阅读时间”栏目，整个网站焕然一新。
+
+4. 图片重新压缩，网站加载速度更快，更好！！
+
+
+
+[ 2.0.0.46 ]（UTC+8 - Jul 19, 2024） 版本更新日志：
+1. 替换尾页友情链接中的 VK 为 OOPZ。
+
+2. 修改文案。
+
+
+
+[ 2.0.0.45 ]（UTC+8 - 中国标准时间 2024年2月10日） 版本更新日志：
+"迪迦，请赐予我力量！"2024新春更新
+1. 由于DODO于2月5日停服，本站底页的DODO链接替换为VK的友链。
+
+2. 修改和完善了成员名册、网站更新的页面内容。更正了成员名册页面的文案错误。
+
+3. 更改了萌号。
+
+
+
+[ 2.0.0.44 ]（UTC+8 - 中国标准时间 2024年1月1日） 版本更新日志：
+”心之所向，星辰大海！“ 2024元旦更新
+1. 将底页的" © Three-Musketeers 2021 - 2023 "调整为" © ThirteenIce2973 2021 - 2024 "，并为此项目添加了 MIT 许可证。
+
+2. 将本项目源码git至了gitee，中国大陆地区无需担心网络问题。
+
+3. 调整了 README.md 的内容。
+
+4. 修改了"关于我们"(about)界面的文案。
+
+5. 更换了位于 README.md 的主页大图。
+
+
+
+[ 2.0.0.43 ]（UTC+8 - 中国标准时间 2023年8月29日） 版本更新日志：
+1. 优化了成员名册界面正文的可读性。
+
+2. 优化了部分成员的介绍文案。
+
+2. 更换了部分成员的头像。
+
+
+
+[ 2.0.0.42 ]（UTC+8 - 中国标准时间 2023年8月22日） 版本更新日志：
+”看到这句话的朋友，我送你一朵水仙。今年七夕就和自己过吧，我的朋友。一切都会好起来的。“
+”与其抗拒孤独，不如享受孤独。“
+1. 完善了本站的readme.md。
+
+2. 加急修复了一些陈年bug。
+
+
+
+[ 2.0.0.41 ]（UTC+8 - 中国标准时间 2023年8月20日） 版本更新日志：
+1. 将底边栏友情链接 KOOK 替换成 DoDo渡渡。
+
+2. 修复了一些小bug。
+
+
+
+[ 2.0.0.40 ]（UTC+8 - 中国标准时间 2023年7月14日） 版本更新日志：
+”2022.7.14 - 2023.7.14 网站稳定运行一周年昂“
+1. 优化了部分代码。
+
+2. 修改了主页(index)、名册(team)页面的多处文案。
+
+3. 写了这段没人看的东西。
+
+
+
+[ 2.0.0.39 ]（UTC+8 - 中国标准时间 2023年5月13日） 版本更新日志：
+1. 修复了 2 个 bug。
+
+2. 修改了 14 处文案。
+
+3. 对主页(index)、博客目录(blog)页面进行了重新排版。
+
+4. 新增页面：明宇建筑服--服务器一周年庆典活动(blog/ServerofMY-1thAnniversaryCelebration)。
+
+5. 更改了图片文件的存放目录，解决了图片文件的混乱问题。
+
+6. 将博客文章的网址文件名格式取消数字制。
+
+
+
+[ 2.0.0.38 ]（UTC+8 - 中国标准时间 2023年3月15日） 版本更新日志：
+1. 优化了更新日志页面的内容。
+
+2. 修改了 17 处文案。
+
+3. 修复了 12 个 bug。
+
+4. 新增页面：导航页（sitemap）和文案总目录文档（word.txt）。
+
+5. 优化了主页（index）、名册（team）、文章《更新日志》(blog/This-Site) 以及 1.0 版本页面的内容，并更新了更新日志主页封面图。
+
+6. 3月4日对文章《青春，就应当在不懈奋斗中绽放绚丽之花》的累积更新。
+
+
+
+[ 2.0.0.37 ] —— 细节更新（UTC+8 - 中国标准时间 2023年2月4日） 版本更新日志：
+通知：在 Bing 输入 "Three Musketeers 战队官网" 等关键词，即可进行索引。
+此后我将会对本站的更新内容以及频率等进行一定的调整，请知悉。
+1. 主要对关键字和标题进行了修改。
+
+2. 优化了一些页面的显示效果。
+
+3. 纠正了一些页面的错误。
+
+4. 删除博客文章：《〈建筑大师〉MAJOR 第一季 建筑家作品欣赏》，并将部分文案迁移至《〈建筑大师〉MAJOR 第一季 正式拉开序幕！》。
+
+5. 新增博客文章：《明宇服务器一周年庆典》。
+
+6. 对多处文案进行修改，感谢 LINK KAMO 位于主页的建议，同时感谢战队全体成员的赞助和我自己的技术支持。
+
+
+
+[ 2.0.0.36 ]（UTC+8 - 中国标准时间 2023年1月27日） 版本更新日志：
+《建筑大师》2023 Major 第一季 正式闭幕。
+1. 新增了博客页面：《建筑大师》大赛 第一季建筑家作品欣赏（blog/20230204）。
+
+2. 对一些地方的文案进行了少许改动。
+
+3. 修复了一些已知的bug。
+
+4. 优化了页面的显示。
+
+5. 对一些页面的流畅度进行了调整。
+
+
+
+[ 2.0.0.35 ] —— 重大更新（UTC+8 - 中国标准时间 2023年1月20日） 版本更新日志：
+欧耶~ 2023 Major好耶！
+1. 新增了博客页面：《建筑大师》大赛 第一季开幕说明（blog/TheMasterBuilder-Season1）！
+
+2. 去除了少许博客内容页的侧边栏功能。
+
+3. 完善了博客内容页的尾页部分。
+
+4. 修复了网页标题显示错误的 bug。
+
+5. 删除了标题栏上方页面导航栏 "团队博客" 的文章显示。
+
+6. 修改了较多页面的文案。
+
+7. 优化了某些页面的排版、字符颜色（包括重置处理）。
+
+8. 修改了博客-网站更新日志页面的URL（blog/This-Site）。
+
+
+
+[ 2.0.0.34 ]（UTC+8 - 中国标准时间 2023年1月1日） 版本更新日志：
+"夜将寒色去，年共晓光新。"
+三年时光列车，说过就过。三年之间，感谢陪伴。新年快乐，xdm！
+0. 新年特供：乐.jpg
+
+1. 为了保证版本时间线的统一，在新的年度中将会采用新式版本号，并抛弃那些无用的文案。
+
+2. 修复了页面上出现的一些错误。
+
+
+----- Code 代码版 -----
+ <h4>
+                                                        <font color="#00FFFF" align="center"> [★ VERSION 2.5.0 (48) 新年特典！ ★]（Jan 28, 2025）
+                                                            版本更新：</font>
+                                                    </h4>
+                                                    <p></p>
+                                                    <p style="text-indent:2em;">MM XX V.</p>
+                                                    <p style="text-indent:2em;">"We choose to go to the moon."</p>
+                                                    <p style="text-indent:2em;">// 不再详细撰写更新。</p>
+                                                    <br>
+                                                    </br>
+                                                    <h4>
+                                                        <font color="#00FFFF" align="center"> [ 2.0.0.47 ]（Sept 01, 2024）
+                                                            版本更新日志：</font>
+                                                    </h4>
+                                                    <p></p>
+                                                    <p style="text-indent:2em;"> 1.
+                                                        大更新：将原先又臭又长的“更新日志”改为”玩转本站“，新增了大量内容，并修改了链接。</p>
+                                                    <p style="text-indent:2em;"> 2.
+                                                        成员名册页面的文案有改动，并新增成员“呆呆”；更换了“关于我们”处的大图片。</p>
+                                                    <p style="text-indent:2em;"> 3.
+                                                        完善了交互功能，例如“🕰️预计阅读时间”栏目，整个网站焕然一新。</p>
+                                                    <p style="text-indent:2em;"> 4. 图片重新压缩，网站加载速度更快，更好！！</p>
+                                                    <br>
+                                                    </br>
+                                                    <h4>
+                                                        <font color="#00FFFF" align="center">[ 2.0.0.46 ]（UTC+8 - Jul 19, 2024）
+                                                            版本更新日志：</font>
+                                                    </h4>
+                                                    <p></p>
+                                                    <p style="text-indent:2em;"> 1. 替换尾页友情链接中的 VK 为 OOPZ。</p>
+                                                    <p style="text-indent:2em;"> 2. 修改文案。</p>
+                                                    <br>
+                                                    </br>
+
+                                                    <h4>
+                                                        <font color="#00FFFF" align="center">[ 2.0.0.45 ]（UTC+8 - 中国标准时间 2024年2月10日）
+                                                            版本更新日志：</font>
+                                                    </h4>
+                                                    <p></p>
+                                                    <h5 style="text-indent:3em;">
+                                                        <font color="#00FF7F">"迪迦，请赐予我力量！"2024新春更新</font>
+                                                    </h5>
+                                                    <p style="text-indent:2em;"> 1.
+                                                        由于DODO于2月5日停服，本站底页的DODO链接替换为VK的友链。</p>
+                                                    <p style="text-indent:2em;"> 2.
+                                                        修改和完善了成员名册、网站更新的页面内容。更正了成员名册页面的文案错误。</p>
+                                                    <p style="text-indent:2em;"> 3. 更改了萌号。</p>
+                                                    <br>
+                                                    </br>
+
+                                                    <h4>
+                                                        <font color="#00FFFF" align="center">[ 2.0.0.44 ]（UTC+8 - 中国标准时间 2024年1月1日）
+                                                            版本更新日志：</font>
+                                                    </h4>
+                                                    <p></p>
+                                                    <h5 style="text-indent:3em;">
+                                                        <font color="#00FF7F">”心之所向，星辰大海！“ 2024元旦更新</font>
+                                                    </h5>
+                                                    <p style="text-indent:2em;">
+                                                        <del> 1. 将底页的" © Three-Musketeers 2021 - 2023 "调整为" © ThirteenIce2973 2021 -
+                                                            2024 "，并为此项目添加了 MIT 许可证。
+                                                        </del>
+                                                    </p>
+                                                    <p style="text-indent:2em;"> 2.
+                                                        将本项目源码git至了gitee，中国大陆地区无需担心网络问题。</p>
+                                                    <p style="text-indent:2em;"> 3. 调整了 README.md 的内容。</p>
+                                                    <p style="text-indent:2em;"> 4. 修改了"关于我们"(about)界面的文案。</p>
+                                                    <p style="text-indent:2em;"> 5. 更换了位于 README.md 的主页大图。</p>
+                                                    <br>
+                                                    </br><h4>
+                                                    <font color="#00FFFF" align="center">[ 2.0.0.43 ]（UTC+8 - 中国标准时间 2023年8月29日）
+                                                        版本更新日志：</font>
+                                                </h4>
+                                                    <p></p>
+                                                    <p style="text-indent:2em;"> 1. 优化了成员名册界面正文的可读性。</p>
+                                                    <p style="text-indent:2em;"> 2. 优化了部分成员的介绍文案。</p>
+                                                    <p style="text-indent:2em;"> 2. 更换了部分成员的头像。</p>
+                                                    <br>
+                                                    </br>
+
+                                                    <h4>
+                                                        <font color="#00FFFF" align="center">[ 2.0.0.42 ]（UTC+8 - 中国标准时间 2023年8月22日）
+                                                            版本更新日志：</font>
+                                                    </h4>
+                                                    <p></p>
+                                                    <h5 style="text-indent:3em;">
+                                                        <font color="#00FF7F">”看到这句话的朋友，我送你一朵水仙。今年七夕就和自己过吧，我的朋友。一切都会好起来的。“</font>
+                                                    </h5>
+                                                    <h5 style="text-indent:3em;">
+                                                        <font color="#00FF7F">”与其抗拒孤独，不如享受孤独。“</font>
+                                                    </h5>
+                                                    <p style="text-indent:2em;"> 1. 完善了本站的readme.md。</p>
+                                                    <p style="text-indent:2em;"> 2. 加急修复了一些陈年bug。</p>
+                                                    <br>
+                                                    </br>
+
+                                                    <h4>
+                                                        <font color="#00FFFF" align="center">[ 2.0.0.41 ]（UTC+8 - 中国标准时间 2023年8月20日）
+                                                            版本更新日志：</font>
+                                                    </h4>
+                                                    <p></p>
+                                                    <p style="text-indent:2em;"> 1. 将底边栏友情链接 KOOK 替换成 DoDo渡渡。</p>
+                                                    <p style="text-indent:2em;"> 2. 修复了一些小bug。</p>
+                                                    <br>
+                                                    </br>
+
+                                                    <h4>
+                                                        <font color="#00FFFF" align="center">[ 2.0.0.40 ]（UTC+8 - 中国标准时间 2023年7月14日）
+                                                            版本更新日志：</font>
+                                                    </h4>
+                                                    <p></p> <h5 style="text-indent:3em;">
+                                                    <font color="#00FF7F">”2022.7.14 - 2023.7.14 网站稳定运行一周年昂“</font>
+                                                </h5>
+                                                    <p style="text-indent:2em;"> 1. 优化了部分代码。</p>
+                                                    <p style="text-indent:2em;"> 2. 修改了主页(index)、名册(team)页面的多处文案。</p>
+                                                    <p style="text-indent:2em;"> 3. 写了这段没人看的东西。</p>
+                                                    <br>
+                                                    </br>
+
+                                                    <h4>
+                                                        <font color="#00FFFF" align="center">[ 2.0.0.39 ]（UTC+8 - 中国标准时间 2023年5月13日）
+                                                            版本更新日志：</font>
+                                                    </h4>
+                                                    <p></p>
+                                                    <p style="text-indent:2em;"> 1. 修复了 2 个 bug。</p>
+                                                    <p style="text-indent:2em;"> 2. 修改了 14 处文案。</p>
+                                                    <p style="text-indent:2em;"> 3. 对主页(index)、博客目录(blog)页面进行了重新排版。</p>
+                                                    <p style="text-indent:2em;"> 4.
+                                                        新增页面：明宇建筑服--服务器一周年庆典活动(blog/ServerofMY-1thAnniversaryCelebration)。</p>
+                                                    <p style="text-indent:2em;"> 5. 更改了图片文件的存放目录，解决了图片文件的混乱问题。</p>
+                                                    <p style="text-indent:2em;"> 6. 将博客文章的网址文件名格式取消数字制。</p>
+                                                    <br>
+                                                    </br>
+
+                                                    <h4>
+                                                        <font color="#00FFFF" align="center">[ 2.0.0.38 ]（UTC+8 - 中国标准时间 2023年3月15日）
+                                                            版本更新日志：</font>
+                                                    </h4>
+                                                    <p></p>
+                                                    <p style="text-indent:2em;"> 1. 优化了更新日志页面的内容。</p>
+                                                    <p style="text-indent:2em;"> 2. 修改了 17 处文案。</p>
+                                                    <p style="text-indent:2em;"> 3. 修复了 12 个 bug。</p>
+                                                    <p style="text-indent:2em;"> 4. 新增页面：导航页（sitemap）和文案总目录文档（word.txt）。</p>
+                                                    <p style="text-indent:2em;"> 5. 优化了主页（index）、名册（team）、文章《更新日志》(blog/This-Site)
+                                                        以及 1.0 版本页面的内容，并更新了更新日志主页封面图。</p>
+                                                    <p style="text-indent:2em;"> 6.
+                                                        3月4日对文章《青春，就应当在不懈奋斗中绽放绚丽之花》的累积更新。</p>
+                                                    <br>
+                                                    </br>
+
+                                                    <h4>
+                                                        <font color="#00FFFF" align="center">[ 2.0.0.37 ] —— 细节更新（UTC+8 - 中国标准时间
+                                                            2023年2月4日）
+                                                            版本更新日志：</font>
+                                                    </h4>
+                                                    <p></p>
+                                                    <h5 style="text-indent:3em;">
+                                                        <font color="#00FF7F">通知：在 Bing 输入 "Three Musketeers 战队官网"
+                                                            等关键词，即可进行索引。</font>
+                                                    </h5>
+
+                                                    <p></p>
+                                                    <h5 style="text-indent:2em;">
+                                                        <font color="#00FF7F">此后我将会对本站的更新内容以及频率等进行一定的调整，请知悉。</font>
+                                                    </h5>
+                                                    <p></p>
+                                                    <p style="text-indent:2em;"> 1. 主要对关键字和标题进行了修改。</p>
+                                                    <p style="text-indent:2em;"> 2. 优化了一些页面的显示效果。</p>
+                                                    <p style="text-indent:2em;"> 3. 纠正了一些页面的错误。</p>
+                                                    <p style="text-indent:2em;"> 4. 删除博客文章：《〈建筑大师〉MAJOR 第一季
+                                                        建筑家作品欣赏》，并将部分文案迁移至《〈建筑大师〉MAJOR
+                                                        第一季 正式拉开序幕！》。</p>
+                                                    <p style="text-indent:2em;"> 5. 新增博客文章：《明宇服务器一周年庆典》。</p>
+                                                    <p style="text-indent:2em;">6. 对多处文案进行修改，感谢 <i> LINK KAMO </i>
+                                                        位于主页的建议，同时感谢战队全体成员的赞助和我自己的技术支持。</p>
+                                                    <br>
+                                                    </br>
+
+                                                    <h4>
+                                                        <font color="#00FFFF" align="center">[ 2.0.0.36 ]（UTC+8 - 中国标准时间 2023年1月27日）
+                                                            版本更新日志：</font>
+                                                    </h4>
+                                                    <h5 style="text-indent:3em;">
+                                                        <font color="#00FF7F">《建筑大师》2023 Major 第一季 正式闭幕。</font>
+                                                    </h5>
+
+                                                    <p style="text-indent:2em;"> 1. 新增了博客页面：《建筑大师》大赛
+                                                        第一季建筑家作品欣赏（blog/20230204）。</p>
+                                                    <p style="text-indent:2em;"> 2. 对一些地方的文案进行了少许改动。</p>
+                                                    <p style="text-indent:2em;"> 3. 修复了一些已知的bug。</p>
+                                                    <p style="text-indent:2em;"> 4. 优化了页面的显示。</p>
+                                                    <p style="text-indent:2em;"> 5. 对一些页面的流畅度进行了调整。</p>
+                                                    <br>
+                                                    </br>
+
+                                                    <h4>
+                                                        <font color="#00FFFF" align="center">[ 2.0.0.35 ] —— 重大更新（UTC+8 - 中国标准时间
+                                                            2023年1月20日）
+                                                            版本更新日志：</font>
+                                                    </h4>
+                                                    <h5 style="text-indent:3em;">
+                                                        <font color="#00FF7F">欧耶~ 2023 Major好耶！</font>
+                                                    </h5>
+                                                    <p style="text-indent:2em;"> 1. 新增了博客页面：《建筑大师》大赛
+                                                        第一季开幕说明（blog/TheMasterBuilder-Season1）！</p>
+                                                    <p style="text-indent:2em;"> 2. 去除了少许博客内容页的侧边栏功能。</p>
+                                                    <p style="text-indent:2em;"> 3. 完善了博客内容页的尾页部分。</p>
+                                                    <p style="text-indent:2em;"> 4. 修复了网页标题显示错误的 bug。</p>
+                                                    <p style="text-indent:2em;"> 5. 删除了标题栏上方页面导航栏 "团队博客" 的文章显示。</p>
+                                                    <p style="text-indent:2em;"> 6. 修改了较多页面的文案。</p>
+                                                    <p style="text-indent:2em;"> 7. 优化了某些页面的排版、字符颜色（包括重置处理）。</p>
+                                                    <p style="text-indent:2em;"> 8. 修改了博客-网站更新日志页面的URL（blog/This-Site）。</p>
+                                                    <br>
+                                                    </br>
+
+                                                    <h4>
+                                                        <font color="#00FFFF" align="center">[ 2.0.0.34 ]（UTC+8 - 中国标准时间 2023年1月1日）
+                                                            版本更新日志：
+                                                        </font>
+                                                    </h4>
+                                                    <h5 style="text-indent:3em;">
+                                                        <font color="#00FF7F">"夜将寒色去，年共晓光新。"</font>
+                                                    </h5>
+                                                    <h5 style="text-indent:1em;">
+                                                        <font color="#00FF7F">三年时光列车，说过就过。三年之间，感谢陪伴。新年快乐，xdm！</font>
+                                                    </h5>
+                                                    <p style="text-indent:2em;"><b>
+                                                        <del>0. 新年特供：乐.jpg</del>
+                                                    </b></p>
+                                                    <p style="text-indent:2em;"><b>1.
+                                                        为了保证版本时间线的统一，在新的年度中将会采用新式版本号，并抛弃那些无用的文案。</b>
+                                                    </p>
+                                                    <p style="text-indent:2em;"> 2. 修复了页面上出现的一些错误。</p>
+                                                    <br>
+                                                    </br>
