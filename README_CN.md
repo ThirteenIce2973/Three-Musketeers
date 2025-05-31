@@ -1,5 +1,5 @@
 <div align="center">
- <a href="https://tmes.eu.org"><img src="https://tmes.eu.org/img/logo/logo.png" width="60%" alt="Three-Musketeers Logo" />
+ <a href="https://tmes.eu.org"><img src="https://tmes.eu.org/assets/img/logo/logo.png" width="60%" alt="Three-Musketeers Logo" />
 </a>
 </div>
 <div align="center" style="line-height: 1;">
