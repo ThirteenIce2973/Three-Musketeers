@@ -9741,27 +9741,21 @@ header.masthead {
     }
   }
   .visible-mp{
-
   display: none;
 
   }
   	.visible-pc{
-
   display: block ;
-
   }
 
   @media (max-width: 1200px) {
 
   .visible-mp{
-
   display: block !important;
 
   }
   .visible-pc{
-
   display: none;
-
   }
 ::-webkit-scrollbar-thumb {
     background: #ff0000; /* 设置滑块的颜色 */

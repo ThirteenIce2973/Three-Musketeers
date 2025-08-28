@@ -44,7 +44,7 @@ All folders except it in the project are used for 2.x .
 The folder "C++" is Rickroll (a kind of tricks).
 <br>
 
-Documents：[word.txt](txt/word.txt) || Sitemap： [sitemap.xml](sitemap.xml)
+Documents inside：[word.txt](txt/word.txt) || Sitemap： [sitemap.xml](sitemap.xml)
 
 ⭐ Click here to explore all the pages (including old versions)：[site-navigation](https://tmes.eu.org/sitemap)
 
