@@ -498,7 +498,7 @@ color: #191D3B;
 }
 .right-menu .text{
     float: left;
-    padding-top: 5px;
+   Error Occurred padding-top: 5px;
 }
 .right-menu .text span {
     display: block;
@@ -4643,9 +4643,15 @@ width: 80px;
     margin-left: -150px;
 }
 .portfolio .col4 .grid-item {
-    width: 24%;
-    margin: 0 5px 10px;
-    padding: 0;
+	@media (min-width: 1201px) {
+		width: 24%;
+		margin: 0 5px 10px;
+		padding: 0;
+	}
+	@media (max-width: 1200px){
+		width: 49%;
+		padding:15px;
+	}
 }
 .portfolio .col4 .grid-item .box-hover {
 position: absolute;

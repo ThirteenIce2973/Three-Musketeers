@@ -26,7 +26,6 @@
     <link rel="stylesheet" href="assets/css/style.css">
     <link rel="stylesheet" href="assets/css/responsive.css">
     <link rel="stylesheet" href="assets/css/loading-poem.css">
-    <link rel="stylesheet" type="text/css" href="assets/css/loader.css"/>
 </head>
 
 <body>
@@ -230,6 +229,23 @@
 <!-- offcanvas-end -->
 <!-- main-area -->
 <main>
+    <div id="loading-box">
+    <div class="loading-left-bg"></div>
+    <div class="loading-right-bg"></div>
+    <div class="spinner-box">
+        <div class="loader">
+            <div class="inner one"></div>
+            <div class="inner two"></div>
+            <div class="inner three"></div>
+        </div>
+        <div class="loading-word">
+            <p class="loading-title" id="loading-title">✨ LOADING... <span id="loading-s1"></span>% ✨</p>
+            「 <span id="loading-text">用代码表达言语魅力，让代码书写山河壮丽。</span>」
+            <br><span>加载遇到问题请尝试刷新喵 qwq</span>
+        </div>
+    </div>
+
+</div>
     <!-- slider-area -->
     <section id="home" class="slider-area slider-four fix p-relative about-imgvideo-p">
         <div class="slider-active">
@@ -383,7 +399,7 @@
                 <div class="row brand-active">
                     <div class="col-xl-1">
                         <div class="single-brand">
-                            <img src="assets/img/brand/b-logo1.png" alt="Apex">
+                            <img src="assets/img/brand/b-logo1.webp" alt="Arknights">
                         </div>
                     </div>
                     <div class="col-xl-1">
@@ -403,7 +419,7 @@
                     </div>
                     <div class="col-xl-1">
                         <div class="single-brand">
-                            <img src="assets/img/brand/b-logo5.png" alt="CS起源">
+                            <img src="assets/img/brand/b-logo5.webp" alt="Valorant">
                         </div>
                     </div>
                     <div class="col-xl-1">
@@ -480,8 +496,6 @@
                             </div>
                         </div>
                     </div>
-
-
                     <div class="grid col4">
                         <div class="grid-item a">
                             <a href="assets/img/team/team_img02.jpg" class="popup-image">
@@ -1064,23 +1078,9 @@
 </footer>
 <!-- footer-end -->
 <!-- JS here -->
-<script src="assets/js/loader.js" type="text/javascript" charset="utf-8"></script>
 <script src="assets/js/jquery.magnific-popup.min.js" defer></script>
 <script src="assets/js/wow.min.js" defer></script>
 <script src="assets/js/vendor/jquery-3.6.0.min.js"></script>
-<script type="text/javascript">
-    $(function(){
-        // trigger
-        $("#loading").click(function(){
-            //start loading animation
-            loader.loading({ className: 'ball-clip-rotate-multiple', delay: 3000});//parameterOne className,parameterTwo delayTime
-
-            //end loading animation
-            loader.close();
-        })
-        document.getElementById('loading').click();
-    })
-</script>
 <script src="assets/js/slick.min.js" defer></script>
 <script src="assets/js/js_isotope.pkgd.min.js" defer></script>
 <script src="assets/js/imagesloaded.min.js" defer></script>
