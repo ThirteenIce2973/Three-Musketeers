@@ -43,9 +43,9 @@ v1.0 和 Wix版本是本项目的一部分，收录在 "old-versions" 文件夹�
 除此之外的所有文件夹均服务于 2.x 版本。"C++" 文件夹是 Rickroll (彩蛋)。
 <br>
 
-文案：[word.txt](txt/word.txt)
+文案：[word.txt](txt/word.txt) || 网站地图： [sitemap.xml](sitemap.xml)
 
-导航页 (sitemap)： [sitemap.html](https://tmes.eu.org/sitemap) || [sitemap.txt](txt/sitemap.txt) || [sitemap.xml](sitemap.xml)
+⭐ 点此可访问本站的所有页面（包括旧版本）：[导航页-site-navigation](https://tmes.eu.org/sitemap)
 
 ### 💭 功能特性
 ✅ 支持 Bootstrap, JQuery，页面内必应搜索<br>
@@ -73,7 +73,8 @@ v1.0 和 Wix版本是本项目的一部分，收录在 "old-versions" 文件夹�
 > [!IMPORTANT]
 >  此项目作为本人初中时期初学前端的作品，其代码相当杂乱且质量低下，请酌情选用
 - fork 本项目，并使用 github pages
-- git 至本地开发，直接编辑 html css js 文件 `git clone https://github.com/ThirteenIce2973/Three-Musketeers.git`
+- git 至本地开发，直接编辑 html css js 文件，配置资源均在`assets`文件夹中。
+ `git clone https://github.com/ThirteenIce2973/Three-Musketeers.git`
 
 ### 🧭 注意事项
 - 使用了 Github Pages 和 Cloudflare 部署并加以保护。

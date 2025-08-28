@@ -44,9 +44,9 @@ All folders except it in the project are used for 2.x .
 The folder "C++" is Rickroll (a kind of tricks).
 <br>
 
-Document: [word.txt](txt/word.txt)
+Documents：[word.txt](txt/word.txt) || Sitemap： [sitemap.xml](sitemap.xml)
 
-Sitemap: [sitemap.html](https://tmes.eu.org/sitemap) || [sitemap.txt](txt/sitemap.txt) || [sitemap.xml](sitemap.xml)
+⭐ Click here to explore all the pages (including old versions)：[site-navigation](https://tmes.eu.org/sitemap)
 
 ###  💭 Function
 ✅  Bootstrap, jQuery and Bing Search are supported.<br>
@@ -74,7 +74,7 @@ In addition, some small projects published on the Internet were also referenced 
 > [!IMPORTANT]
 >  As a beginner's frontend project during my junior high school terms, the code for this project is quite messy and of low quality. Please consider using it as appropriate.
 - Fork and use GitHub Pages
-- Git to local, edit html css js directly ` git clone https://github.com/ThirteenIce2973/Three-Musketeers.git `
+- Git to local, edit html css js directly. Resources are in the folder `assets`. ` git clone https://github.com/ThirteenIce2973/Three-Musketeers.git `
 
 ###  🌏 Secondary Development / License
 - v1.0 uses [clean-blog](https://startbootstrap.com/theme/clean-blog), Start Bootstrap LLC, MIT License.
