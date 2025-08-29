@@ -228,7 +228,7 @@
 <main>
 
     <!-- breadcrumb-area -->
-    <section class="breadcrumb-area d-flex align-items-center" style="background-image:url(assets/img/bg/about-hd.jpg)">
+    <section class="breadcrumb-area d-flex align-items-center lazyload" as="image" style="background-image:url(assets/img/bg/about-hd.jpg)">
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-xl-12 col-lg-12">
@@ -265,7 +265,7 @@
         <div class="row align-items-center">
             <div class="col-lg-6 col-md-12 col-sm-12">
                 <div class="s-about-img p-relative">
-                    <img src="assets/img/gallery/about.png" alt="img">
+                    <img src="assets/img/gallery/about.png" alt="img" class="lazyload" as="image">
                 </div>
             </div>
             <div class="col-lg-6 col-md-12 col-sm-12">
@@ -743,6 +743,7 @@
 <script src="assets/js/jquery.scrollUp.min.js" defer></script>
 <script src="assets/js/jquery.meanmenu.min.js" defer></script>
 <script src="assets/js/element-in-view.js" defer></script>
+<script src="assets/js/lazysizes.js" defer></script>
 <script src="assets/js/main.js" defer></script>
 <script>
     // sitetime
