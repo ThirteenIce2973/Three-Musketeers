@@ -38,13 +38,16 @@
 | [1.0](https://tmes.eu.org/old-versions/1.0/index) | 停用 | 2022年7月的初始计划开发版本（纪念）
 | [2.x](https://tmes.eu.org)                        | 运行中  | 现代化版本，保持开发与创新
 
-v1.0 和 Wix版本是本项目的一部分，收录在 "old-versions" 文件夹。
+文件结构：
 
-除此之外的所有文件夹均服务于 2.x 版本。"C++" 文件夹是 Rickroll (彩蛋)。
+v1.0 和 Wix 版本是本项目的一部分，收录在 "old-versions"。
+
+除此之外的所有文件夹均服务于 2.x 版本。"C++" 文件夹是 Rickroll (彩蛋)，数据文件在 "assets"，"txt" 是用来装文档的。
 <br>
 
-文案：[word.txt](txt/word.txt) || 网站地图： [sitemap.xml](sitemap.xml)
+项目链接：
 
+文案：[word.txt](txt/word.txt) || 网站地图： [sitemap.xml](sitemap.xml)<br>
 ⭐ 点此可访问本站的所有页面（包括旧版本）：[导航页-navigation](https://tmes.eu.org/sitemap)
 
 ### 💭 功能特性

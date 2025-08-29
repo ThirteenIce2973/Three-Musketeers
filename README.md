@@ -38,14 +38,18 @@ History:
 | [1.0](https://tmes.eu.org/old-versions/1.0/index) | Discontinued | The initial planned development version of the project in July 2022 (souvenir)                                     
 | [2.x](https://tmes.eu.org)                        | Running | Modernized and powerful version, maintaining development and innovation
 
-1.0 and Wix Version are part of the project which located in folder "old-versions". 
+Structure:
+
+v1.0 and Wix Version are part of the project which located in folder "old-versions". 
 
 All folders except it in the project are used for 2.x .
-The folder "C++" is Rickroll (a kind of tricks).
+
+The folder "C++" is Rickroll (a kind of tricks). Necessary files are in "assets"，"txt" is for documents including logs.
 <br>
 
-Documents inside：[word.txt](txt/word.txt) || Sitemap： [sitemap.xml](sitemap.xml)
+Links:
 
+Documents inside：[word.txt](txt/word.txt) || Sitemap： [sitemap.xml](sitemap.xml)<br>
 ⭐ Click here to explore all the pages (including old versions)：[site-navigation](https://tmes.eu.org/sitemap)
 
 ###  💭 Function
