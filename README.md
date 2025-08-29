@@ -43,8 +43,7 @@ A simple blog style static website using `HTML+CSS+JS` to introduce yourself or 
 v1.0 and Wix Version are part of the project which located in folder "old-versions". 
 
 All folders except it in the project are used for 2.x .
-
-The folder "C++" is Rickroll (a kind of tricks). Necessary files are in "assets"，"txt" is for documents including logs.
+The folder "C++" is Rickroll (a kind of tricks).
 <br>
 
 #### Links:
