@@ -75,7 +75,7 @@ In addition, some small projects published on the Internet were also referenced 
 
 ###  🛂 Usage
 > [!IMPORTANT]
->  As a beginner's frontend project during my junior high school terms, the code for this project is quite messy and of low quality. Please consider using it as appropriate.
+>  As a beginner's frontend project during my junior high school terms, the code for this project is quite messy and of low quality. Please consider using it as appropriate directly.
 - Fork and use GitHub Pages
 - Git to local, edit html css js directly. Resources are in the folder `assets`. ` git clone https://github.com/ThirteenIce2973/Three-Musketeers.git `
 
